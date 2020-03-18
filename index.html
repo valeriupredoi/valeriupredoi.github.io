@@ -5,13 +5,15 @@ Author: <a href="https://www.os-templates.com/">OS Templates</a>
 Author URI: https://www.os-templates.com/
 Licence: Free to use under our free template licence terms
 Licence URI: https://www.os-templates.com/template-terms
+
+<link href="./layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+
 -->
 <html>
 <head>
 <title>COVID-19 Exponential Infection Curves and Parameters</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<link href="./layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 <script src="./layout/scripts/jquery.min.js"></script>
 <script>$(function(){$("#esmval_header").load("./include/header.html");});</script>
 <script>$(function(){$("#esmval_footer").load("./include/footer.html");});</script>
@@ -60,80 +62,136 @@ Licence URI: https://www.os-templates.com/template-terms
             we establish strict social distancing, enforced by law if needed.<p>
       <div id="gallery">
         <figure>
-          <a href="./images/COVID-19_LIN_UK-GOV.png"><img src="./images/COVID-19_LIN_UK-GOV.png"
-          title="Infection spread in the UK, March 2020." width=75%></a></li>
-          <figcaption>Infection spread in the UK with official numbers from gov.uk, March 2020.</figcaption>
+          <ul class="nospace clear">
+            <a href="./images/COVID-19_LIN_UK-GOV.png"><img src="./images/COVID-19_LIN_UK-GOV.png"
+            title="Infection spread in the UK, March 2020." width=50%></a></li>
+            <figcaption>Figure 0</figcaption>
+            <figcaption>Infection spread in the UK with official</figcaption>
+            <figcaption>numbers from gov.uk, March 2020.</figcaption>
+          <ul>
+        <figure>
+      <div>
+      <h4>Flattening the curve</h4>
+        <p> There a few examples already that show that the combination of better testing and restricted
+            social interactions contribute to bringing down the acceleration of the spread: Figure 1 shows
+            the start of two different outbreaks - Italy and UK, shifted in time since Italy's outbreak started
+            earlier in February: at the start the two outbreaks differ in spread rate (and cases doubling time)
+            but comparing the two rates is not relevant due to different biases (more or less testing, different
+            population densities etc).</p>
+
+        <p> What matters is that Italy, within the past month, has introduced a set of strict control measures
+            and these measures are now visible in the spread rate: a decrease of 40% in the spread rate.
+            The UK is only now (18 March) starting to introduce such measures and the effect is left to be seen.
+            Just how important such a decrease of the spread rate is? Current numbers in Italy are ~32,000; at
+            its initial rate that would mean in a week this number rises to ~310,000 resulting in 10,000 more deaths;
+            a constant rate of 0.19 will result in a total of 120,000 cases in a week, with a total of 2,000 more
+            deaths, factor five less.</p>
+
+        <p> Probably the most evident case of a (rather strong) quarantine can be seen in China in Figure 3:
+            the Chinese government has instituted it on January 23 and effects can be seen as early as January 27.
+      <div id="gallery">
+        <figure>
+          <ul class="nospace clear">
+            <div class="row">
+              <div class="column">
+                <a href="./images/COV19_LIN_START_9-03-2020_UK-Italy.png"><img src="./images/COV19_LIN_START_9-03-2020_UK-Italy.png"
+                title="Comparison UK Italy." width=50%></a></li>
+                <figcaption>Figure 1</figcaption>
+                <figcaption>Comparison of infection starts for Italy (February) and UK (March).</figcaption>
+                <figcaption>Italy shows a faster infectious spread at a rate of 0.32 day-1,</figcaption>
+                <figcaption>as compared to the UK's 0.23 day-1.</figcaption>
+              <div>
+              <div class="column">
+                <a href="./images/COVID-19_LIN_Italy.png"><img src="./images/COVID-19_LIN_Italy.png"
+                title="Infection spread in Italy, March 2020." width=50%></a></li>
+                <figcaption>Figure 2</figcaption>
+                <figcaption>Current infectious spread in Italy, March 2020.</figcaption>
+                <figcaption>The infection rate decreased to 0.19 and cases</figcaption>
+                <figcaption>doubling time has decreased to 3.7 days.</figcaption>
+              </div>
+              <div class="column">
+                <a href="./images/COV19_LIN_START_2-02-2020_China.png"><img src="./images/COV19_LIN_START_2-02-2020_China.png"
+                title="Infection spread in the UK, March 2020." width=50%></a></li>
+                <figcaption>Figure 3</figcaption>
+                <figcaption>Confirmed cases for China a few days before and after 23 January quarantine.</figcaption>
+                <figcaption>About 5 days after the quarantine institution we notice</figcaption>
+                <figcaption>a slower infectious spread at a rate of 0.23 day-1,</figcaption>
+                <figcaption>as compared to the initial 0.41 day-1.</figcaption>
+              </div>
+            </div>
+          </ul>
         <figure>
       <div>
       <h4>Situation around the world</h4>
         <p> Spread within a select number of countries.<p>
+
       <div id="gallery">
         <figure>
           <ul class="nospace clear">
             <div class="row">
               <div class="column">
                 <a href="./images/COVID-19_LIN_UK-GOV.png"><img src="./images/COVID-19_LIN_UK-GOV.png"
-                title="Infection spread in the UK, March 2020." width=150%></a></li>
+                title="Infection spread in the UK, March 2020." width=50%></a></li>
                 <figcaption>Infection spread in the UK (gov.uk), March 2020.</figcaption>
               </div>
               <div class="column">
                 <a href="./images/COVID-19_LIN_Belgium.png"><img src="./images/COVID-19_LIN_Belgium.png"
-                title="Infection spread in Belgium, March 2020." width=150%></a></li>
+                title="Infection spread in Belgium, March 2020." width=50%></a></li>
                 <figcaption>Infection spread in Belgium, March 2020.</figcaption>
               </div>
               <div class="column">
                 <a href="./images/COVID-19_LIN_Bulgaria.png"><img src="./images/COVID-19_LIN_Bulgaria.png"
-                title="Infection spread in Bulgaria, March 2020." width=150%></a></li>
+                title="Infection spread in Bulgaria, March 2020." width=50%></a></li>
                 <figcaption>Infection spread in Bulgaria, March 2020.</figcaption>
               </div>
               <div class="column">
                 <a href="./images/COVID-19_LIN_Canada.png"><img src="./images/COVID-19_LIN_Canada.png"
-                title="Infection spread in Canada, March 2020." width=150%></a></li>
+                title="Infection spread in Canada, March 2020." width=50%></a></li>
                 <figcaption>Infection spread in Canada, March 2020.</figcaption>
               </div>
               <div class="column">
                 <a href="./images/COVID-19_LIN_France.png"><img src="./images/COVID-19_LIN_France.png"
-                title="Infection spread in France, March 2020." width=150%></a></li>
+                title="Infection spread in France, March 2020." width=50%></a></li>
                 <figcaption>Infection spread in France, March 2020.</figcaption>
               </div>
               <div class="column">
                 <a href="./images/COVID-19_LIN_Germany.png"><img src="./images/COVID-19_LIN_Germany.png"
-                title="Infection spread in Germany, March 2020." width=150%></a></li>
+                title="Infection spread in Germany, March 2020." width=50%></a></li>
                 <figcaption>Infection spread in Germany, March 2020.</figcaption>
               </div>
               <div class="column">
                 <a href="./images/COVID-19_LIN_Ireland.png"><img src="./images/COVID-19_LIN_Ireland.png"
-                title="Infection spread in Ireland, March 2020." width=150%></a></li>
+                title="Infection spread in Ireland, March 2020." width=50%></a></li>
                 <figcaption>Infection spread in Ireland, March 2020.</figcaption>
               </div>
               <div class="column">
                 <a href="./images/COVID-19_LIN_Italy.png"><img src="./images/COVID-19_LIN_Italy.png"
-                title="Infection spread in Italy, March 2020." width=150%></a></li>
+                title="Infection spread in Italy, March 2020." width=50%></a></li>
                 <figcaption>Infection spread in Italy, March 2020.</figcaption>
               </div>
               <div class="column">
                 <a href="./images/COVID-19_LIN_Netherlands.png"><img src="./images/COVID-19_LIN_Netherlands.png"
-                title="Infection spread in Netherlands, March 2020." width=150%></a></li>
+                title="Infection spread in Netherlands, March 2020." width=50%></a></li>
                 <figcaption>Infection spread in Netherlands, March 2020.</figcaption>
               </div>
               <div class="column">
                 <a href="./images/COVID-19_LIN_Romania.png"><img src="./images/COVID-19_LIN_Romania.png"
-                title="Infection spread in Romania, March 2020." width=150%></a></li>
+                title="Infection spread in Romania, March 2020." width=50%></a></li>
                 <figcaption>Infection spread in Romania, March 2020.</figcaption>
               </div>
               <div class="column">
                 <a href="./images/COVID-19_LIN_Slovakia.png"><img src="./images/COVID-19_LIN_Slovakia.png"
-                title="Infection spread in Slovakia, March 2020." width=150%></a></li>
+                title="Infection spread in Slovakia, March 2020." width=50%></a></li>
                 <figcaption>Infection spread in Slovakia, March 2020.</figcaption>
               </div>
               <div class="column">
                 <a href="./images/COVID-19_LIN_Spain.png"><img src="./images/COVID-19_LIN_Spain.png"
-                title="Infection spread in Spain, March 2020." width=150%></a></li>
+                title="Infection spread in Spain, March 2020." width=50%></a></li>
                 <figcaption>Infection spread in Spain, March 2020.</figcaption>
               </div>
               <div class="column">
                 <a href="./images/COVID-19_LIN_US.png"><img src="./images/COVID-19_LIN_US.png"
-                title="Infection spread in the United States, March 2020." width=150%></a></li>
+                title="Infection spread in the United States, March 2020." width=50%></a></li>
                 <figcaption>Infection spread in the United States, March 2020.</figcaption>
               </div>
             </div> 
@@ -148,12 +206,14 @@ Licence URI: https://www.os-templates.com/template-terms
       <div id="gallery">
         <figure>
           <a href="./images/Histogram_Doubling_Time.png"><img src="./images/Histogram_Doubling_Time.png"
-          title="Histogram of cases doubling time (days)." width=75%></a></li>
+          title="Histogram of cases doubling time (days)." width=50%></a></li>
           <figcaption>Histogram of cases doubling time (days; 12 representative countries).</figcaption>
         <figure>
+      <div>
+      <div id="gallery">
         <figure>
           <a href="./images/Histogram_Basic_Reproductive_Number.png"><img src="./images/Histogram_Basic_Reproductive_Number.png"
-          title="Histogram of cases doubling time (days)." width=75%></a></li>
+          title="Histogram of cases doubling time (days)." width=50%></a></li>
           <figcaption>Histogram of basic reproductive number (12 representative countries).</figcaption>
         <figure>
       <div>
