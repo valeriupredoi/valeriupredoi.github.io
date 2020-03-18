@@ -1,1 +1,149 @@
-Hello World
+<!DOCTYPE html>
+<!--
+Template Name: Landon
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+-->
+<html>
+<head>
+<title>COVID-19 Exponential Infection Curves and Parameters</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="./layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+<script src="./layout/scripts/jquery.min.js"></script>
+<script>$(function(){$("#esmval_header").load("./include/header.html");});</script>
+<script>$(function(){$("#esmval_footer").load("./include/footer.html");});</script>
+</head>
+<body id="top">
+
+<div id="esmval_header"></div>
+
+  <div class="wrapper row2">
+    <div id="breadcrumb" class="clear">
+      <!-- ################################################################################################ -->
+      <ul>
+        <li>COVID-19 Exponential Infection Curves per Country and Parameters</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="wrapper row3">
+  <main class="container clear">
+    <div class="content">
+      <h3>Exponential Spread of COVID-19</h3>
+        <p>Current results for linear fit for logarithmic data of daily number of cases and daily number of
+           deaths per country. Almost every coutry is undergoing an expoenential infection spread phase,
+           characterised by the rate b and time coordinate t (time exponential);
+           in most cases, the exponential rates b are 0.25-0.3 day-1, yieling population (cases, deaths)
+           doubling times of 2-3 days. The results are affected by poor testing in different areas and countries,
+           and by driver regions (like Lombardia in Italy or London in UK, ultimately assigning a lot of
+           statistical weight to these parts of the country, given overwheling numbers).</p>
+
+      <h3>GitHub Repository</h3>
+      Data, data pointers to original data sources, and instructions can be found in <a href="https://github.com/valeriupredoi/COVID-19_LINEAR">my GitHub repo</a>.
+
+      <h3>Exponential Infection Curves</h3>
+      <div id="gallery">
+        <figure>
+          <ul class="nospace clear">
+            <div class="row">
+              <div class="column">
+                <a href="./images/COVID-19_LIN_UK.png"><img src="./images/COVID-19_LIN_UK.png"
+                title="Infection spread in the UK, March 2020." width=150%></a></li>
+                <figcaption>Infection spread in the UK, March 2020.</figcaption>
+              </div>
+              <div class="column">
+                <a href="./images/COVID-19_LIN_Belgium.png"><img src="./images/COVID-19_LIN_Belgium.png"
+                title="Infection spread in Belgium, March 2020." width=150%></a></li>
+                <figcaption>Infection spread in Belgium, March 2020.</figcaption>
+              </div>
+              <div class="column">
+                <a href="./images/COVID-19_LIN_Bulgaria.png"><img src="./images/COVID-19_LIN_Bulgaria.png"
+                title="Infection spread in Bulgaria, March 2020." width=150%></a></li>
+                <figcaption>Infection spread in Bulgaria, March 2020.</figcaption>
+              </div>
+              <div class="column">
+                <a href="./images/COVID-19_LIN_Canada.png"><img src="./images/COVID-19_LIN_Canada.png"
+                title="Infection spread in Canada, March 2020." width=150%></a></li>
+                <figcaption>Infection spread in Canada, March 2020.</figcaption>
+              </div>
+              <div class="column">
+                <a href="./images/COVID-19_LIN_France.png"><img src="./images/COVID-19_LIN_France.png"
+                title="Infection spread in France, March 2020." width=150%></a></li>
+                <figcaption>Infection spread in France, March 2020.</figcaption>
+              </div>
+              <div class="column">
+                <a href="./images/COVID-19_LIN_Germany.png"><img src="./images/COVID-19_LIN_Germany.png"
+                title="Infection spread in Germany, March 2020." width=150%></a></li>
+                <figcaption>Infection spread in Germany, March 2020.</figcaption>
+              </div>
+              <div class="column">
+                <a href="./images/COVID-19_LIN_Ireland.png"><img src="./images/COVID-19_LIN_Ireland.png"
+                title="Infection spread in Ireland, March 2020." width=150%></a></li>
+                <figcaption>Infection spread in Ireland, March 2020.</figcaption>
+              </div>
+              <div class="column">
+                <a href="./images/COVID-19_LIN_Italy.png"><img src="./images/COVID-19_LIN_Italy.png"
+                title="Infection spread in Italy, March 2020." width=150%></a></li>
+                <figcaption>Infection spread in Italy, March 2020.</figcaption>
+              </div>
+              <div class="column">
+                <a href="./images/COVID-19_LIN_Netherlands.png"><img src="./images/COVID-19_LIN_Netherlands.png"
+                title="Infection spread in Netherlands, March 2020." width=150%></a></li>
+                <figcaption>Infection spread in Netherlands, March 2020.</figcaption>
+              </div>
+              <div class="column">
+                <a href="./images/COVID-19_LIN_Romania.png"><img src="./images/COVID-19_LIN_Romania.png"
+                title="Infection spread in Romania, March 2020." width=150%></a></li>
+                <figcaption>Infection spread in Romania, March 2020.</figcaption>
+              </div>
+              <div class="column">
+                <a href="./images/COVID-19_LIN_Slovakia.png"><img src="./images/COVID-19_LIN_Slovakia.png"
+                title="Infection spread in Slovakia, March 2020." width=150%></a></li>
+                <figcaption>Infection spread in Slovakia, March 2020.</figcaption>
+              </div>
+              <div class="column">
+                <a href="./images/COVID-19_LIN_Spain.png"><img src="./images/COVID-19_LIN_Spain.png"
+                title="Infection spread in Spain, March 2020." width=150%></a></li>
+                <figcaption>Infection spread in Spain, March 2020.</figcaption>
+              </div>
+              <div class="column">
+                <a href="./images/COVID-19_LIN_US.png"><img src="./images/COVID-19_LIN_US.png"
+                title="Infection spread in the United States, March 2020." width=150%></a></li>
+                <figcaption>Infection spread in the United States, March 2020.</figcaption>
+              </div>
+            </div> 
+          </ul>
+        </figure>
+      </div>
+
+      <nav class="pagination">
+        <ul>
+          <li><a href="">&laquo; Previous</a></li>
+          <li class="current"><strong>1</strong></li>
+          <li><a href="./gallery2.html">2</a></li>
+          <li><a href="./gallery2.html">Next &raquo;</a></li>
+        </ul>
+      </nav>
+
+    </div>
+    <div class="clear"></div>
+  </main>
+</div>
+
+<div id="esmval_footer"></id>
+
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="./layout/scripts/jquery.min.js"></script>
+<script src="./layout/scripts/jquery.backtotop.js"></script>
+<script src="./layout/scripts/jquery.mobilemenu.js"></script>
+<!-- IE9 Placeholder Support -->
+<script src="./layout/scripts/jquery.placeholder.min.js"></script>
+<!-- / IE9 Placeholder Support -->
+</body>
+</html>
+
