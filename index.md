@@ -31,7 +31,7 @@ D(t) = D0exp(mt)
 ```
 where `m` is the growth rate for deaths and `D0` is an initial number.
 
-## Doubling times and daily increments
+### Doubling times and daily increments
 
 Line-fitting `ln(N) = f(t)` and `ln(D) = f(t)` will give us rates `b` and `m`, and
 will allow us to estimate the doubling times for reported cases and deaths:
