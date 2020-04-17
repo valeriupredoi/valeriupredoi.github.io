@@ -77,41 +77,23 @@
               <article class="markdown-body entry-content" itemprop="text" id="grip-content">
                 <h1>
 <a id="user-content-adaptave-linear-fit-to-covid-19-data-methods-and-results" class="anchor" href="#adaptave-linear-fit-to-covid-19-data-methods-and-results" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Adaptave Linear Fit to Covid-19 Data: Methods and Results</h1>
-<h1>
-<a id="user-content-report-1" class="anchor" href="#report-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Report 1</h1>
-<table>
-<thead>
-<tr>
-<th align="center">Author and contact</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">Dr Valeriu Predoi</td>
-<td align="center">11/04/2020</td>
-</tr>
-<tr>
-<td align="center"><a href="mailto:valeriu.predoi@ncas.ac.uk">valeriu.predoi@ncas.ac.uk</a></td>
-<td align="center"></td>
-</tr>
-</tbody>
-</table>
-<h1>
-<a id="user-content-abstract" class="anchor" href="#abstract" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Abstract</h1>
+<h2>
+<a id="user-content-summary" class="anchor" href="#summary" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Summary</h2>
 <p>We use a simple mathematical model that fits both reported number of cases and the number
-of deaths to exponential curves; we determine daily rates of growth for these quantities and
-attempt to estimate the actual number of infected cases by assuming a 14 days delay
+of deaths to a set of exponential curves; we determine daily rates of growth for these quantities and
+attempt to estimate the actual number of infected cases by assuming a 14-day delay
 between infection and death; we use the deaths numbers, its
 exponential model and the 14 days delay to estimate the actual numbers of cases. We estimate the actual numbers of cases
 for a set of fatality fractions M (between 0.5% and 2%) and compare results with a number of
 reports (Imperial College London, Georg-August University) and actual cohort studies. We analyze data
-from a number of countries and we find that the reported numbers of cases are highly underreported; for
-our country sample we find that, on average, only 13.6% (std.dev. 11.6%) of actual cases have been reported (April 11).</p>
-<h1>
-<a id="user-content-model" class="anchor" href="#model" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Model</h1>
+from a number of countries and we find that the reported number of cases are highly underreported; for
+our country sample we find that, on average, only 13.6% (std.dev. 11.6%) of actual cases have been reported (April 11).
+We also perform a case study for the UK, finding that the free community transmission has started in the first week
+of February, 2020; we also analyze the effect of the lockdown and compare numbers before, and three weeks in the lockdown.</p>
 <h2>
-<a id="user-content-linear-fit" class="anchor" href="#linear-fit" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Linear Fit</h2>
+<a id="user-content-model" class="anchor" href="#model" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Model</h2>
+<h3>
+<a id="user-content-linear-fit" class="anchor" href="#linear-fit" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Linear Fit</h3>
 <p>We assume the following model for the cumulative number of reported cases and deaths:
 at any given time <code>t</code> (measured in days), the cumulative number of cases will be:</p>
 <pre><code>N(t) = N0exp(bt)
@@ -170,8 +152,8 @@ over time (see next section).</p>
 <p>We can now express the basic reproductive number R in terms of reported cases doubling time:</p>
 <pre><code>R = exp(ln2/double_time_cases) - 1
 </code></pre>
-<h2>
-<a id="user-content-time-evolution-of-rates" class="anchor" href="#time-evolution-of-rates" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Time evolution of rates</h2>
+<h3>
+<a id="user-content-time-evolution-of-rates" class="anchor" href="#time-evolution-of-rates" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Time evolution of rates</h3>
 <p>Growth rates <code>b</code> and <code>m</code> do not stay constant over longer (&gt;10-12 days) periods of time,
 it is noticed they are gradually decreasing with time (observed decrease by 50% every 10 days).
 Therefore, the linear fits are not performed on all data points from the start of the epidemic,
@@ -182,8 +164,8 @@ fit for the last 5 days is better than the overall data fit (compare coefficient
 R) and if the coefficient of determination for the last 5 days fit is &gt; 0.98 then we chose
 the linear parameters for the last 5 days fir (most of the cases show that the last 5 days fit
 is generally better; 0.98 means a very high quality fit).</p>
-<h2>
-<a id="user-content-estimating-the-actual-number-of-cases" class="anchor" href="#estimating-the-actual-number-of-cases" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Estimating the actual number of cases</h2>
+<h3>
+<a id="user-content-estimating-the-actual-number-of-cases" class="anchor" href="#estimating-the-actual-number-of-cases" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Estimating the actual number of cases</h3>
 <p>The reported number of cases is unreliable data, so it is desired to estimate the actual number
 of existing cases at any given day (the analysis performed daily, so the actual number of cases
 is given at the <strong>today</strong> day).</p>
@@ -219,10 +201,10 @@ set of <code>M = [0.5, 1, 2, 3 and 4]%</code> only delays of &gt;= 14 days are a
 excludes unrealistic delays of &lt; 2 days.</p>
 <p>Further we compute country current cases population percentages as <code>C(today)/POP</code> and testing percentages as
 <code>Reported cases/C(today)</code>.</p>
-<h1>
-<a id="user-content-results" class="anchor" href="#results" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Results</h1>
 <h2>
-<a id="user-content-visualization" class="anchor" href="#visualization" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Visualization</h2>
+<a id="user-content-worldwide-analysis" class="anchor" href="#worldwide-analysis" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Worldwide analysis</h2>
+<h3>
+<a id="user-content-visualization" class="anchor" href="#visualization" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Visualization</h3>
 <p>Maps are courtesy of <a href="https://github.com/werner17/Covis?fbclid=IwAR19xnSaq57hdbWOX0ab-G1FVf2ScgFUd-iRla-1kfASwwhFZTF9k5KEnCQ">datawrapper</a> and use data from this daily updated <a href="https://github.com/valeriupredoi/COVID-19_LINEAR/blob/master/country_tables">tables</a>. Map source can be found <a href="https://github.com/werner17/Covis/blob/master/datawrapper/README.md?fbclid=IwAR3lIkoSgOFhVhSJYFd01FToppwhDvcHpVb87Tvl4vQaeaTJXmFS1TeEfgQ">here</a></p>
 <ul>
 <li>Reported cases doubling time
@@ -242,10 +224,10 @@ excludes unrealistic delays of &lt; 2 days.</p>
 <a href="https://datawrapper.dwcdn.net/dUzze" rel="nofollow">Interactive Map</a>
 </li>
 </ul>
-<h2>
-<a id="user-content-upper-bound-on-mortality-israel" class="anchor" href="#upper-bound-on-mortality-israel" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Upper bound on mortality: Israel</h2>
+<h3>
+<a id="user-content-upper-bound-on-mortality-israel" class="anchor" href="#upper-bound-on-mortality-israel" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Upper bound on mortality: Israel</h3>
 <p>Israel is the only country that has solid testing results (16,000+ TpM as of April 10)
-and has sufficiently good data for us to place an upper limit on the mortality mortality there: M=2%</p>
+and has sufficiently good data for us to place an upper limit on the mortality there: M=2% (upper limit).</p>
 <table>
 <thead>
 <tr>
@@ -260,8 +242,8 @@ and has sufficiently good data for us to place an upper limit on the mortality m
 </tr>
 </tbody>
 </table>
-<h2>
-<a id="user-content-representative-countries" class="anchor" href="#representative-countries" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Representative countries</h2>
+<h3>
+<a id="user-content-representative-countries" class="anchor" href="#representative-countries" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Representative countries</h3>
 <p>We compare results obtained from simulating the actual number of cases for different countries giving
 percentages of infect out of total country population for different mortality fraction scenarios
 (0.5, 1 and 2% respecitively). Comparison is made with the Imperial College London report from 30/03/2020,
@@ -299,8 +281,8 @@ to a 95% confidence interval) for each mortality M.</li>
 and projected rate 0.5 x current death rate or current death rate if current death rate &lt; 0.05 (or 5%)</li>
 <li>For 31 March data we give in <code>[ ]</code> the values obtained for a 10-day and 20-day delay</li>
 </ul>
-<h3>
-<a id="user-content-spain" class="anchor" href="#spain" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Spain</h3>
+<h4>
+<a id="user-content-spain" class="anchor" href="#spain" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Spain</h4>
 <table>
 <thead>
 <tr>
@@ -376,8 +358,8 @@ and projected rate 0.5 x current death rate or current death rate if current dea
 <li>Population percentage %pop IC: 15% ci=[3.7%-41%] implies underestimation vs IC, probably M=0.5[-1]% best overlap.</li>
 <li>Population percentage %pop GA: 12.24% implies slight underestimation vs GA, probably M=0.5% for longer delays 14-20 days.</li>
 </ul>
-<h2>
-<a id="user-content-israel" class="anchor" href="#israel" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Israel</h2>
+<h4>
+<a id="user-content-israel" class="anchor" href="#israel" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Israel</h4>
 <table>
 <thead>
 <tr>
@@ -423,8 +405,8 @@ and projected rate 0.5 x current death rate or current death rate if current dea
 </tr>
 </tbody>
 </table>
-<h3>
-<a id="user-content-austria" class="anchor" href="#austria" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Austria</h3>
+<h4>
+<a id="user-content-austria" class="anchor" href="#austria" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Austria</h4>
 <table>
 <thead>
 <tr>
@@ -475,8 +457,8 @@ and projected rate 0.5 x current death rate or current death rate if current dea
 <li>Population percentage %pop GA: 0.94% implies M=0.5% and longer delays ~16 days.</li>
 <li>Austrian <a href="https://www.bloomberg.com/news/articles/2020-04-10/austrian-study-shows-coronavirus-cases-more-than-3-times-higher?fbclid=IwAR0sUvTL38gYPHWMn0fqHkZRfrs9WnK7On0uH8hLA-dVs3qXhAd1bcOSq7g" rel="nofollow">study</a> suggests 0.32% of total population infected around April 4-5, meaning exactly M=2%</li>
 </ul>
-<h3>
-<a id="user-content-france" class="anchor" href="#france" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>France</h3>
+<h4>
+<a id="user-content-france" class="anchor" href="#france" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>France</h4>
 <table>
 <thead>
 <tr>
@@ -552,8 +534,8 @@ and projected rate 0.5 x current death rate or current death rate if current dea
 <li>Population percentage %pop IC: 3% ci=[1.1%-7.4%] implies M=0.5[-1]%.</li>
 <li>Population percentage %pop GA: 3.09% implies M=0.5% and longer delays ~16 days.</li>
 </ul>
-<h3>
-<a id="user-content-germany" class="anchor" href="#germany" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Germany</h3>
+<h4>
+<a id="user-content-germany" class="anchor" href="#germany" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Germany</h4>
 <table>
 <thead>
 <tr>
@@ -617,8 +599,8 @@ and projected rate 0.5 x current death rate or current death rate if current dea
 <li>Population percentage %pop GA: 0.55% implies M=0.5% for shorter dealys or M=1% for longer delays.</li>
 <li>Heinsberg <a href="https://www.tagesschau.de/regional/nordrheinwestfalen/corona-studie-heinsberg-101.html" rel="nofollow">study</a> suggests a mortality M=0.37%, in line with my estimate and IC (if M=0.5%)</li>
 </ul>
-<h3>
-<a id="user-content-denmark" class="anchor" href="#denmark" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Denmark</h3>
+<h4>
+<a id="user-content-denmark" class="anchor" href="#denmark" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Denmark</h4>
 <table>
 <thead>
 <tr>
@@ -681,8 +663,8 @@ and projected rate 0.5 x current death rate or current death rate if current dea
 <li>Population percentage %pop IC: 1.1% ci=[0.40%-3.1%] implies M=1[-2]%.</li>
 <li>Population percentage %pop GA: 0.41% implies M=2%.</li>
 </ul>
-<h3>
-<a id="user-content-italy" class="anchor" href="#italy" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Italy</h3>
+<h4>
+<a id="user-content-italy" class="anchor" href="#italy" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Italy</h4>
 <table>
 <thead>
 <tr>
@@ -758,8 +740,8 @@ and projected rate 0.5 x current death rate or current death rate if current dea
 <li>Population percentage %pop IC: 9.8% ci=[3.2%-26%] implies underestimation vs IC and M=0.5[-1]%.</li>
 <li>Population percentage %pop GA: 5% implies M=0.5% or understimated M=1%.</li>
 </ul>
-<h3>
-<a id="user-content-switzerland" class="anchor" href="#switzerland" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Switzerland</h3>
+<h4>
+<a id="user-content-switzerland" class="anchor" href="#switzerland" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Switzerland</h4>
 <table>
 <thead>
 <tr>
@@ -822,8 +804,8 @@ and projected rate 0.5 x current death rate or current death rate if current dea
 <li>Population percentage %pop IC: 3.1% ci=[1.3%-7.6%] implies M=0.5[-1]%.</li>
 <li>Population percentage %pop GA: 2.72% implies M=0.5%.</li>
 </ul>
-<h3>
-<a id="user-content-norway" class="anchor" href="#norway" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Norway</h3>
+<h4>
+<a id="user-content-norway" class="anchor" href="#norway" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Norway</h4>
 <table>
 <thead>
 <tr>
@@ -873,8 +855,8 @@ and projected rate 0.5 x current death rate or current death rate if current dea
 <li>Population percentage %pop IC: 0.41% ci=[0.09%-1.2%] implies M=0.5[-1-2]%.</li>
 <li>Population percentage %pop GA: 0.23% implies M=1%.</li>
 </ul>
-<h3>
-<a id="user-content-belgium" class="anchor" href="#belgium" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Belgium</h3>
+<h4>
+<a id="user-content-belgium" class="anchor" href="#belgium" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Belgium</h4>
 <table>
 <thead>
 <tr>
@@ -937,8 +919,8 @@ and projected rate 0.5 x current death rate or current death rate if current dea
 <li>Population percentage %pop IC: 3.7%i ci=[1.3%-9.7%] implies M=0.5[-1-2]%.</li>
 <li>Population percentage %pop GA: 5.5% implies M=0.5%.</li>
 </ul>
-<h3>
-<a id="user-content-sweden" class="anchor" href="#sweden" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Sweden</h3>
+<h4>
+<a id="user-content-sweden" class="anchor" href="#sweden" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Sweden</h4>
 <table>
 <thead>
 <tr>
@@ -1001,8 +983,8 @@ and projected rate 0.5 x current death rate or current death rate if current dea
 <li>Population percentage %pop IC: 3.1% ci=[0.85%-8.4%] implies underestimation vs IC and M=0.5[-1]%.</li>
 <li>Population percentage %pop GA: 0.58% implies M=2%.</li>
 </ul>
-<h3>
-<a id="user-content-united-kingdom" class="anchor" href="#united-kingdom" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>United Kingdom</h3>
+<h4>
+<a id="user-content-united-kingdom" class="anchor" href="#united-kingdom" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>United Kingdom</h4>
 <table>
 <thead>
 <tr>
@@ -1052,8 +1034,8 @@ and projected rate 0.5 x current death rate or current death rate if current dea
 <li>Population percentage %pop IC: 2.7% ci=[1.2%-5.4%] implies M=0.5[-1]%.</li>
 <li>Population percentage %pop GA: 3.15% implies M=0.5% for longer delays ~17 days.</li>
 </ul>
-<h3>
-<a id="user-content-romania" class="anchor" href="#romania" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Romania</h3>
+<h4>
+<a id="user-content-romania" class="anchor" href="#romania" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Romania</h4>
 <table>
 <thead>
 <tr>
@@ -1102,8 +1084,8 @@ and projected rate 0.5 x current death rate or current death rate if current dea
 <ul>
 <li>Population percentage %pop GA: 0.48% implies M=0.5% for short ~10 days delays or M=1% for ~16day days delays.</li>
 </ul>
-<h2>
-<a id="user-content-evolution-of-doubling-time-with-time" class="anchor" href="#evolution-of-doubling-time-with-time" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Evolution of doubling time with time</h2>
+<h3>
+<a id="user-content-evolution-of-doubling-time-with-time" class="anchor" href="#evolution-of-doubling-time-with-time" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Evolution of doubling time with time</h3>
 <p>Here we compute an <code>R0</code> that is obtained from the doubling time and multiplied by 10 days
 (the average infectious period).</p>
 <table>
@@ -1149,11 +1131,12 @@ and projected rate 0.5 x current death rate or current death rate if current dea
 </tr>
 </tbody>
 </table>
-<h1>
-<a id="user-content-conclusions" class="anchor" href="#conclusions" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Conclusions</h1>
+<h3>
+<a id="user-content-worldwide-analysis-conclusions" class="anchor" href="#worldwide-analysis-conclusions" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Worldwide analysis: conclusions</h3>
 <ul>
 <li>Viral transmission is very high: <code>R0</code> of up to 5-6 in mid-March (considering an infectious phase of 10 days,
-could be even higher if infectious phase is longer); definite decrease in transmission due to social distancing,
+could be even higher if infectious phase is longer, numbers base on reported cases in hospitals);
+definite decrease in transmission due to social distancing,
 of ~70% in the three weeks between 16/03/2020 and 05/04/2020</li>
 <li>Countries underreport cases in very high proportions; underreporting decreases with
 the increase of number of tests per million; the average reporting for the 13 representative countries
@@ -1162,92 +1145,10 @@ average, that 86% of actual infections may go unreported;</li>
 <li>Average mortality of 0.5-1% (possibly higher to 2% in certain countries, defintely not higher than 2%,
 considering reference countries we looked at).</li>
 </ul>
-<h1>
-<a id="user-content-resources" class="anchor" href="#resources" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Resources</h1>
-<p>Current repository resources:</p>
-<ul>
-<li>Country <a href="https://github.com/valeriupredoi/COVID-19_LINEAR/blob/master/country_tables">tables</a>
-</li>
-<li>Current country <a href="https://github.com/valeriupredoi/COVID-19_LINEAR/blob/master/country_plots">plots</a>
-</li>
-<li>March-2020 <a href="https://github.com/valeriupredoi/COVID-19_LINEAR/blob/master/anciliaries/country_plots_03-2020">plots</a>
-</li>
-<li>March-2020 <a href="https://github.com/valeriupredoi/COVID-19_LINEAR/blob/master/anciliaries/Situtaion_Report_March-2020.md">situation report</a>
-</li>
-</ul>
-<h1>
-<a id="user-content-software" class="anchor" href="#software" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Software</h1>
-<ul>
-<li><a href="https://github.com/valeriupredoi/COVID-19_LINEAR/blob/master/cov_model">Package</a></li>
-<li>Usage example: <code>python cov_model/cov_lin_wrapper.py --countries COUNTRIES --regions REGIONS --month MONTH</code>
-</li>
-<li>Command line args:
-<ul>
-<li>
-<code>--countries</code>: list of comma-sep strings or file (example: Italy,Germany)</li>
-<li>
-<code>--regions</code>: list of comma-sep strings or file (example: California,Georgia)</li>
-<li>
-<code>--month</code>: int (example: 3 (for March))</li>
-</ul>
-</li>
-<li>Requirements:</li>
-<li>
-<code>python2.7</code> or higher (ok with <code>python3.x</code>);</li>
-<li>Package <code>xlrd</code> available from PyPi via <code>pip install xlrd</code>;</li>
-<li>Package <code>scipy</code>: for an easy installation I recommend using <code>miniconda/anaconda</code>;
-for a <code>pip</code> installation on an older architecture and <code>python2.7</code> you will have
-to install the <code>lapack</code> and <code>blas</code> libraries, a Fortran compiler and <code>python-dev</code>:
-<ul>
-<li><code>sudo apt-get install python-dev</code></li>
-<li><code>sudo apt-get install gfortran</code></li>
-<li><code>sudo apt-get install libblas3 liblapack3 liblapack-dev libblas-dev</code></li>
-<li><code>sudo pip install scipy==0.16</code></li>
-</ul>
-</li>
-</ul>
-<h1>
-<a id="user-content-data" class="anchor" href="#data" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Data</h1>
-<ul>
-<li>UK Data: official data <a href="https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases" rel="nofollow">source</a>
-</li>
-<li>Worldwide Data: Johns Hopkins University CSSE <a href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports">gitHub repository</a>
-</li>
-<li>Testing efficiency <a href="https://en.wikipedia.org/wiki/COVID-19_testing#Virus_testing_by_country" rel="nofollow">numbers</a>
-</li>
-<li>Heinsberg <a href="https://www.tagesschau.de/regional/nordrheinwestfalen/corona-studie-heinsberg-101.html" rel="nofollow">study</a>
-</li>
-<li>Imperial College London, UK <a href="https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Europe-estimates-and-NPI-impact-30-03-2020.pdf" rel="nofollow">report</a>
-</li>
-<li>Georg August University, Germany <a href="http://www.uni-goettingen.de/en/606540.html" rel="nofollow">study</a>
-</li>
-<li>Austrian large scale testing <a href="https://www.bloomberg.com/news/articles/2020-04-10/austrian-study-shows-coronavirus-cases-more-than-3-times-higher?fbclid=IwAR0sUvTL38gYPHWMn0fqHkZRfrs9WnK7On0uH8hLA-dVs3qXhAd1bcOSq7g" rel="nofollow">study</a>
-</li>
-</ul>
-<h1>
-<a id="user-content-adaptave-linear-fit-to-covid-19-data-methods-and-results-report-2" class="anchor" href="#adaptave-linear-fit-to-covid-19-data-methods-and-results-report-2" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Adaptave Linear Fit to Covid-19 Data: Methods and Results Report 2</h1>
-<table>
-<thead>
-<tr>
-<th align="center">Author and contact</th>
-<th align="center">Date</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">Dr Valeriu Predoi</td>
-<td align="center">14/04/2020</td>
-</tr>
-<tr>
-<td align="center"><a href="mailto:valeriu.predoi@ncas.ac.uk">valeriu.predoi@ncas.ac.uk</a></td>
-<td align="center"></td>
-</tr>
-</tbody>
-</table>
-<h1>
-<a id="user-content-estimating-the-actual-start-of-the-infection-in-the-uk-and-determining-the-initial-pre-lockdown-infection-rate" class="anchor" href="#estimating-the-actual-start-of-the-infection-in-the-uk-and-determining-the-initial-pre-lockdown-infection-rate" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Estimating the actual start of the infection in the UK and determining the initial (pre-lockdown) infection rate</h1>
 <h2>
-<a id="user-content-abstract-1" class="anchor" href="#abstract-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Abstract</h2>
+<a id="user-content-case-study-start-of-free-transmission-in-the-uk" class="anchor" href="#case-study-start-of-free-transmission-in-the-uk" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Case study: start of free transmission in the UK</h2>
+<h3>
+<a id="user-content-overview" class="anchor" href="#overview" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Overview</h3>
 <p>We observe that in the UK during the last 10 days of March (21-31 March) the number of deaths related to Covid-19 and reported
 by the health services (in-hospital deaths) shows an exponential growth with a constant growth rate of 0.2 day-1. Since these deaths
 are most probably caused by a free transmission (un-affected by social distancing and/or lockdown measures), this growth
@@ -1256,21 +1157,16 @@ the number of deaths on 31 March and a 50% correction as reported by the ONS to 
 occur and, subsequently, when free transmission starts in the UK. We fix the fatality rate to 1% and the delay between infection and
 death to 14 days; using these parameters we determine the first cases that triggered free community transmission occured
 in the first week of February, which is also confirmed by medical records.</p>
-<h2>
-<a id="user-content-model-1" class="anchor" href="#model-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Model</h2>
-<p>We use a simple mathematical model to fit exponential functions
-to both reported cases and mortality data and obtain relevant parameters. The model is described in detail in
-<a href="https://github.com/valeriupredoi/COVID-19_LINEAR/blob/master/Reports/report_11-04-2020.md">Report 1</a>.</p>
-<h2>
-<a id="user-content-ons-correction-to-numbers-of-deaths" class="anchor" href="#ons-correction-to-numbers-of-deaths" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>ONS correction to numbers of deaths</h2>
+<h3>
+<a id="user-content-ons-correction-to-numbers-of-deaths" class="anchor" href="#ons-correction-to-numbers-of-deaths" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>ONS correction to numbers of deaths</h3>
 <ul>
 <li>ONS <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending3april2020#main-points" rel="nofollow">report</a> and FT <a href="https://www.ft.com/content/99220450-b0f2-4779-a768-90d199d1348c?fbclid=IwAR0yVcflr0wwfD4pyIqjqGiXl_YLqFR8TtXZcepi8UoAU-tlaZFFWQIcV3Y" rel="nofollow">followup</a>
 </li>
 <li>Main finding: virus-related deaths, as reported by the ONS, are, on average 50%
 higher than the ones reported by health services</li>
 </ul>
-<h2>
-<a id="user-content-analysis" class="anchor" href="#analysis" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Analysis</h2>
+<h3>
+<a id="user-content-case-study-start-of-free-transmission-in-the-uk-analysis" class="anchor" href="#case-study-start-of-free-transmission-in-the-uk-analysis" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Case study: start of free transmission in the UK: analysis</h3>
 <p>We have plotted the evolution of both reported cases and deaths in March in the UK:
 <a href="https://github.com/valeriupredoi/COVID-19_LINEAR/blob/master/anciliaries/country_plots_03-2020/uk_evolution_20-03_31-03_2020/31-03.png" target="_blank" rel="noopener noreferrer"><img src="https://github.com/valeriupredoi/COVID-19_LINEAR/raw/master/anciliaries/country_plots_03-2020/uk_evolution_20-03_31-03_2020/31-03.png" alt="march" style="max-width:100%;"></a></p>
 <p><strong>Figure 1</strong> Evolution of reported cases and deaths in the UK in March: from 21 March to 31 March the linear fit
@@ -1295,8 +1191,8 @@ reporting)</li>
 <p>and</p>
 <pre><code>t3 = ln(Ci(M=1%, Delay=14)/3)/0.2   (2b)
 </code></pre>
-<h2>
-<a id="user-content-results-1" class="anchor" href="#results-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Results</h2>
+<h3>
+<a id="user-content-case-study-start-of-free-transmission-in-the-uk-results" class="anchor" href="#case-study-start-of-free-transmission-in-the-uk-results" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Case study: start of free transmission in the UK: results</h3>
 <p><strong>Table 1</strong> we use equation (1) to obtain actual cases <code>C(M)</code> for different <code>M</code> and delays <code>Delay</code>.
 We list the actual date <code>Act. Date</code> when the number of cases <code>C(M=1%)</code> was officially reported.
 We notice a delay of reporting the actual cases of 8-11 days (in other words, the reported cases of today were
@@ -1368,8 +1264,8 @@ cases were reported.</p>
 </tr>
 </tbody>
 </table>
-<h2>
-<a id="user-content-conclusions-1" class="anchor" href="#conclusions-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Conclusions</h2>
+<h3>
+<a id="user-content-case-study-start-of-free-transmission-in-the-uk-conclusions" class="anchor" href="#case-study-start-of-free-transmission-in-the-uk-conclusions" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Case study: start of free transmission in the UK: conclusions</h3>
 <ul>
 <li>The first three cases were reported in the UK on 06 February, 2020; the estimated
 actual number of cases for 04 February is 3 (considering a fatality
@@ -1385,7 +1281,86 @@ by 05 March there is already considerable underreporting, explained by free comm
 within the one month between the first week of February and the first week of March.</li>
 </ul>
 <h2>
-<a id="user-content-software-1" class="anchor" href="#software-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Software</h2>
+<a id="user-content-case-study-effects-of-lockdown-in-the-uk" class="anchor" href="#case-study-effects-of-lockdown-in-the-uk" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Case study: effects of lockdown in the UK</h2>
+<h3>
+<a id="user-content-overview-1" class="anchor" href="#overview-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Overview</h3>
+<p>We show a brief comparison of the numbers on March 22, one day before
+the lockdown was instituted in the UK, and on April 16, the day when
+a further three weeks of lockdown were announced.</p>
+<h3>
+<a id="user-content-case-study-effects-of-lockdown-in-the-uk-march-22---april-16-2020" class="anchor" href="#case-study-effects-of-lockdown-in-the-uk-march-22---april-16-2020" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Case study: effects of lockdown in the UK: March 22 - April 16, 2020</h3>
+<table>
+<thead>
+<tr>
+<th align="center">UK: March 22</th>
+<th align="center">UK: April 16</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/valeriupredoi/COVID-19_LINEAR/blob/master/anciliaries/country_plots_03-2020/uk_evolution_20-03_31-03_2020/22-03.jpg" target="_blank" rel="noopener noreferrer"><img src="https://github.com/valeriupredoi/COVID-19_LINEAR/raw/master/anciliaries/country_plots_03-2020/uk_evolution_20-03_31-03_2020/22-03.jpg" alt="mar22" style="max-width:100%;"></a></td>
+<td align="center"><a href="https://github.com/valeriupredoi/COVID-19_LINEAR/blob/master/anciliaries/country_plots_04-2020/uk_evolution_10-04_20-04_2020/16-04.jpg" target="_blank" rel="noopener noreferrer"><img src="https://github.com/valeriupredoi/COVID-19_LINEAR/raw/master/anciliaries/country_plots_04-2020/uk_evolution_10-04_20-04_2020/16-04.jpg" alt="apr16" style="max-width:100%;"></a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Figure 1</strong> Comparison of reported number of cases (red dots) and reported in-hospital deaths for March 22 (left) and April 16 (right);
+a set of predictions highlighted in dotted green lines (best case) and dotted black lines (worst case) are shown.</p>
+<table>
+<thead>
+<tr>
+<th align="center">Date</th>
+<th align="center">Reported cases</th>
+<th align="center">Reported Deaths</th>
+<th align="center">Doubling T Cases (days)</th>
+<th align="center">Doubling T Deaths (days)</th>
+<th align="center">R</th>
+<th align="center">Prct. Pop. (M=1%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">22/03</td>
+<td align="center">5683</td>
+<td align="center">281</td>
+<td align="center">2.8</td>
+<td align="center">2.0</td>
+<td align="center">3</td>
+<td align="center">0.7%</td>
+</tr>
+<tr>
+<td align="center">16/04</td>
+<td align="center">103093</td>
+<td align="center">13729</td>
+<td align="center">8.6</td>
+<td align="center">10.8</td>
+<td align="center">0.8</td>
+<td align="center">3.2%</td>
+</tr>
+<tr>
+<td align="center">16/04(S)</td>
+<td align="center">690000</td>
+<td align="center">34000</td>
+<td align="center">3.5</td>
+<td align="center">3.5</td>
+<td align="center">2.2</td>
+<td align="center">80%</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Table 1</strong> Comparison of different parameters on March 22 and on April 16 (actual numbers and simulated numbers;
+(S) for simulated); parameters are: reported number of cases, in-hospital number of deaths, doubling times (T)
+in days for reported cases and deaths, R (reproductive number for a 10 days infectious period, computed as
+<code>R = exp(b) - 1</code> where <code>b</code> is the to-date growth rate for reported infections, percentage of population
+(for a fixed fatality M=1%, full explanation in <a href="https://github.com/valeriupredoi/COVID-19_LINEAR/blob/master/Reports/report_11-04-2020.md">report</a>, numbers in <a href="https://github.com/valeriupredoi/COVID-19_LINEAR/tree/master/country_tables">daily tables</a>);
+simulated numbers for 16/04(S) assume no lockdown and a constant exponential growth rate for cases and deaths
+at 0.2 day-1 (daily growth) equivalent to a multiplying factor of <code>exp(0.2 x 24)</code> equal to 121.5 for 24 days,
+from March 22 to April 16. The constant growth rate 0.2 day-1 is the most plausible rate for the UK in-hospital
+counted infections before lockdown and is reflected in the <a href="https://github.com/valeriupredoi/COVID-19_LINEAR/blob/master/anciliaries/country_plots_03-2020/uk_evolution_20-03_31-03_2020/31-03.png"><strong>continuation of Figure 1</strong>(left)</a> to March 31, as the growth rate for deaths between
+March 21 and March 31 when recorded deaths were increasing at a non-lockdown pace, with infections causing them
+being offset in time by 10-20 days.</p>
+<h2>
+<a id="user-content-software" class="anchor" href="#software" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Software</h2>
+<p>We used a pure Python software package developed specifically for this purpose:</p>
 <ul>
 <li><a href="https://github.com/valeriupredoi/COVID-19_LINEAR/blob/master/cov_model">Package</a></li>
 <li>Usage example: <code>python cov_model/cov_lin_wrapper.py --countries COUNTRIES --regions REGIONS --month MONTH</code>
@@ -1416,15 +1391,46 @@ to install the <code>lapack</code> and <code>blas</code> libraries, a Fortran co
 </li>
 </ul>
 <h2>
-<a id="user-content-data-1" class="anchor" href="#data-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Data</h2>
+<a id="user-content-resources" class="anchor" href="#resources" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Resources</h2>
+<p>Available resources from gitHub:</p>
+<ul>
+<li>Periodic <a href="https://github.com/valeriupredoi/COVID-19_LINEAR/tree/master/Reports">reports</a>
+</li>
+<li>Country <a href="https://github.com/valeriupredoi/COVID-19_LINEAR/blob/master/country_tables">tables</a>
+</li>
+<li>Current country <a href="https://github.com/valeriupredoi/COVID-19_LINEAR/blob/master/country_plots">plots</a>
+</li>
+<li>March-2020 <a href="https://github.com/valeriupredoi/COVID-19_LINEAR/blob/master/anciliaries/country_plots_03-2020">plots</a>
+</li>
+<li>March-2020 <a href="https://github.com/valeriupredoi/COVID-19_LINEAR/blob/master/anciliaries/Situtaion_Report_March-2020.md">situation report</a>
+</li>
+</ul>
+<h2>
+<a id="user-content-data-and-references" class="anchor" href="#data-and-references" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Data and references</h2>
 <ul>
 <li>UK Data: official data <a href="https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases" rel="nofollow">source</a>
 </li>
 <li>Worldwide Data: Johns Hopkins University CSSE <a href="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports">gitHub repository</a>
 </li>
+<li>Testing efficiency <a href="https://en.wikipedia.org/wiki/COVID-19_testing#Virus_testing_by_country" rel="nofollow">numbers</a>
+</li>
+<li>Heinsberg <a href="https://www.tagesschau.de/regional/nordrheinwestfalen/corona-studie-heinsberg-101.html" rel="nofollow">study</a>
+</li>
+<li>Imperial College London, UK <a href="https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Europe-estimates-and-NPI-impact-30-03-2020.pdf" rel="nofollow">report</a>
+</li>
+<li>Georg August University, Germany <a href="http://www.uni-goettingen.de/en/606540.html" rel="nofollow">study</a>
+</li>
+<li>Austrian large scale testing <a href="https://www.bloomberg.com/news/articles/2020-04-10/austrian-study-shows-coronavirus-cases-more-than-3-times-higher?fbclid=IwAR0sUvTL38gYPHWMn0fqHkZRfrs9WnK7On0uH8hLA-dVs3qXhAd1bcOSq7g" rel="nofollow">study</a>
+</li>
 <li>ONS <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending3april2020#main-points" rel="nofollow">report</a>
 </li>
 </ul>
+<h2>
+<a id="user-content-copyright-distribution-and-reusability" class="anchor" href="#copyright-distribution-and-reusability" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Copyright, distribution and reusability</h2>
+<p>Authorship of software and results: V Predoi, 2020. These are estimated results
+that can be used and distributed freely. The author assumes no responsability for any
+decisions made using these results. For further info and discussion please contact me
+at <a href="mailto:valeriu.predoi@ncas.ac.uk">valeriu.predoi@ncas.ac.uk</a></p>
 
               </article>
             </div>
