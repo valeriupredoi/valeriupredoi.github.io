@@ -10,3 +10,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
