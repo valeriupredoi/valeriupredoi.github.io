@@ -16,7 +16,7 @@ widget2:
   title: "Wanna watch a video about Porsche 962C?"
   url: 'http://valeriupredoi.github.io/info/'
   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://valeriupredoi.github.io/images/porsche962Cvideo.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://valeriupredoi.github.io/images/porsche962Cvideo.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Download Theme"
   url: 'https://github.com/Phlow/feeling-responsive'
