@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="https://valeriupredoi.github.io//assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000//assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="https://valeriupredoi.github.io//assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000//assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,13 +38,13 @@
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="https://valeriupredoi.github.io//assets/xslt/rss.xslt">
+	<link rel="canonical" href="http://localhost:4000//assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="ISENES3 is a nice thingie.">
-	<meta property="og:url" content="https://valeriupredoi.github.io//assets/xslt/rss.xslt">
+	<meta property="og:url" content="http://localhost:4000//assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="ISENES3">
@@ -62,34 +62,34 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="https://valeriupredoi.github.io//humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000//humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="https://valeriupredoi.github.io/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="https://valeriupredoi.github.io/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://valeriupredoi.github.io/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://valeriupredoi.github.io/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://valeriupredoi.github.io/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://valeriupredoi.github.io/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://valeriupredoi.github.io/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://valeriupredoi.github.io/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://valeriupredoi.github.io/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="https://valeriupredoi.github.io/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="https://valeriupredoi.github.io/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -105,7 +105,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="https://valeriupredoi.github.io/" class="icon-tree"> ISENES3</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000/" class="icon-tree"> ISENES3</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -172,7 +172,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://valeriupredoi.github.io//search/">Search</a></li>
+              <li><a  href="http://localhost:4000//search/">Search</a></li>
 
             
             
@@ -188,7 +188,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://valeriupredoi.github.io//contact/">Contact</a></li>
+              <li><a  href="http://localhost:4000//contact/">Contact</a></li>
 
             
             
@@ -207,7 +207,7 @@
 
             
             
-              <li><a  href="https://valeriupredoi.github.io//">Start</a></li>
+              <li><a  href="http://localhost:4000//">Start</a></li>
               <li class="divider"></li>
 
             
@@ -222,7 +222,7 @@
 
             
             
-              <li><a  href="https://valeriupredoi.github.io//getting-started/">Getting Started</a></li>
+              <li><a  href="http://localhost:4000//getting-started/">Getting Started</a></li>
               <li class="divider"></li>
 
             
@@ -239,59 +239,59 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://valeriupredoi.github.io//design/">Templates</a>
+                <a  href="http://localhost:4000//design/">Templates</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/grid/">Grid &amp; Colors</a></li>
+                      <li><a  href="http://localhost:4000//design/grid/">Grid &amp; Colors</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/typography/typography/">Typography</a></li>
+                      <li><a  href="http://localhost:4000//design/typography/typography/">Typography</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/page/">Page/Post</a></li>
+                      <li><a  href="http://localhost:4000//design/page/">Page/Post</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/post-left-sidebar/">Post-Left-Sidebar</a></li>
+                      <li><a  href="http://localhost:4000//design/post-left-sidebar/">Post-Left-Sidebar</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/post-right-sidebar/">Post-Right-Sidebar</a></li>
+                      <li><a  href="http://localhost:4000//design/post-right-sidebar/">Post-Right-Sidebar</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/page-fullwidth/">Page Full-Width</a></li>
+                      <li><a  href="http://localhost:4000//design/page-fullwidth/">Page Full-Width</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//blog/">Blog-Page</a></li>
+                      <li><a  href="http://localhost:4000//blog/">Blog-Page</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/video/">Video</a></li>
+                      <li><a  href="http://localhost:4000//design/video/">Video</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/gallery/">Gallery</a></li>
+                      <li><a  href="http://localhost:4000//design/gallery/">Gallery</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/portfolio/">Portfolio</a></li>
+                      <li><a  href="http://localhost:4000//design/portfolio/">Portfolio</a></li>
                     
                   </ul>
 
@@ -310,44 +310,44 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://valeriupredoi.github.io//headers/">Header Styles</a>
+                <a  href="http://localhost:4000//headers/">Header Styles</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/header-full-width-image/">Header with Full-Width-Image</a></li>
+                      <li><a  href="http://localhost:4000//design/header-full-width-image/">Header with Full-Width-Image</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/header-image-pattern/">Header with Image and Pattern</a></li>
+                      <li><a  href="http://localhost:4000//design/header-image-pattern/">Header with Image and Pattern</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/header-image-color/">Header with image and color</a></li>
+                      <li><a  href="http://localhost:4000//design/header-image-color/">Header with image and color</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/header-logo-only/">Header Only With Logo</a></li>
+                      <li><a  href="http://localhost:4000//design/header-logo-only/">Header Only With Logo</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/header-with-text/">Header With Text</a></li>
+                      <li><a  href="http://localhost:4000//design/header-with-text/">Header With Text</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/no-header/">No Header</a></li>
+                      <li><a  href="http://localhost:4000//design/no-header/">No Header</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/no-header-but-image/">No Header but Image</a></li>
+                      <li><a  href="http://localhost:4000//design/no-header-but-image/">No Header but Image</a></li>
                     
                   </ul>
 
@@ -366,19 +366,19 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://valeriupredoi.github.io//documentation/">Documentation</a>
+                <a  href="http://localhost:4000//documentation/">Documentation</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//changelog/">Changelog</a></li>
+                      <li><a  href="http://localhost:4000//changelog/">Changelog</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//roadmap/">Roadmap</a></li>
+                      <li><a  href="http://localhost:4000//roadmap/">Roadmap</a></li>
                     
                   </ul>
 
@@ -397,14 +397,14 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://valeriupredoi.github.io//blog/">Blog</a>
+                <a  href="http://localhost:4000//blog/">Blog</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//blog/archive/">Blog Archive</a></li>
+                      <li><a  href="http://localhost:4000//blog/archive/">Blog Archive</a></li>
                     
                   </ul>
 
@@ -436,8 +436,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://valeriupredoi.github.io/" title="ISENES3 – A good EU project!">
-				<img src="https://valeriupredoi.github.io//assets/img/logo.png" alt="ISENES3 – A good EU project!">
+			<a id="logo" href="http://localhost:4000/" title="ISENES3 – A good EU project!">
+				<img src="http://localhost:4000//assets/img/logo.png" alt="ISENES3 – A good EU project!">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -515,7 +515,7 @@
 
             <p class="shadow-black">
               ISENES3 is a nice thingie.
-              <a href="https://valeriupredoi.github.io//info/">More ›</a>
+              <a href="http://localhost:4000//info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -539,27 +539,27 @@
               
                 
                   <li >
-                    <a href="https://valeriupredoi.github.io/"  title=""></a>
+                    <a href="http://localhost:4000/"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="https://valeriupredoi.github.io//contact/"  title="Contact">Contact</a>
+                    <a href="http://localhost:4000//contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://valeriupredoi.github.io//feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="http://localhost:4000//feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://valeriupredoi.github.io//atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                    <a href="http://localhost:4000//atom.xml"  title="Subscribe to Atom Feed">Atom</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://valeriupredoi.github.io//sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="http://localhost:4000//sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -585,7 +585,7 @@
             
               
                 <li >
-                  <a href="https://valeriupredoi.github.io/"  title=""></a>
+                  <a href="http://localhost:4000/"  title=""></a>
                 </li>
             
               
@@ -643,7 +643,7 @@
 		
 
 
-<script src="https://valeriupredoi.github.io//assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000//assets/js/javascript.min.js"></script>
 
 
 
