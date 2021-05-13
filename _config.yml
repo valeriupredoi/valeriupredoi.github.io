@@ -13,4 +13,5 @@ markdown: kramdown
 
 # Plugins
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
