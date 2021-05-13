@@ -1,6 +1,0 @@
----
-layout: post
----
-<img src="{{ site.baseurl }}/images/pic01.jpg" class="fit image">
-The Porsche 962C was an evolutionary version of the legendary Porsche 956, built to comply with the IMSA regulations.
-

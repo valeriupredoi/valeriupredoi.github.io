@@ -1,23 +1,23 @@
-<!DOCTYPE html>
-<html>
-    
-    {% include /head.html %}
+---
+layout: compress
+---
+<!doctype html>
+<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
+<head>
+	{% include _head.html %}
+</head>
+<body id="top-of-page" class="{{ layout.format }}">
+	{% unless page.skip_boilerplate %}
+	{% include _navigation.html %}
+	{% endunless %}
 
-	<body id="top">
+	{% include _masthead.html %}
+	{{ content }}
 
-        {% include /header.html %}
+	{% unless page.skip_boilerplate %}
+	{% include _footer.html %}
+	{% endunless %}
 
-        {{ content }}
-
-        {% include /footer.html %}
-
-    </body>
-
+	{% include _footer_scripts.html %}
+</body>
 </html>
-
-<!-- HTML elements for search -->
-<input type="text" id="search-input" placeholder="Search blog posts..">
-<ul id="results-container"></ul>
-
-<!-- or without installing anything -->
-<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
