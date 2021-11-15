@@ -8,10 +8,10 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'ISENES3'
+title: 'ISENES3 Toy Website'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A good EU project!'
+slogan: 'A good EU project! By good people: Fanny and Sylvie :)'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'ISENES3 is a nice thingie.'
@@ -49,7 +49,7 @@ plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
-    # - jekyll-seo-tag
+    - jekyll-seo-tag
 
 
 #       ____              _             __  _
