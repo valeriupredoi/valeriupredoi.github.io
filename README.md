@@ -1,6 +1,6 @@
 # ISENES3 Web Site Test Domain
 
-This site uses the [Feeling Responsive](https://phlow.github.io/feeling-responsive/) template. It is
+This site (see deployment at https://valeriupredoi.github.io/ ) uses the [Feeling Responsive](https://phlow.github.io/feeling-responsive/) template. It is
 built along the lines of this [schematic](https://github.com/valeriupredoi/valeriupredoi.github.io/blob/master/Website_new_architecture_V1.pdf) provided by Sophie and Fanny.
 
 Maintenance is done by Valeriu Predoi.
