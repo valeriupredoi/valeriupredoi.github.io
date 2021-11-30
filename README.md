@@ -3,7 +3,46 @@
 This site (see deployment at https://valeriupredoi.github.io/ ) uses the [Feeling Responsive](https://phlow.github.io/feeling-responsive/) template. It is
 built along the lines of this [schematic](https://github.com/valeriupredoi/valeriupredoi.github.io/blob/master/Website_new_architecture_V1.pdf) provided by Sophie and Fanny.
 
-Maintenance is done by Valeriu Predoi.
+Maintenance is done by Valeriu Predoi. Automatic build tests happen with every push to repository, and are
+run in a [Github Actions Test](https://github.com/valeriupredoi/valeriupredoi.github.io/actions).
+
+**NOTE** don't push too many times with very small changes, that'd trigger a lot of Github Actions tests; wait until you
+have a fair bit of changes, then build locally to test, then push to remote.
+
+# How to use this repository
+
+- clone the source:
+```
+git clone https://github.com/valeriupredoi/valeriupredoi.github.io.git
+```
+- enter directory and grab the latest version:
+```
+cd valeriupredoi.github.io
+git pull origin master
+```
+- create a new branch where your changes are to be staged:
+```
+git checkout -b new_branchy_branch
+```
+(replace `new_branchy_branch` with a relevant name)
+- make changes: e.g. change `_config.yml`, commit your changes:
+```
+git commit _commit.yml -m "added new section"
+```
+- build locally:
+```
+bundle exec jekyll build
+```
+- now commit the newly built site components:
+```
+git commit * -m "rebuilt site"
+```
+- push to the remote branch:
+```
+git push origin new_branchy_branch
+```
+
+Now you can open a Pull Request!
 
 # Some notes on building a Jekyll-based website 🍺🐍
 # Technical Aspects
