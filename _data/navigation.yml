@@ -1,31 +1,30 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-- title: "Templates"
-  url: "/design/"
+- title: About ISENES3
+  url: "/about-isenes3/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
+  - title: "Objectives"
+    url: "/about-isenes3/objectives/"
+  - title: "Description of Work"
+    url: "/about-isenes3/description-of-work/"
+  - title: "Partners"
+    url: "/about-isenes3/partners/"
+
+- title: "Events and News"
+  url: "/events-and-news/"
+  side: left
+  dropdown:
+  - title: "Access Calls"
+    url: "/events-and-news/access-calls"
+  - title: "Training"
+    url: "/events-and-news/training"
+  - title: "Workshops"
+    url: "/events-and-news/workshops"
+  - title: "Newsletters"
+    url: "/events-and-news/newsletters"
   - title: "Gallery"
     url: "/design/gallery/"
   - title: "Portfolio"
