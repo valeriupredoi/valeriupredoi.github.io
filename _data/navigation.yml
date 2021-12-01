@@ -7,28 +7,28 @@
   side: left
   dropdown:
   - title: "Objectives"
-    url: "/about-isenes3/objectives/"
+    url: "/objectives/"
   - title: "Description of Work"
-    url: "/about-isenes3/description-of-work/"
+    url: "/description-of-work/"
   - title: "Partners"
-    url: "/about-isenes3/partners/"
+    url: "/partners/"
 
 - title: "Events and News"
   url: "/events-and-news/"
   side: left
   dropdown:
   - title: "Access Calls"
-    url: "/events-and-news/access-calls"
+    url: "/access-calls"
   - title: "Training"
-    url: "/events-and-news/training"
+    url: "/training"
   - title: "Workshops"
-    url: "/events-and-news/workshops"
+    url: "/workshops"
   - title: "Newsletters"
-    url: "/events-and-news/newsletters"
+    url: "/newsletters"
   - title: "Gallery"
-    url: "/design/gallery/"
+    url: "/gallery/"
   - title: "Portfolio"
-    url: "/design/portfolio/"
+    url: "/portfolio/"
 
 - title: "Header Styles"
   url: "/headers/"

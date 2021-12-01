@@ -1,12 +1,11 @@
 ---
-layout: page
-show_meta: false
-title: "Objectives"
+layout: page-fullwidth
+title: Objectives
 subheadline: "Objectives for ISENES3"
 teaser: "This tells you all about ISENES3 sciencey shtuffs."
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/about-isenes3/objectives/"
+permalink: "/objectives/"
 categories:
     - design
 tags:
