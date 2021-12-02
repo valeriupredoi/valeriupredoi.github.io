@@ -20,5 +20,15 @@ header:
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
     image_fullwidth: "widget-1-302x182.jpg"
+widget1:
+  title: "Objective 1"
+  url: 'http://valeriupredoi.github.io/objectives-widget-1/'
+  image: widget-1-302x182.jpg
+  text: 'Widget about <em>sciencey shtuff</em>.'
 
 ---
+
+Edit file: `pages/objectives.md`. To edit the widget `pages/objectives-widget-1.md`, if you wish add widgets
+but make sure they point to the right widget page e.g. `pages/objectives-widget-2.md` etc.
+
+Objectives stuff here.
