@@ -108,6 +108,14 @@ then you can now build the site with
 bundle exec jekyll build
 ```
 
+To build the site locally see [instructions](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) that boil down to:
+
+```
+bundle exec jekyll serve
+```
+
+and to view the site go to `http://localhost:4000` after you've run the local build.
+
 ## 4. Installing missing gems
 
 For instance, if you decide to use a new gem, e.g. `jekyll-seo-tag` you can install it
