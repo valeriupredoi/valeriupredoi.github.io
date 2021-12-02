@@ -12,24 +12,31 @@ header:
     caption_url: https://unsplash.com/
     image_fullwidth: "widget-1-302x182.jpg"
 widget1:
-  title: "Stuff 1"
-  url: 'http://valeriupredoi.github.io/info/'
+  title: "Objectives"
+  url: 'https://valeriupredoi.github.io/objectives/'
   image: widget-1-302x182.jpg
   text: 'Widget about <em>sciencey shtuff</em> that makes you smarter.'
 widget2:
-  title: "Stuff 2"
-  url: 'http://valeriupredoi.github.io/info/'
+  title: "Description of Work"
+  url: 'https://valeriupredoi.github.io/description-of-work/'
   image: widget-1-302x182.jpg
   text: 'Widget with <em>ISENES3</em> embedded video.<br/>1. Sciencey Shtuff 1<br/>2. Sciencey Shtuff 2'
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://valeriupredoi.github.io/images/porsche962Cvideo.jpg" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Stuff 3"
-  url: 'http://valeriupredoi.github.io/info/'
+  title: "Partners"
+  url: 'https://valeriupredoi.github.io/partners/'
   image: widget-1-302x182.jpg
   text: 'Widget with <em>ISENES3</em> link and Twitter. Have a look at our <a href="https://is.enes.org/project/partners">ISENES3 Partners List</a> and call us at Twitter <a href="https://twitter.com/search?q=%23ISENES3">@ISENES3</a>.'
 permalink: /index.html
 homepage: true
 ---
+
+## A nice guide to Markdown
+
+Fanny, Sophie, you can find a very easy guide to Mardown syntax [here](https://www.markdownguide.org/basic-syntax/).
+Also, here is a French flag, just to see how an image can be inserted:
+
+![Frenchie flag](../images/france-flag.jpg)
 
 ## Stuff about ISENES3 on front page
 

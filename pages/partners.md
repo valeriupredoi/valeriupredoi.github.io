@@ -22,3 +22,5 @@ header:
     image_fullwidth: "widget-1-302x182.jpg"
 
 ---
+
+Edit file: `pages/partners.md`.
