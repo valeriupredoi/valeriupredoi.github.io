@@ -31,7 +31,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="ISENES3 is a nice thingie.">
+	<meta name="description" content="ISENES3 EU Collaboration">
 	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
@@ -43,7 +43,7 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
-	<meta property="og:description" content="ISENES3 is a nice thingie.">
+	<meta property="og:description" content="ISENES3 EU Collaboration">
 	<meta property="og:url" content="https://valeriupredoi.github.io//assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -58,7 +58,7 @@
 	<meta name="twitter:site" content="phlow">
 	<meta name="twitter:creator" content="phlow">
 	<meta name="twitter:title" content="Atom Feed (Styled)">
-	<meta name="twitter:description" content="ISENES3 is a nice thingie.">
+	<meta name="twitter:description" content="ISENES3 EU Collaboration">
 	
 	
 
@@ -113,14 +113,6 @@
     <section class="top-bar-section">
 
       <ul class="right">
-        
-
-              
-
-
-
-          
-          
         
 
               
@@ -311,75 +303,44 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://valeriupredoi.github.io//headers/">Header Styles</a>
+                <a  href="https://valeriupredoi.github.io//services-data-metadata/">Services on Data&amp;Metadata</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/header-full-width-image/">Header with Full-Width-Image</a></li>
+                      <li><a  href="https://valeriupredoi.github.io//data-discovery/">Data Discovery</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/header-image-pattern/">Header with Image and Pattern</a></li>
+                      <li><a  href="https://valeriupredoi.github.io//climate4impact/">Climate4Impact Portal</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/header-image-color/">Header with image and color</a></li>
+                      <li><a  href="https://valeriupredoi.github.io//derived-data/">Derived Data Products</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/header-logo-only/">Header Only With Logo</a></li>
+                      <li><a  href="https://valeriupredoi.github.io//analysis-platforms/">Analysis Platforms</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/header-with-text/">Header With Text</a></li>
+                      <li><a  href="https://valeriupredoi.github.io//metadata-services/">Metadata Services</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/no-header/">No Header</a></li>
+                      <li><a  href="https://valeriupredoi.github.io//data-publication/">Data Publication</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//design/no-header-but-image/">No Header but Image</a></li>
-                    
-                  </ul>
-
-              </li>
-              <li class="divider"></li>
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-
-              <li class="has-dropdown">
-                <a  href="https://valeriupredoi.github.io//documentation/">Documentation</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="https://valeriupredoi.github.io//changelog/">Changelog</a></li>
-                    
-
-                      
-
-                      <li><a  href="https://valeriupredoi.github.io//roadmap/">Roadmap</a></li>
+                      <li><a  href="https://valeriupredoi.github.io//support-contacts/">Support Contacts</a></li>
                     
                   </ul>
 
@@ -437,8 +398,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://valeriupredoi.github.io/" title="ISENES3 Toy Website Nice – A good EU project! By good people: Fanny and Sylvie :)">
-				<img src="https://valeriupredoi.github.io//assets/img/logo.png" alt="ISENES3 Toy Website Nice – A good EU project! By good people: Fanny and Sylvie :)">
+			<a id="logo" href="https://valeriupredoi.github.io/" title="ISENES3 Toy Website Nice – A good EU project! By good people: Fanny and Sophie :)">
+				<img src="https://valeriupredoi.github.io//assets/img/logo.png" alt="ISENES3 Toy Website Nice – A good EU project! By good people: Fanny and Sophie :)">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -515,7 +476,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              ISENES3 is a nice thingie.
+              ISENES3 EU Collaboration
               <a href="https://valeriupredoi.github.io//info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
@@ -525,8 +486,6 @@
             
               
                 <h5 class="shadow-black">Services</h5>
-              
-            
               
             
               
@@ -555,12 +514,7 @@
               
                 
                   <li >
-                    <a href="https://valeriupredoi.github.io//atom.xml"  title="Subscribe to Atom Feed">Atom</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="https://valeriupredoi.github.io//sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                    <a href="https://valeriupredoi.github.io//info/"  title="Legeal crap here.">Legal Stuff</a>
                   </li>
               
               </ul>
@@ -619,21 +573,19 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+            <p>Created with &hearts; by Fanny Adloff and Sophie Morellon with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
             <ul class="inline-list social-icons">
             
-              <li><a href="http://github.com/phlow" target="_blank" class="icon-github" title="Code und mehr..."></a></li>
+              <li><a href="https://github.com/ESMValGroup/ESMValTool" target="_blank" class="icon-github" title="ESMValTool"></a></li>
             
-              <li><a href="http://www.youtube.com/PhlowMedia" target="_blank" class="icon-youtube" title="Videos, Video-Anleitungen und Filme von Phlow auf YouTube"></a></li>
+              <li><a href="https://www.youtube.com/channel/UC24YCohRVh1WXqzBm9tkL2g" target="_blank" class="icon-youtube" title="ISENES3 Presentations"></a></li>
             
-              <li><a href="http://twitter.com/phlow" target="_blank" class="icon-twitter" title="Immer das Neuste von Phlow gibt es auf Twitter"></a></li>
+              <li><a href="http://twitter.com/isenes3" target="_blank" class="icon-twitter" title="ISENES3"></a></li>
             
-              <li><a href="http://www.mixcloud.com/phlow/" target="_blank" class="icon-cloud" title="Mixe, was sonst?"></a></li>
-            
-              <li><a href="https://plus.google.com/u/0/+Phlow" target="_blank" class="icon-googleplus" title="YouTube Google+"></a></li>
+              <li><a href="https://www.facebook.com/valeriu.predoi" target="_blank" class="icon-facebook" title="Facebook"></a></li>
             
             </ul>
           </section>

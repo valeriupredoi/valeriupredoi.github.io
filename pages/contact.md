@@ -1,12 +1,26 @@
 ---
 layout: page
-title: "ISENES3 Contact"
-meta_title: "Contact and use our contact form"
-teaser: "Please be patient, we are busy scientists."
+show_meta: false
+title: "Contact Us"
+subheadline: "Get in touch with us!"
+teaser: "We are always ready to serve your sciency needs"
 header:
-    image_fullwidth: "header_homepage_13.jpg"
-    background-color: "#186F4D"
+   image_fullwidth: "header_homepage_13.jpg"
 permalink: "/contact/"
+categories:
+    - design
+tags:
+    - design
+    - background color
+    - header
+#header:
+    #background-color: "#186F4D"
+header:
+    title: ISENES3 Contact
+    background-color: "#186F4D;"
+    #caption: This is a caption for the header image with link
+    #caption_url: https://unsplash.com/
+    image_fullwidth: "widget-1-302x182.jpg"
 ---
 
 Edit file: `pages/contact.md`

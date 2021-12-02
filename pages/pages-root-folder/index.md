@@ -31,16 +31,23 @@ permalink: /index.html
 homepage: true
 ---
 
+## ISENES3: the best thing after toast and beans
+
+- Main settings in `_config.yml`
+- Main tabs above listed in: `_data/navigation.yml`
+- Front page (this): edit file: `pages/pages-root-folder/index.md`
+- Social media settings: `_data/socialmedia.yml`
+- Footer for Contact, legal etc in: `_data/services.yml`
+- Edit pages in `pages/*`
+
 ## A nice guide to Markdown
 
 Fanny, Sophie, you can find a very easy guide to Mardown syntax [here](https://www.markdownguide.org/basic-syntax/).
 Also, here is a French flag, just to see how an image can be inserted:
 
-![Frenchie flag](../images/france-flag.jpg)
+![Frenchie flag](images/france-flag.jpg)
 
 ## Stuff about ISENES3 on front page
-
-Edit file: `pages/pages-root-folder/index.md`
 
 You can list things like this:
 
