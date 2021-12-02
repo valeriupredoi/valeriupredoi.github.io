@@ -38,6 +38,7 @@ homepage: true
 - Front page (this): edit file: `pages/pages-root-folder/index.md`
 - Social media settings: `_data/socialmedia.yml`
 - Footer for Contact, legal etc in: `_data/services.yml`
+- Aknowledgements footer tab: `_data/network.yml`
 - Edit pages in `pages/*`
 
 ## A nice guide to Markdown

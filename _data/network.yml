@@ -1,16 +1,16 @@
-- menu_name: "Dankeschön"
+- menu_name: "Aknowledgements"
 
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
+- name: "Tech support by Valeriu Predoi"
+  url: "https://github.com/valeriupredoi"
   class: "network-entypo"
-  title: "Icons by Daniel Bruce"
+  title: "Tech support"
 
-- name: "Built on Foundation"
+- name: "Content by Fanny&Sophie"
   url: "http://foundation.zurb.com/"
   class: "services-newsletter"
-  title: "Built on Foundation"
+  title: "Content by Fanny&Sophie - change here"
 
-- name: "Images by Unsplash"
+- name: "Change me here"
   url: "http://unsplash.com/"
   class: "rss-link"
   title: "Images by Unsplash"
