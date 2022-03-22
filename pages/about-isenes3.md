@@ -34,5 +34,4 @@ widget3:
   url: 'https://valeriupredoi.github.io/partners/'
   image: widget-1-302x182.jpg
   text: 'The consortium comprises 22 partners from 11 countries.'
-permalink: /about-isenes3.html
 ---
