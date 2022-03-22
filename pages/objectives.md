@@ -28,7 +28,7 @@ widget1:
 
 ---
 
-Edit file: `pages/objectives.md`. To edit the widget `pages/objectives-widget-1.md`, if you wish add widgets
+Edit XXX file: `pages/objectives.md`. To edit the widget `pages/objectives-widget-1.md`, if you wish add widgets
 but make sure they point to the right widget page e.g. `pages/objectives-widget-2.md` etc.
 
 Objectives stuff here.
