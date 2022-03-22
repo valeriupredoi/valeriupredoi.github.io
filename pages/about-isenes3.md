@@ -21,26 +21,19 @@ header:
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
     image_fullwidth: "widget-1-302x182.jpg"
-
+widget1:
+  title: "Objectives"
+  url: 'https://valeriupredoi.github.io/objectives/'
+  image: widget-1-302x182.jpg
+  text: 'IS-ENES3 is divided into 4 main objectives. [Find out more](https://valeriupredoi.github.io/objectives/)'
+widget2:
+  title: "Description of work"
+  url: 'https://valeriupredoi.github.io/description-of-work/'
+  image: widget-1-302x182.jpg
+  text: 'Detailed description of the project Work Packages. [Find out more](https://valeriupredoi.github.io/description-of-work/)'
+widget3:
+  title: "Partners"
+  url: 'https://valeriupredoi.github.io/partners/'
+  image: widget-1-302x182.jpg
+  text: 'The consortium comprises 22 partners from 11 countries. [Find out more](https://valeriupredoi.github.io/partners/)'
 ---
-
-[**Objectives**](https://valeriupredoi.github.io/objectives/)
-
-IS-ENES3 is divided into 4 main objectives.
-
-[Find out more](https://valeriupredoi.github.io/objectives/)
-	
-
-[**Description of Work**](https://valeriupredoi.github.io/description-of-work/)
-
-Detailed description of the project Work Packages.
-
-[Find out more](https://valeriupredoi.github.io/description-of-work/)
-	
-
-[**Partners**](https://valeriupredoi.github.io/partners/)
-
-The consortium comprises 22 partners from 11 countries.
-
-[Find out more](https://valeriupredoi.github.io/partners/)
-
