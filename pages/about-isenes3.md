@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "About ISENES3"
+title: "About the IS-ENES3 Project"
 subheadline: "An introduction to ISENES3"
 teaser: "This tells you all about ISENES3 sciencey shtuffs."
 header:
@@ -23,3 +23,24 @@ header:
     image_fullwidth: "widget-1-302x182.jpg"
 
 ---
+
+[**Objectives**](https://valeriupredoi.github.io/objectives/)
+
+IS-ENES3 is divided into 4 main objectives.
+
+[Find out more](https://valeriupredoi.github.io/objectives/)
+	
+
+[**Description of Work**](https://valeriupredoi.github.io/description-of-work/)
+
+Detailed description of the project Work Packages.
+
+[Find out more](https://valeriupredoi.github.io/description-of-work/)
+	
+
+[**Partners**](https://valeriupredoi.github.io/partners/)
+
+The consortium comprises 22 partners from 11 countries.
+
+[Find out more](https://valeriupredoi.github.io/partners/)
+
