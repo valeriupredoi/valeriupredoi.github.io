@@ -12,7 +12,7 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 3.1
+        ruby-version: 3.0
     - name: Cache Ruby deps
       uses: actions/cache@v2
       with:
