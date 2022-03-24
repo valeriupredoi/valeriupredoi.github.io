@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: Access Calls
 subheadline: ISENES3 Access Calls
-teaser: "ISENES3 stuff related to Access Calls."
+teaser: "ISENES3 stuff SOS related to Access Calls."
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/access-calls/"
