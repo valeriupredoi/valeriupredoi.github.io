@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Description of Work
-subheadline: ISENES3 Work Summary
+title: "WP3 (NA2): Community Engagement"
+# subheadline: ISENES3 Work Summary
 # teaser: The work we do in ISENES3
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/description-of-work/"
+permalink: "/wp3/"
 categories:
     - design
 tags:
@@ -15,41 +15,19 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: ISENES3 Description of Work
+    title: Work Package 3 (WP3)
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
     image_fullwidth: "widget-1-302x182.jpg"
 
 ---
+WP3/NA2 aims at further engaging with the community of users of IS-ENES services. This will be done through widening the user base through training, engaging the community in co-constructing standards and expressing needs, and engaging the younger generation in interdisciplinary approaches. Target users will be the climate researchers and the vulnerability, impacts and adaptation (VIA) researchers. WP3/NA2 will also target societal innovation through the emerging climate service providers.
 
-IS-ENES3 is structured into 10 work packages, 4 Networking Activities (NA), 2 Service Activities (SA), 3 Joint Research Activities (JRA) and one work package dedicated to the project coordination & management. One virtual work package is dedicated to Innovation.
+The first objective of this WP is to **widen the IS-ENES user community** especially toward new science, as well as towards industry and societal users, strengthening the innovation dimension of the IS-ENES3 project. A two-way dialogue is sought, aimed at enhancing the responsiveness of IS-ENES3 to communities and developing wider participation, particularly outside of academia. Prominent targets include VIA researchers, the Copernicus Programme and the fast developing climate services industry.
 
-*Here is a schematic representation of IS-ENES3 objectives and organisation of work packages:*
+The second objective is to **nurture the existing ENES users/stakeholders community** creating deeper links and mutual understanding between users and developers via a number of co-construction actions such as workshops and training. One key goal will be to train the younger generation of scientists and climate service experts (keeping the gender balance in mind) via schools, furthering the successful cross-disciplinary network of expertise promoted by ENES for the last 15 years.
 
-![work-packages](../images/OverviewISENES3WPs.jpg)
+The third objective is to **expand community standards** which serve the ENES community. Standards in Earth system science are numerous and it is key to evaluate which can be used or adapted for IS-ENES use and which need to be developed. The existing standards used by ENES are not necessarily the same as the standards in user communities (e.g. impacts) and a venue for exchanging on these standards is needed to collect user requirement and provide training.
 
-
-### List of IS-ENES3 Work Packages:
-
-#### [WP1: Coordination, dissemination and management of IS-ENES3](https://valeriupredoi.github.io/wp1)
-
-This work package will ensure an effective, smooth and high-quality implementation of the project, with respect to both general administrative and management practices that are expected for projects funded via the EC programmes, and with respect to financial management.
-
-**Networking activities:**
-
-#### [NA1 (WP2): Governance, Sustainability and Innovation](https://valeriupredoi.github.io/wp2)
-
-This work package addresses the objective for IS-ENES3 to pursue integration of the community and prepare for sustainability through relationships with stakeholder partners and governance and leading the IS-ENES3 strategy on innovation.
-
-#### [NA2 (WP3): Community Engagement](https://valeriupredoi.github.io/wp3)
-
-This work package aims at further engaging with the community of users of IS-ENES services, by widening the user base through training, engaging the community in co-constructing standards and expressing needs, and engaging the younger generation in interdisciplinary approaches.
-
-#### [NA3 (WP4): Networking on Models, Tools and efficient use of HPC](https://valeriupredoi.github.io/wp4)
-
-This networking work package will ensure that the partners develop European models and tool in a sustainable way for the benefit of as wide a community as possible based on user requirements.
-
-#### [NA4 (WP5): Networking on data and model evaluation](https://valeriupredoi.github.io/wp5)
-
-This work package aims at identifying and, when possible, defining connections around the data, metadata and “data centric compute” activities in Europe and worldwide in order to foster the dissemination of data and information of all kinds relevant for the climate research community.
+The final integrating goal is to **collect user feedback and requirements** both from actions in this WP and other WPs as well as dedicated actions to provide a synthesis of technical and services requirements to the project coordination.
