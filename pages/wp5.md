@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Description of Work
-subheadline: ISENES3 Work Summary
+title: "WP5 (NA4): Networking on data and model evaluation"
+# subheadline: ISENES3 Work Summary
 # teaser: The work we do in ISENES3
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/description-of-work/"
+permalink: "/wp5/"
 categories:
     - design
 tags:
@@ -15,41 +15,17 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: ISENES3 Description of Work
+    title: Work Package 5 (WP5)
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
     image_fullwidth: "widget-1-302x182.jpg"
 
 ---
+IS-ENES3 third objective requires the dissemination of, and timely access to, data and information of all kinds relevant for the climate research community and a broad portion of the impact community. To that end, WP5/NA4 aims at identifying and when possible defining connections around the data, metadata and “data centric compute” activities in Europe and worldwide.
 
-IS-ENES3 is structured into 10 work packages, 4 Networking Activities (NA), 2 Service Activities (SA), 3 Joint Research Activities (JRA) and one work package dedicated to the project coordination & management. One virtual work package is dedicated to Innovation.
+WP5/NA4 will build synergies around data, metadata and data-centric compute activities in Europe and worldwide, in order to get a scalable, robust, easy-to-operate and cost-effective infrastructure, built on top of state-of-the-art technologies and standards, and an architectural design driven by scientific user needs and requirements. Interoperability with other research infrastructures will represent a key aspect on the work package. For this, WP5/NA4 will strengthen existing relationships at single-institution, European or international level, for example with WGCM Infrastructure Panel (WIP), IPCC Working Groups, Copernicus Climate Change Service projects, EOSC projects, Environmental research infrastructure community.
 
-*Here is a schematic representation of IS-ENES3 objectives and organisation of work packages:*
+WP5/NA4 will strengthen the European contribution to the development of the international ESGF data infrastructure influencing priorities on replication strategies, support and access metrics. WP5/NA4 will ensure metadata standards can be sustained within ES-DOC. Coding sprints and hackathons for development groups will develop services and compute-based applications.
 
-![work-packages](../images/OverviewISENES3WPs.jpg)
-
-
-### List of IS-ENES3 Work Packages:
-
-#### [WP1: Coordination, dissemination and management of IS-ENES3](https://valeriupredoi.github.io/wp1)
-
-This work package will ensure an effective, smooth and high-quality implementation of the project, with respect to both general administrative and management practices that are expected for projects funded via the EC programmes, and with respect to financial management.
-
-**Networking activities:**
-
-#### [NA1 (WP2): Governance, Sustainability and Innovation](https://valeriupredoi.github.io/wp2)
-
-This work package addresses the objective for IS-ENES3 to pursue integration of the community and prepare for sustainability through relationships with stakeholder partners and governance and leading the IS-ENES3 strategy on innovation.
-
-#### [NA2 (WP3): Community Engagement](https://valeriupredoi.github.io/wp3)
-
-This work package aims at further engaging with the community of users of IS-ENES services, by widening the user base through training, engaging the community in co-constructing standards and expressing needs, and engaging the younger generation in interdisciplinary approaches.
-
-#### [NA3 (WP4): Networking on Models, Tools and efficient use of HPC](https://valeriupredoi.github.io/wp4)
-
-This networking work package will ensure that the partners develop European models and tool in a sustainable way for the benefit of as wide a community as possible based on user requirements.
-
-#### [NA4 (WP5): Networking on data and model evaluation](https://valeriupredoi.github.io/wp5)
-
-This work package aims at identifying and, when possible, defining connections around the data, metadata and “data centric compute” activities in Europe and worldwide in order to foster the dissemination of data and information of all kinds relevant for the climate research community.
+Community model evaluation is expected to play an increasingly important role in the ESM model development process. WP5/NA4 will collect current and future requirements over the next decade towards a fast and scalable model evaluation tool. The activity will provide the definition, delivery, documentation, and dissemination of common protocols and standards covering modularity for existing packages, new community diagnostics, and investigation of (re-) usability and of efficient interfaces to map among different languages. This will be instrumental to inform related work in WP9/JRA2.
