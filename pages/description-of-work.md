@@ -53,3 +53,27 @@ This networking work package will ensure that the partners develop European mode
 #### [NA4 (WP5): Networking on data and model evaluation](https://valeriupredoi.github.io/wp5)
 
 This work package aims at identifying and, when possible, defining connections around the data, metadata and “data centric compute” activities in Europe and worldwide in order to foster the dissemination of data and information of all kinds relevant for the climate research community.
+
+**Service activities**
+
+#### [VA1 (WP6): Services on European ESMs and Software Tools](https://valeriupredoi.github.io/wp6)
+
+This work package, building on previous work and structures established in the past two phase of IS-ENES, will further maintain, extend, and improve services around the main European ESMs, and the NEMO ocean model, and their respective development and user communities.
+
+#### [VA2 (WP7): Data standards, distribution and processing services](https://valeriupredoi.github.io/wp7)
+
+The work package will provide operational support to the climate and climate impact research communities and other communities using the data and tooling provided by IS-ENES3.
+
+**Joint research activities**
+
+#### [JRA1 (WP8): Models & Tools developments](https://valeriupredoi.github.io/wp8)
+
+The work package will further develop community models and tools with the development of a unified European platform for Sea Ice to be implemented within NEMO, and with the identification and development of additional community tools, i.e. XIOS for data flow management and Cylc/Rose for the automation of suites of tasks.
+
+#### [JRA2 (WP9): Earth System Model Evaluation developments](https://valeriupredoi.github.io/wp9)
+
+The work package aims at further developing the Earth System Model Evaluation Tool ([ESMValTool](https://www.esmvaltool.org/)), a community-development that aims at facilitating model evaluation within CMIP and at individual modelling centres.
+
+#### [JRA3 (WP10): Climate Data Infrastructure software stack developments](https://valeriupredoi.github.io/wp10)
+
+Driven by requirements and needs gathered by WP5/NA4, this work package activities will provide sustainable, streamlined, and scalable foundation for the climate data infrastructure software stack that will be run in production in WP7/VA2.
