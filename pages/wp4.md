@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Description of Work
-subheadline: ISENES3 Work Summary
+title: "WP4 (NA3): Networking on Models, Tools and efficient use of HPC"
+# subheadline: ISENES3 Work Summary
 # teaser: The work we do in ISENES3
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/description-of-work/"
+permalink: "/wp4/"
 categories:
     - design
 tags:
@@ -22,34 +22,10 @@ header:
     image_fullwidth: "widget-1-302x182.jpg"
 
 ---
+For the climate research community in Europe, models and tools make up the main research infrastructure for pushing forward the boundaries of climate science. This networking work-package is required to ensure that the partners develop those models and tools in a sustainable way for the benefit of as wide a community as possible based on user requirements. This IS-ENES3 Networking Activity differs compared with the objectives of ISENES2 both through a new work-package structure and through a greater emphasis on Networking Activities supporting the Joint Research Activities.
 
-IS-ENES3 is structured into 10 work packages, 4 Networking Activities (NA), 2 Service Activities (SA), 3 Joint Research Activities (JRA) and one work package dedicated to the project coordination & management. One virtual work package is dedicated to Innovation.
+WP4/NA3 will look to find **new ways to exploit available hardware and software technologies**, not only for HPC applications, but also in new areas such as machine learning and artificial intelligence (AI). Another new opportunity is to provide networking support to **develop a new community infrastructure for modelling sea ice** that will be adopted by the members of the NEMO consortium. For the NEMO ocean model, the consortium will be strengthened through investment in an improved testing infrastructure to encourage wider adoption.
 
-*Here is a schematic representation of IS-ENES3 objectives and organisation of work packages:*
+The **challenges of achieving good computational performance** in complex coupled Earth Systems Models (ESMs) are stretching the community and the work-package will coordinate approaches and knowledge across this community. Workshops are another important opportunity for community building around our significant technical challenges. We will continue with the highly successful international workshops on coupling technologies and HPC as well as new workshops.
 
-![work-packages](../images/OverviewISENES3WPs.jpg)
-
-
-### List of IS-ENES3 Work Packages:
-
-#### [WP1: Coordination, dissemination and management of IS-ENES3](https://valeriupredoi.github.io/wp1)
-
-This work package will ensure an effective, smooth and high-quality implementation of the project, with respect to both general administrative and management practices that are expected for projects funded via the EC programmes, and with respect to financial management.
-
-**Networking activities:**
-
-#### [NA1 (WP2): Governance, Sustainability and Innovation](https://valeriupredoi.github.io/wp2)
-
-This work package addresses the objective for IS-ENES3 to pursue integration of the community and prepare for sustainability through relationships with stakeholder partners and governance and leading the IS-ENES3 strategy on innovation.
-
-#### [NA2 (WP3): Community Engagement](https://valeriupredoi.github.io/wp3)
-
-This work package aims at further engaging with the community of users of IS-ENES services, by widening the user base through training, engaging the community in co-constructing standards and expressing needs, and engaging the younger generation in interdisciplinary approaches.
-
-#### [NA3 (WP4): Networking on Models, Tools and efficient use of HPC](https://valeriupredoi.github.io/wp4)
-
-This networking work package will ensure that the partners develop European models and tool in a sustainable way for the benefit of as wide a community as possible based on user requirements.
-
-#### [NA4 (WP5): Networking on data and model evaluation](https://valeriupredoi.github.io/wp5)
-
-This work package aims at identifying and, when possible, defining connections around the data, metadata and “data centric compute” activities in Europe and worldwide in order to foster the dissemination of data and information of all kinds relevant for the climate research community.
+A **specific task around innovation** is included to ensure that we are bringing climate science knowledge and information to the attention of industry. The requirements from users and developers of the HPC applications used by our community will be collected through this task, creating a common understanding about future needs from HPC vendors. Moreover, interacting with industry on AI and machine learning could provide new services based on available data. Lastly, solution providers in the HPC market, such as Altair, will be encouraged to exploit opportunities around complex workflow management by interaction with our Cylc activities in WP8/JRA1.
