@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="https://valeriupredoi.github.io//assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000//assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="https://valeriupredoi.github.io//assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000//assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,13 +38,13 @@
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="https://valeriupredoi.github.io//assets/xslt/rss.xslt">
+	<link rel="canonical" href="http://localhost:4000//assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="ISENES3 EU Collaboration">
-	<meta property="og:url" content="https://valeriupredoi.github.io//assets/xslt/rss.xslt">
+	<meta property="og:url" content="http://localhost:4000//assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="ISENES3 Toy Website Nice">
@@ -62,34 +62,34 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="https://valeriupredoi.github.io//humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000//humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="https://valeriupredoi.github.io/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="https://valeriupredoi.github.io/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://valeriupredoi.github.io/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://valeriupredoi.github.io/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://valeriupredoi.github.io/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://valeriupredoi.github.io/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://valeriupredoi.github.io/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://valeriupredoi.github.io/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://valeriupredoi.github.io/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="https://valeriupredoi.github.io/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="https://valeriupredoi.github.io/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -105,7 +105,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="https://valeriupredoi.github.io/" class="icon-tree"> ISENES3 Toy Website Nice</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000/" class="icon-tree"> ISENES3 Toy Website Nice</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -164,7 +164,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://valeriupredoi.github.io//search/">Search</a></li>
+              <li><a  href="http://localhost:4000//search/">Search</a></li>
 
             
             
@@ -180,7 +180,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="https://valeriupredoi.github.io//contact/">Contact</a></li>
+              <li><a  href="http://localhost:4000//contact/">Contact</a></li>
 
             
             
@@ -199,7 +199,7 @@
 
             
             
-              <li><a  href="https://valeriupredoi.github.io//">Home</a></li>
+              <li><a  href="http://localhost:4000//">Home</a></li>
               <li class="divider"></li>
 
             
@@ -216,24 +216,24 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://valeriupredoi.github.io//about-isenes3/">About ISENES3</a>
+                <a  href="http://localhost:4000//about-isenes3/">About ISENES3</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//objectives/">Objectives</a></li>
+                      <li><a  href="http://localhost:4000//objectives/">Objectives</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//description-of-work/">Description of Work</a></li>
+                      <li><a  href="http://localhost:4000//description-of-work/">Description of Work</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//partners/">Partners</a></li>
+                      <li><a  href="http://localhost:4000//partners/">Partners</a></li>
                     
                   </ul>
 
@@ -252,39 +252,39 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://valeriupredoi.github.io//events-and-news/">Events and News</a>
+                <a  href="http://localhost:4000//events-and-news/">Events and News</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//access-calls">Access Calls</a></li>
+                      <li><a  href="http://localhost:4000//access-calls">Access Calls</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//training">Training</a></li>
+                      <li><a  href="http://localhost:4000//training">Training</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//workshops">Workshops</a></li>
+                      <li><a  href="http://localhost:4000//workshops">Workshops</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//newsletters">Newsletters</a></li>
+                      <li><a  href="http://localhost:4000//newsletters">Newsletters</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//gallery/">Gallery</a></li>
+                      <li><a  href="http://localhost:4000//gallery/">Gallery</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//portfolio/">Portfolio</a></li>
+                      <li><a  href="http://localhost:4000//portfolio/">Portfolio</a></li>
                     
                   </ul>
 
@@ -303,44 +303,44 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://valeriupredoi.github.io//services-data-metadata/">Services on Data&amp;Metadata</a>
+                <a  href="http://localhost:4000//services-data-metadata/">Services on Data&amp;Metadata</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//data-discovery/">Data Discovery</a></li>
+                      <li><a  href="http://localhost:4000//data-discovery/">Data Discovery</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//climate4impact/">Climate4Impact Portal</a></li>
+                      <li><a  href="http://localhost:4000//climate4impact/">Climate4Impact Portal</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//derived-data/">Derived Data Products</a></li>
+                      <li><a  href="http://localhost:4000//derived-data/">Derived Data Products</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//analysis-platforms/">Analysis Platforms</a></li>
+                      <li><a  href="http://localhost:4000//analysis-platforms/">Analysis Platforms</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//metadata-services/">Metadata Services</a></li>
+                      <li><a  href="http://localhost:4000//metadata-services/">Metadata Services</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//data-publication/">Data Publication</a></li>
+                      <li><a  href="http://localhost:4000//data-publication/">Data Publication</a></li>
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//support-contacts/">Support Contacts</a></li>
+                      <li><a  href="http://localhost:4000//support-contacts/">Support Contacts</a></li>
                     
                   </ul>
 
@@ -359,14 +359,14 @@
             
 
               <li class="has-dropdown">
-                <a  href="https://valeriupredoi.github.io//blog/">Blog</a>
+                <a  href="http://localhost:4000//blog/">Blog</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="https://valeriupredoi.github.io//blog/archive/">Blog Archive</a></li>
+                      <li><a  href="http://localhost:4000//blog/archive/">Blog Archive</a></li>
                     
                   </ul>
 
@@ -398,8 +398,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://valeriupredoi.github.io/" title="ISENES3 Toy Website Nice – A good EU project! By good people: Fanny and Sophie :)">
-				<img src="https://valeriupredoi.github.io//assets/img/logo.png" alt="ISENES3 Toy Website Nice – A good EU project! By good people: Fanny and Sophie :)">
+			<a id="logo" href="http://localhost:4000/" title="ISENES3 Toy Website Nice – A good EU project! By good people: Fanny and Sophie :)">
+				<img src="http://localhost:4000//assets/img/logo.png" alt="ISENES3 Toy Website Nice – A good EU project! By good people: Fanny and Sophie :)">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -477,7 +477,7 @@
 
             <p class="shadow-black">
               ISENES3 EU Collaboration
-              <a href="https://valeriupredoi.github.io//info/">More ›</a>
+              <a href="http://localhost:4000//info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -499,22 +499,22 @@
               
                 
                   <li >
-                    <a href="https://valeriupredoi.github.io/"  title=""></a>
+                    <a href="http://localhost:4000/"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="https://valeriupredoi.github.io//contact/"  title="Contact">Contact</a>
+                    <a href="http://localhost:4000//contact/"  title="Contact">Contact</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://valeriupredoi.github.io//feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                    <a href="http://localhost:4000//feed.xml"  title="Subscribe to RSS Feed">RSS</a>
                   </li>
               
                 
                   <li >
-                    <a href="https://valeriupredoi.github.io//info/"  title="Legeal crap here.">Legal Stuff</a>
+                    <a href="http://localhost:4000//info/"  title="Legeal crap here.">Legal Stuff</a>
                   </li>
               
               </ul>
@@ -540,7 +540,7 @@
             
               
                 <li >
-                  <a href="https://valeriupredoi.github.io/"  title=""></a>
+                  <a href="http://localhost:4000/"  title=""></a>
                 </li>
             
               
@@ -596,7 +596,7 @@
 		
 
 
-<script src="https://valeriupredoi.github.io//assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000//assets/js/javascript.min.js"></script>
 
 
 
