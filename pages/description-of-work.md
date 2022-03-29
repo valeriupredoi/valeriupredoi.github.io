@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: Description of Work
 subheadline: ISENES3 Work Summary
-teaser: The work we do in ISENES3
+# teaser: The work we do in ISENES3
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/description-of-work/"
@@ -23,19 +23,18 @@ header:
 
 ---
 
-Edit file: `pages/description-of-work.md`.
+IS-ENES3 is structured into 10 work packages, 4 Networking Activities (NA), 2 Service Activities (SA), 3 Joint Research Activities (JRA) and one work package dedicated to the project coordination & management. One virtual work package is dedicated to Innovation.
 
-## Some title
+*Here is a schematic representation of IS-ENES3 objectives and organisation of work packages:*
+
+![work-packages](images/OverviewISENES3WPs.jpg)
+
 
 List of IS-ENES3 Work Packages:
- 
- 
 
 ## WP1: Coordination, dissemination and management of IS-ENES3
 
 This work package will ensure an effective, smooth and high-quality implementation of the project, with respect to both general administrative and management practices that are expected for projects funded via the EC programmes, and with respect to financial management.
-
- 
 
 Networking activities:
 

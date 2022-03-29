@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 title: Objectives
 subheadline: "About the aims and objectives of the Project"
 # teaser: "This tells you all about ISENES3 sciencey shtuffs."
