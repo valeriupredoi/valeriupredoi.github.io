@@ -1,8 +1,8 @@
 ---
-layout: page-fullwidth
+layout: page
 title: Partners
-subheadline: ISENES3 Key Partners
-teaser: "ISENES3 Partners are many and varied."
+subheadline: Partners Table
+# teaser: "ISENES3 Partners are many and varied."
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/partners/"
@@ -15,7 +15,7 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: ISENES3 Partners
+    title: ISENES3 Partner Institutions
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
@@ -23,6 +23,7 @@ header:
 
 ---
 
+**The Consortium comprises 22 partners from 11 countries:**
 
 Partner Number  | Organization Name | Acronym | Country
 :--------------:|:-----------------:|:-------:|:-------:
