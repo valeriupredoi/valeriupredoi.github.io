@@ -27,7 +27,7 @@ IS-ENES3 is structured into 10 work packages, 4 Networking Activities (NA), 2 Se
 
 *Here is a schematic representation of IS-ENES3 objectives and organisation of work packages:*
 
-![work-packages](images/OverviewISENES3WPs.jpg)
+![work-packages](../images/OverviewISENES3WPs.jpg)
 
 
 List of IS-ENES3 Work Packages:
