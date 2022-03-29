@@ -27,8 +27,8 @@ header:
 
 Partner Number  | Organization Name | Acronym | Country
 :--------------:|:-----------------:|:-------:|:-------:
-1 - Coordinator | Centre National de la Recherche Scientifique | CNRS-IPSL | France
-2 | The University of Reading | UREAD-NCAS | United Kingdom
+1 - Coordinator | [Centre National de la Recherche Scientifique](https://valeriupredoi.github.io/partners-detailed#cnrs-ipsl) | CNRS-IPSL | France
+2 | [The University of Reading](https://valeriupredoi.github.io/partners-detailed#uread) | UREAD-NCAS | United Kingdom
 3 | Deutsches Klimarechenzentrum GmbH | DKRZ | Germany
 4 | Centre Européen de Recherche et de Formation Avancée en Calcul Scientifique | CERFACS | France
 5 | The Met Office | MET OFFICE | United Kingdom
