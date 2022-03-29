@@ -23,7 +23,7 @@ header:
 
 ---
 
-### CNRS-IPSL
+### <a name="cnrs-ipsl"></a>CNRS-IPSL
 
 The Centre National de la Recherche Scientifique (CNRS), is the main French public research institution under the responsibility of the French Ministry of Education and Research. CNRS acts here in the name of the Institut Pierre Simon Laplace (IPSL), 
 which is a federal institute located in Paris and composed of 9 research laboratories working on global environmental and climate studies. IPSL gathers about 1000 scientists and represents more than a third of the French research potential in atmospheric and oceanic sciences. Laboratories from IPSL involved in IS-ENES3 are Laboratoire des Sciences du Climat et de l'Environnement (LSCE), Laboratoire d’Océanographie et du Climat (LOCEAN), Laboratoire Atmosphère, Milieux, Observations Spatiales (LATMOS), the IPSL federative unit as well as personnel from the joint unit Ecce Terra (UMS Ecce Terra) working within IPSL. One of the main objectives of IPSL is to understand climate variability and change, from both natural and anthropogenic origin, at global and regional scales.
@@ -34,7 +34,7 @@ Tasks assigned:
 
 CNRS-IPSL will coordinate the project, be involved in WP2 on strategy, lead WP3/NA2 on community engagement and WP5/NA4 on networking on data and model evaluation. CNRS will also be involved in data and metadata service and developments (WP7/SA2 and WP10/JRA3), on the new community sea ice model (WP4/NA3 and WP8/JRA1), on the XIOS software (WP6/SA1 and WP8/JRA1), and on model evaluation (WP3/NA2 and WP9/JRA2).
 
-### University of Reading (UREAD-NCAS)
+### <a name="uread"></a>University of Reading (UREAD-NCAS)
 
 The University of Reading was established in 1892 and is now a world-class university with campuses in the UK and Malaysia. The proposed work will be carried out in the School for Mathematical, Physical and Computational Sciences, with contributions from the Department of Computer Science alongside substantial engagement from the UK National Centre for Atmospheric Science (NCAS) virtual research centre based in the Department of Meteorology.
 
