@@ -24,11 +24,9 @@
   - title: "Workshops"
     url: "/workshops"
   - title: "Newsletters"
-    url: "/newsletters"
+    url: "/design/newsletters"
   - title: "Gallery"
-    url: "/gallery/"
-  - title: "Portfolio"
-    url: "/portfolio/"
+    url: "/design/gallery"
 
 - title: "Services on Data&Metadata"
   url: "/services-data-metadata/"
