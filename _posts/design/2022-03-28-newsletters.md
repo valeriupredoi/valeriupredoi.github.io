@@ -1,40 +1,38 @@
 ---
 layout: page
-#
-# Content
-#
-subheadline: "Newsletters"
-title: "Check out our latest news"
-teaser: "Blurp."
+title: "Check out our latest newsletters"
+# teaser: "Blurp."
 categories:
   - design
 tags:
-  - audio player
-  - video player
-  - streaming music
-#
-# Styling
-#
+  - newsletters
+  - events
+  - is-enes3
 header: no
 image:
     title: widget-1-302x182.jpg
     thumb: widget-1-302x182.jpg
     homepage: widget-1-302x182.jpg
-    caption: Our News team.
+    # caption: Our News team.
     caption_url: https://valeriupredoi.github.io/newsletters/
 ---
 
-From our previous newsletters:
+#### [Newsletter 10 - March 2022](https://mailchi.mp/4dec2a91d400/is-enes3-march-15926664?e=669a346a59)
 
-## Newsletter Article 1
+#### [Newsletter 9 - December 2021](https://mailchi.mp/b42fb96ebb9f/is-enes3-newsletter-march-13472968?e=%5BUNIQID%5D)
 
-[»Music From All Around The World«][1] is a compilation curated by Jeannette Corneille and Moritz "mo." Sauer for [Phlow-Magazine.com][2]. Cover [Artwork designed by Jeannette Corneille][1]. All tracks were released under a [creative commons licence][2].
+#### [Newsletter 8 - June 2021](https://mailchi.mp/ce4c10cd4f68/is-enes3-newsletter-march-13424403)
 
-### Newsletter Article 2
+#### [Newsletter 7 - March 2021](https://mailchi.mp/dd18c5fe7bc7/is-enes3-newsletter-march-2021?e=669a346a59)
 
-Boohoo.
+#### [Newsletter 6 - December 2020](https://mailchi.mp/c13ba9a7ab4e/is-enes3-newsletter-december-2020?e=%5BUNIQID%5D)
 
+#### [Newsletter 5 - September 2020](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/IS-ENES3%20Newsletter%20-%20September%202020.pdf)
 
+#### [Newsletter 4 - April 2020](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/IS-ENES3%20Newsletter%20-%20April%202020.pdf)
 
- [1]: http://mediaelementjs.com/
- [2]: http://jcorneille.de/
+#### [Newsletter 3 - February 2020](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/IS-ENES3%20Newsletter%20February%202020.pdf)
+
+#### [Newsletter 2 - October 2019](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/IS-ENES3_Newsletter_2_October_2019.pdf)
+
+#### [Newsletter 1 - June 2019](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/IS-ENES3_Newsletter_1_June_2019.pdf)
