@@ -1,0 +1,692 @@
+
+/* - ++theme++dkrz.themeenes/stylesheets/content.css - */
+@media screen {
+/* https://is.enes.org/portal_css/++theme++dkrz.themeenes/stylesheets/content.css?original=1 */
+h1, h2, h3, h4, h5, h6 {
+font-family:Verdana, Geneva, Arial, sans-serif;
+color: #858789;
+}
+body {
+font: 13px Verdana, Geneva, Arial, sans-serif;
+font-size: 100%;
+color:#858789;
+}
+h1 {
+font-size:180%;
+font-weight: normal;
+}
+h2 {
+font-size:150%;
+font-weight: normal;
+}
+#content h2 a:link,
+#content h2 a:visited {
+color: #858789;
+}
+/* */
+.ploneSkin .mceIframeContainer {
+border: none !important;
+}
+body#content.mceContentBody {
+margin: 0em  !important;
+}
+.isSiteRoot.section-front-page #content {
+font-size: 93%;
+line-height: 1.8em;
+padding-left: 20px;
+padding-top: 60px;
+padding-bottom: 2.5em;
+}
+.quad {
+width: 94px;
+height: 94px;
+overflow: hidden;
+display: block;
+}
+span.left {
+float: left;
+margin:0 0.5em 0.5em 0em;
+}
+span.right {
+float: right;
+margin:0 0.5em 0em 0.5em;
+}
+table.twocolumns td {
+width: 49%;
+}
+#content p, #content table, #content dl {
+text-align: justify;
+}
+#content a:link,
+#content a:link:hover,
+#content a:visited
+{
+color: #004494;
+border-bottom: None;
+}
+/* */
+.portlet-static-logos {
+text-align: center;
+}
+/* */
+.foldersummary .descriptionbar{
+font-size: 150%;
+padding-bottom: 4px;
+}
+background-color: black;
+.foldersummary table.summarytable.two_columns img.image {
+max-width: 128px;
+float: left;
+padding-right: 0.5em;
+}
+.foldersummary table.summarytable.two_columns td.two-col-cell {
+line-height: 1.2em;
+padding-left: 1.3em;
+padding-right: 1.3em;
+vertical-align: top;
+}
+#content .foldersummary table.summarytable.two_columns td p.text {
+text-align: left;
+}
+#content .foldersummary table.summarytable tr td p.title{
+font-weight: bold;
+margin-bottom: 0;
+}
+#content .foldersummary table.summarytable tr td p.more-link{
+margin-bottom: 0;
+}
+#content .foldersummary table.summarytable tr td p.title a:link,
+#content .foldersummary table.summarytable tr td p.title a:visited {
+color: #858789;
+}
+.foldersummary table.summarytable.one_column td.thumbnail {
+vertical-align: top;
+padding-top: 0.5em;
+}
+.foldersummary table.summarytable.one_column td.description {
+padding-left: 0.5em;
+}
+.foldersummary table.summarytable.one_column td.rowdivider {
+padding-bottom: 0.5em;
+padding-top: 0.5em;
+}
+.foldersummary table.summarytable.one_column td.rowdivider hr{
+background-color: #C2C2C2;
+border: 0 none;
+color: #C2C2C2;
+height: 1px;
+}
+.foldersummary table.summarytable tr td span.title{
+color: #858789;
+}
+.foldersummary table.summarytable tr.highlight{
+background-color: #f5fbff;
+}
+body.template-dkrz_foldersummary_view.userrole-anonymous #plone-document-byline{
+text-align: right;
+}
+.foldersummary h1.documentFirstHeading{
+display: none;
+}
+/* */
+table.listing{
+background-color: white;
+}
+
+}
+
+
+/* - ++resource++plone.formwidget.datetime/styles.css - */
+@media screen {
+/* https://is.enes.org/portal_css/++resource++plone.formwidget.datetime/styles.css?original=1 */
+#content a.caltrigger {
+background: url("++resource++plone.formwidget.datetime/popup_calendar.gif") no-repeat scroll 0 0;
+height: 16px;
+width: 16px;
+display: inline-block;
+vertical-align: middle;
+border: none;
+margin: 0;
+padding: 0;
+border-radius: none;
+}
+
+}
+
+
+/* - ++resource++plone.formwidget.recurrence/jquery.recurrenceinput.css - */
+@media all {
+/* https://is.enes.org/portal_css/++resource++plone.formwidget.recurrence/jquery.recurrenceinput.css?original=1 */
+div.riform {
+padding: 1em;
+background-color: white;
+box-shadow: 0 0 3em 0.5em #666;
+line-height: 2;
+-moz-box-shadow: 0 0 3em 0.5em #666;
+-webkit-box-shadow: 0 0 3em #666;
+}
+div.riform h1 {
+color: #888888;
+border-bottom: 1px solid #DDDDDD;
+font-size: 20px;
+line-height: 1;
+margin: 0;
+padding-bottom: 5px;
+padding-left: 5px;
+}
+div.riform form {
+margin-bottom: 0;
+}
+div.riform .rifield {
+clear: both;
+}
+div.riform .rifield .field {
+float:left;
+clear: none;
+}
+div.riform .label {
+display: block;
+float: left;
+font-weight: bold;
+margin-right: 10px;
+text-align: right;
+width: 130px;
+}
+div.riform #rirtemplate {
+margin-top: 6px;
+}
+div#riformfields {
+min-height: 11em;
+min-width: 25em;
+}
+div.riform #rirangeoptions input,
+div.riform #rimonthlyoptions input,
+div.riform #riyearlyoptions input {
+margin: 0;
+}
+div.riform #riweeklyweekdays .riweeklyweekday input {
+display:block;
+margin: 8px auto 0;
+}
+div.riform #riweeklyweekdays .riweeklyweekday label {
+display:block;
+}
+div.riform #riweeklyweekdays .riweeklyweekday {
+margin-right: 15px;
+float: left;
+}
+div.riform input.ricancelbutton {
+background-image: url(/++resource++plone.formwidget.recurrence/pb_close.png);
+background-color: transparent;
+font-size: 0; /* */
+color: transparent;
+border: none;
+position: absolute;
+left: -14px;
+top: -14px;
+cursor: pointer;
+height: 30px;
+width: 30px;
+}
+div.rioccurrencesactions .riaddoccurrence #adddate {
+width: 75%;
+}
+div.rioccurrencesactions .rioccurancesheader {
+border-bottom: 1px solid #DDDDDD;
+line-height: 1.5;
+clear: both;
+margin-top: 30px;
+}
+div.rioccurrencesactions .rioccurancesheader h2 {
+color: #888888;
+display: inline;
+font-size: 18px;
+font-weight: bold;
+margin: 0px 0px 5px 5px;
+}
+div.rioccurrences div.batching {
+font-size: 70%;
+text-align: center;
+}
+div.rioccurrences span.current {
+font-weight: bold;
+}
+div.riform span.action a {
+height: 19px;
+width: 19px;
+overflow: hidden;
+float: right;
+text-indent: 9999px;
+}
+div.rioccurrences .occurrence {
+border-top: 1px solid transparent;
+border-bottom: 1px solid transparent;
+}
+div.rioccurrences .occurrence:hover {
+border-top: 1px solid #DDDDDD;
+border-bottom: 1px solid #DDDDDD;
+}
+div.rioccurrences .occurrence.start span.rlabel,
+div.rioccurrences .occurrence.rdate span.rlabel {
+color: #9CBA9B;
+margin: 0 5px;
+font-size: 70%;
+font-weight: bold;
+}
+div.rioccurrences .occurrence.exdate {
+opacity:0.4;
+filter:alpha(opacity=40);
+}
+div.ridisplay .occurrence.exdate {
+display: none;
+}
+div.rioccurrences .occurrence.rdate {
+background: #FFFFE0;
+}
+div.rioccurrences div.occurrence {
+margin-left: 5px;
+}
+div.rioccurrences a.rrule,
+div.rioccurrences a.rdate,
+div.rioccurrences a.exdate {
+color: transparent;
+margin-top: 6px;
+margin-right: 5px;
+}
+div.rioccurrences a.rrule {
+background-image: url(/++resource++plone.formwidget.recurrence/delete.png);
+}
+div.rioccurrences a.rdate {
+background-image: url(/++resource++plone.formwidget.recurrence/delete.png);
+}
+div.rioccurrences a.exdate {
+background-image: url(/++resource++plone.formwidget.recurrence/undelete.png);
+}
+div.rioccurrencesactions a.rirefreshbutton {
+background-image: url(/++resource++plone.formwidget.recurrence/refresh.png);
+color: transparent;
+margin-top: 4px;
+margin-right: 5px;
+}
+div#messagearea,
+div.errorarea {
+display: none;
+background-color: red;
+color: white;
+font-weight: bold;
+padding: 2px 10px;
+}
+div#calroot {
+z-index:10000;
+}
+div.ributtons .risavebutton {
+display: block;
+margin: 30px auto 0;
+}
+}
+
+
+/* - ++resource++plone.formwidget.recurrence/integration.css - */
+@media all {
+/* https://is.enes.org/portal_css/++resource++plone.formwidget.recurrence/integration.css?original=1 */
+div.riform { font-size: 80%; }
+div.riform { border: 2px solid black\9; /**/ }
+
+}
+
+
+/* - ++resource++plone.app.event/event.css - */
+@media screen {
+/* https://is.enes.org/portal_css/++resource++plone.app.event/event.css?original=1 */
+/* */
+/* */
+.icons-on .contenttype-plone-app-event-dx-event {
+background: url("event_icon.png") no-repeat scroll 0 4px transparent;
+}
+.icons-on .contenttype-plone-app-event-dx-event {
+line-height: 2em;
+display: inline-block;
+*display: block;
+padding-left: 20px !important;
+}
+.event.summary {
+float: right;
+clear: right; /* */
+margin 1em 0 1em 1em;
+}
+.hCalendar-hidden {
+display:none; /* */
+}
+/* */
+/* */
+article.vevent {
+background-color: #EAEAEA;
+border-radius: 1em 1em 1em 1em;
+margin-top: 1em;
+padding: 1em;
+}
+.vevent div.cal_date {
+float:left;
+vertical-align:top;
+margin: 0 1.5em 0.5em 0;
+padding:0.7em 0.7em 0.5em;
+background-color:white;
+border:none;
+border-radius:0.5em;
+box-shadow: 0.5em 0.5em 0.4em black;
+min-width:4.4em;
+}
+.vevent span.cal_wkday {
+display:block;
+font-size:2.3em;
+font-weight:bold;
+border-bottom:2px solid black;
+padding-bottom:0.3em;
+}
+.vevent span.cal_day {
+font-size:1.7em;
+display:inline-block;
+padding-top:0.3em;
+}
+.vevent span.cal_month {
+font-size:1.3em;
+line-height:1.3em;
+display:inline-block;
+}
+.vevent div.cal_info { margin-left:8em; }
+article.vevent .documentByLine {
+background: none repeat scroll 0 0 transparent;
+color: black !important;
+font-size: 1em !important;
+font-weight: bold;
+padding: 0;
+}
+/* */
+#content .vevent ul.metadata { margin: 0.8em 0; }
+#content .vevent ul.horizontal { padding: 0; }
+#content .vevent ul.horizontal li {
+display: inline-block;
+line-height: 1.5em;
+list-style-image: none;
+list-style-type: none;
+}
+.vevent .horizontal.metadata li:after { content: " \2014 "; }
+.vevent .horizontal.metadata li:last-child:after { content: ""; }
+.vevent .horizontal.metadata .category span:after { content: ","; }
+.vevent .horizontal.metadata .category span:last-child:after { content: ""; }
+.vevent .timezone {
+display:block;
+margin-top:0.5em;
+padding:0.2em 0;
+background-color:#ffe;
+color:#354;
+width:100%;
+}
+.vevent .timerange, .vevent .timezone {
+font-size:85%;
+line-height:1em;
+white-space:nowrap;
+}
+.vevent .datedisplay {
+line-height:1.5em;
+margin-bottom:0.2em;
+font-weight:bold;
+font-size:100%;
+}
+.vevent abbr.dtstart {
+font-weight:bold;
+}
+/* */
+/* */
+#content .event_listing nav ul {
+margin-left:0;
+list-style-type:none;
+}
+#content .event_listing nav ul li {
+display:inline-block;
+padding: 0 0.75em;
+line-height: 2em;
+margin:0;
+}
+#content .event_listing nav ul li:last-of-type { margin-right:0; }
+.event_listing nav > ul,
+.event_listing nav {
+background-color: #DDDDDD;
+min-height:2em;
+}
+.event_listing nav {
+border: 0.3em solid #DDDDDD;
+border-bottom:none;
+border-top-left-radius: 0.5em;
+border-top-right-radius: 0.5em;
+}
+.event_listing ul.mode_selector {
+display: block;
+margin-left: 0;
+float:left;
+}
+.event_listing ul.sub_nav {
+display: block;
+margin-left: 0;
+float:right;
+border-bottom-left-radius: 0.5em;
+border-bottom-right-radius: 0.5em;
+}
+#content .event_listing nav ul li a {
+border:none;
+display: inline-block;
+}
+.event_listing ul.mode_selector li:hover,
+.event_listing ul.mode_selector li.selected {
+background: white;
+border-top-left-radius: 0.5em;
+border-top-right-radius: 0.5em;
+color: Black;
+}
+.event_listing ul.mode_selector li.selected {
+font-weight: bold;
+}
+#content .event_listing p { margin:0; }
+.event_listing div.location { display: inline-block; }
+/* */
+/* */
+.portletCalendar {
+width: auto;
+margin: 1px 0 1em 0;
+}
+.portletCalendar dt {
+background-color: #eee;
+font-weight: bold;
+text-align: center;
+line-height: 1.6em;
+border-bottom: none;
+}
+.portletCalendar dd {
+margin: 0;
+padding: 0;
+}
+.portletCalendar dt a.calendarPrevious {
+float: left;
+padding: 0 1em;
+margin: 0 -.5em;
+}
+.portletCalendar dt a.calendarNext {
+float: right;
+padding: 0 1em;
+margin: 0 -.5em;
+}
+.portletCalendar a, .portletCalendar a:focus,
+.portletCalendar a, .portletCalendar a:hover,
+.ploneCalendar a {
+text-decoration: none;
+border-bottom: none !important;
+}
+.ploneCalendar {
+border-spacing: 0;
+width:100%;
+}
+.ploneCalendar td {
+background-color: transparent;
+width: 14%;
+text-align: center;
+padding: 2px;
+border: 2px solid #eee;
+background-color: #eee;
+}
+.ploneCalendar .weekdays th {
+background-color: #eee;
+text-align: center;
+padding: 2px;
+}
+.ploneCalendar .event {
+background-color: #eee;
+}
+.ploneCalendar .todayevent {
+background-color: #eee;
+border: 2px solid #205C90;
+}
+.ploneCalendar .todaynoevent {
+border: 2px solid #205C90;
+}
+/* */
+.ploneCalendar td.today {
+background-color: white;
+border-color: #205C90;
+}
+.ploneCalendar td:hover { background-color: white; }
+.ploneCalendar td a {
+display:inline-block;
+width:100%;
+height:100%;
+}
+/* */
+.ploneCalendar td.cal_prev_month,
+.ploneCalendar td.cal_next_month {
+opacity:0.4;
+}
+/* */
+.pae_calendar_tooltip {
+display:none;
+background-color:white;
+border:1px solid black;
+border-radius:0.3em;
+box-shadow: 0.1em 0.1em 0.1em black;
+font-size:80%;
+padding:10px;
+margin:10px;
+max-width: 30em;
+z-index: 10;
+}
+.pae_calendar_tooltip a {
+color:black;
+display:block;
+width:100%;
+}
+.pae_calendar_tooltip a:hover { color:blue; }
+.pae_calendar_tooltip a .title { font-weight:bold; }
+/* */
+/* */
+/* */
+#formfield-form-widgets-IEventBasic-start,
+#formfield-form-widgets-IEventBasic-end,
+#formfield-form-widgets-IEventBasic-whole_day,
+#formfield-form-widgets-IEventBasic-open_end,
+/* */
+#archetypes-fieldname-startDate,
+#archetypes-fieldname-endDate,
+#archetypes-fieldname-wholeDay,
+#archetypes-fieldname-openEnd,
+{
+clear:none;
+float:left;
+margin-right: 2em;
+vertical-align: top;
+}
+#formfield-form-widgets-IEventBasic-whole_day,
+#archetypes-fieldname-wholeDay {
+clear:left;
+}
+#formfield-form-widgets-IEventRecurrence-recurrence,
+#archetypes-fieldname-recurrence {
+clear:left;
+}
+
+}
+
+
+/* - ++resource++event_listing_dkrz_css - */
+@media screen {
+/* https://is.enes.org/portal_css/++resource++event_listing_dkrz_css?original=1 */
+.vevent span.cal_wkday_dkrz {
+display:inline-block;
+font-size:1.3em;
+font-weight:bold;
+padding-bottom: 0.2em;
+}
+.vevent span.cal_day_dkrz {
+font-size:1.3em;
+display:inline-block;
+padding-bottom: 0.2em;
+font-weight:bold;
+}
+.vevent span.cal_month_dkrz {
+font-size:1.3em;
+line-height:1.3em;
+display:inline-block;
+font-weight:bold;
+padding-bottom: 0.2em;
+}
+.vevent span.cal_year_dkrz {
+display:block;
+font-weight:bold;
+border-top:2px solid black;
+font-size:1.3em;
+padding-top: 0.2em;
+text-align: center;
+}
+div.no_events {
+padding:2em;
+}
+.event.summary {
+width: 22em;
+border-style: solid;
+border-width: 0.08em;
+width: 22em;
+margin-top: 1em;
+margin: 0 0 0.5em 1em;
+border-color: #CCCCCC;
+}
+#content-core .event dt {
+margin-top: 1em;
+margin-left: 1em;
+}
+#content-core .event.summary dd {
+margin-right: 1em;
+}
+#content-core .event dl {
+text-align: left;
+}
+.ploneCalendar td.event.cal_has_events a{
+border: 0.5px solid darkred;
+border-radius: 8px;
+padding-bottom: 2px;
+border-bottom: 0.5px solid darkred !important;
+}
+.ploneCalendar td {
+border-width: 1.5px;
+}
+}
+
+
+/* - ploneCustom.css - */
+@media all {
+/* https://is.enes.org/portal_css/ploneCustom.css?original=1 */
+/* */
+/* */
+/* */
+/* */
+/* */
+/* */
+
+}
+

@@ -1,0 +1,55 @@
+.isSiteRoot div.width-3\3a 4  {
+    width: 578px;
+}
+
+.isSiteRoot div#portal-column-two.width-1\3a 4  {
+    width: 306px;
+}
+
+.isSiteRoot div#portal-column-two.position-3\:4 {
+    margin-left: -34.5%;
+} 
+
+.isSiteRoot div.position-0 {
+    margin-left: -97.87%;
+}
+
+div.position-1\3a 4 {
+    margin-left: -79.5%;
+}
+
+div.width-1\3a 2 {
+    width: 56.6%;
+}
+
+div.width-1\3a 4 {
+    width: 18.75%;
+}
+
+div.position-3\:4 {
+    margin-left: -20.87%;
+}
+
+.template-manage-portlets.isSiteRoot div.width-1\3a 4 {
+    width: 18.75%;
+}
+
+.template-manage-portlets.isSiteRoot div.position-3\:4 {
+    margin-left: -20.5%;
+}
+
+.isSiteRoot.section-front-page div#portal-columns.row {
+ background-image:url("++theme++dkrz.themeenes/images/col1-logos.png"); 
+ background-repeat:no-repeat;
+ background-position:left bottom;
+ background-color: transparent;
+}
+
+div.portal-shadow-bottom {
+ background-image: url('++theme++dkrz.themeenes/images/content-shadow_960.png');
+ background-color: transparent;
+ background-repeat:no-repeat;
+ background-repeat:no-repeat;
+ background-position:center bottom;
+ height: 53px;
+}

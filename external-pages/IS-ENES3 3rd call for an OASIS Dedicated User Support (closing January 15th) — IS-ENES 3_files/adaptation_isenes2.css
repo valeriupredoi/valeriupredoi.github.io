@@ -1,0 +1,26 @@
+#portal-globalnav li a,
+#portal-globalnav li:hover a {
+	padding: 50px 1em 0 0.7em;
+}
+
+.doormatSectionBody {
+color: #dcdcdc;
+  }
+
+.site-ISENES3.isSiteRoot.section-front-page div#portal-columns.row {
+ background-image:none;
+ }
+
+.foldersummary table.summarytable.two_columns {
+width: 100%;
+}
+
+.foldersummary table.summarytable.two_columns td.two-col-cell {
+padding-top: 2em;
+line-height: 2.2em;
+}
+
+.foldersummary table.summarytable.two_columns td.two-col-cell p.title {
+font-size: 1.2em;
+}
+

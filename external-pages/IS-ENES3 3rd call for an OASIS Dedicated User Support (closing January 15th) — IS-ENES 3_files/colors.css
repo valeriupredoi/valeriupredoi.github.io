@@ -1,0 +1,113 @@
+#portal-globalnav .colorkey-1 {
+	background: url('++theme++dkrz.themeenes/images/menu-item-community-bg.png');
+}
+
+#portal-globalnav .colorkey-1:hover {
+	background: url('++theme++dkrz.themeenes/images/menu-item-community-bg-hover.png');
+}
+
+/*body.colorkey-1,
+ul.colorkey-1 a {
+	background-color:#fefbf1!important;
+}*/
+
+
+body.colorkey-1 .shadow, 
+ul.colorkey-1 a {
+	background-color:#fefbf1!important;
+}
+
+
+
+#portal-globalnav .colorkey-2 {
+	background: url('++theme++dkrz.themeenes/images/menu-item-models-bg.png');
+}
+
+#portal-globalnav .colorkey-2:hover {
+	background: url('++theme++dkrz.themeenes/images/menu-item-models-bg-hover.png');
+}
+
+/*body.colorkey-2,
+ul.colorkey-2 a {
+	background-color:#fff7f4!important;
+}*/
+
+body.colorkey-2 .shadow,
+ul.colorkey-2 a {
+	background-color:#fff7f4!important;
+}
+
+
+
+#portal-globalnav .colorkey-3 {
+	background: url('++theme++dkrz.themeenes/images/menu-item-data-bg.png');
+}
+
+#portal-globalnav .colorkey-3:hover {
+	background: url('++theme++dkrz.themeenes/images/menu-item-data-bg-hover.png');
+}
+
+/*body.colorkey-3,
+ul.colorkey-3 a {
+	background-color:#fdfff9!important;
+}*/
+
+body.colorkey-3 .shadow,
+ul.colorkey-3 a {
+	background-color:#fdfff9!important;
+}
+
+#portal-globalnav .colorkey-4 {
+	background: url('++theme++dkrz.themeenes/images/menu-item-computing-bg.png');
+}
+
+#portal-globalnav .colorkey-4:hover {
+	background: url('++theme++dkrz.themeenes/images/menu-item-computing-bg-hover.png');
+}
+
+/*body.colorkey-4,
+ul.colorkey-4 a {
+	background-color:#fbf9ff!important;
+}*/
+
+body.colorkey-4 .shadow, 
+ul.colorkey-4 a  {
+	background-color:#fbf9ff!important;
+}
+
+#portal-globalnav .colorkey-5 {
+	background: url('++theme++dkrz.themeenes/images/menu-item-services-bg.png');
+}
+
+#portal-globalnav .colorkey-5:hover {
+	background: url('++theme++dkrz.themeenes/images/menu-item-services-bg-hover.png');
+}
+
+/*body.colorkey-5,
+ul.colorkey-5 a {
+	background-color:#f4f0fa!important;
+}*/
+
+body.colorkey-5 .shadow,
+ul.colorkey-5 a {
+	background-color:#f4f0fa!important;
+}
+
+
+#portal-globalnav .colorkey-6 {
+	background: url('++theme++dkrz.themeenes/images/menu-item-support-bg.png');
+}
+
+#portal-globalnav .colorkey-6:hover {
+	background: url('++theme++dkrz.themeenes/images/menu-item-support-bg-hover.png');
+}
+
+/*body.colorkey-6,
+ul.colorkey-6 a {
+	background-color:#fdf6fc!important;
+}*/
+
+body.colorkey-6 .shadow,
+ul.colorkey-6 a {
+	background-color:#fdf6fc!important;
+}
