@@ -48,9 +48,35 @@ Session 4 | Heterogeneous architectures (accelerators)
 Session 5 | Data Worflows
 
 - Agenda: you can download the detailed preliminary agenda [here](https://github.com/valeriupredoi/valeriupredoi.github.io/raw/master/pdf_documents/Preliminar-Agenda-7th-ENES-Workshop.xlsx).
+- Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdaTpORsHkO-OQzfG50vWFnuyhzP8hcGXWVC5hRotYtPYVqiw/viewform) before April 25th, 2022!
+- In order to organise your stay, you can find the instructions to access the BSC venue [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Barcelona2022-Venue%20details.pdf) and a list of hotels in Barcelona [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Barcelona2022-Hotels%20near%20BSC.pdf).
 
-Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdaTpORsHkO-OQzfG50vWFnuyhzP8hcGXWVC5hRotYtPYVqiw/viewform) before April 25th, 2022!
+#### IS-ENES3@EGU2022
+- duration: **May 23, 2022 09:00 AM to May 27, 2022 08:00 PM (Europe/Vienna / UTC200)**
 
-In order to organise your stay, you can find the instructions to access the BSC venue [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Barcelona2022-Venue%20details.pdf) and a list of hotels in Barcelona [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Barcelona2022-Hotels%20near%20BSC.pdf).
+![egu2022](../images/egu-2022.png)
 
-####
+- SC5.14 - Earth System Model Evaluation with ESMValTool in the Jupyter notebook
+  - Link: https://meetingorganizer.copernicus.org/EGU22/session/43187
+  - Convener: Bouwe Andela
+  - Co-conveners: Fakhereh Alidoost, Carsten Ehbrecht,Peter C. Kalverla, Klaus Zimmermann
+- ITS3.3/CL3.2.20 - From vision to action: transdisciplinary approaches for providing climate change impact and adaptation information and capacity development
+  - Link: https://meetingorganizer.copernicus.org/EGU22/session/43594
+  - Convener: Jörg Cortekar
+  - Co-conveners: Judith Klostermann,Janette Bessembinder,Stefan Kienberger
+- ESSI2.7 – Meeting Exascale Computing Challenges with Compression and Pangeo
+  - Link: https://meetingorganizer.copernicus.org/EGU22/session/42046
+- EGU22-7869 - CPMIP: Computational evaluation of the new era of complex Earth System Models. Multi-model results from CMIP6 and challenges for the exascale computing, by Mario Acosta and V. Balaji.
+- EGU22-7151 - Storage growth mitigation through data analysis ready climate datasets using HDF5 Virtual Datasets, by Ezequiel Cimadevilla and Antonio S. Cofiño
+- ESSI3.3 – Free and Open Source Software (FOSS), Cloud-based Technologies and HPC to Facilitate Collaborative Science
+  - Link: https://meetingorganizer.copernicus.org/EGU22/session/42416
+- EGU22-7330 - ENES Data Space: an open, cloud-enabled data science environment for climate analysis, by Fabrizio Antonio et al.
+- CL5.1.1 – Climate Services - Underpinning Science
+  - Link: https://meetingorganizer.copernicus.org/EGU22/session/42621
+- EGU22-6372 - Better Tailoring of Climate Information for End Users using Targeted Interfaces and Tools, by Christian Pagé et al.
+- CR6.1 – Rapid changes in sea ice: processes and implications
+  - Link: https://meetingorganizer.copernicus.org/EGU22/EGU22-11971.html
+- EGU22-11971 - Emergence of a sub-ice platelet layer in mushy-layer sea ice model simulations, by Martin Vancoppenolle et al
+- OS1.11 – Under cover: The Southern Ocean’s connection to sea ice and ice shelves
+  - Link: https://meetingorganizer.copernicus.org/EGU22/EGU22-7257.html
+- EGU22-7257 - Drivers of Antarctic sea-ice advance date, by Kenza Himmich et al.
