@@ -105,7 +105,7 @@ Calls are open twice a year, approximately every 6 months. Find the application 
 - open when: **We, 10. Jun 2020**
 - duration: **Jun 10, 2020 02:00 PM to Oct 31, 2020 03:00 PM**
 
-![tnabanner](../images/TNA_banner)
+![tnabanner](../images/TNA_banner.png)
 
 Apply for direct access to compute facilities:
 - Discover the model data you are interested in
@@ -127,6 +127,8 @@ With the new Access to Advanced Analysis Platforms, you will be able to
 #### <a name="cordex2"></a>Second call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (15 Dec.-10 June 2020)
 - open when: **Mo, 16. Dec 2019**
 - duration: **Dec 16, 2019 12:00 AM to Jun 10, 2020 12:00 AM**
+
+![TNA-Banner](../images/TNA_banner.png)
 
 Apply for direct access to compute facilities:
 
@@ -151,6 +153,8 @@ Calls are open twice a year, approximately every 6 months. Find the application 
 - open when: **Mo, 16. Sep 2019**
 - duration: **Sep 16, 2019 08:00 AM to Dec 08, 2019 05:00 PM**
 - note: Deadline Extended: Dec 15 2019
+
+![lightDoor](../images/light_door_call.png)
 
 SUPPORTING THE NEW CMIP6
 
