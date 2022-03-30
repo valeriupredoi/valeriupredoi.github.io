@@ -47,10 +47,10 @@ Session 3 | Performance
 Session 4 | Heterogeneous architectures (accelerators)
 Session 5 | Data Worflows
 
-- Agenda: you can download the detailed preliminary agenda [here](Preliminar-Agenda-7th-ENES-Workshop.xlsx).
+- Agenda: you can download the detailed preliminary agenda [here](https://github.com/valeriupredoi/valeriupredoi.github.io/raw/master/pdf_documents/Preliminar-Agenda-7th-ENES-Workshop.xlsx).
 
 Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdaTpORsHkO-OQzfG50vWFnuyhzP8hcGXWVC5hRotYtPYVqiw/viewform) before April 25th, 2022!
 
-In order to organise your stay, you can find the instructions to access the BSC venue [here](Barcelona2022-Venue details.pdf) and a list of hotels in Barcelona [here](Barcelona2022-Hotels near BSC.pdf).
+In order to organise your stay, you can find the instructions to access the BSC venue [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Barcelona2022-Venue%20details.pdf) and a list of hotels in Barcelona [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Barcelona2022-Hotels%20near%20BSC.pdf).
 
 ####
