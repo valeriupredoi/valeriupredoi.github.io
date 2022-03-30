@@ -29,52 +29,24 @@ header:
 
 **Th, 25. Nov 2021**
 #### [IS-ENES3 3rd call for an OASIS Dedicated User Support (closing January 15th)](https://valeriupredoi.github.io/access-calls-past#oasis)
-**Nov 25, 2021 10:00 AM to Jan 15, 2022 11:00 AM**
-
 
 **Tu, 1. Jun 2021**
-#### 5th call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (1st June 2021 - 20 Dec. 2021)
-**Jun 01, 2021 09:00 AM to Dec 20, 2021 06:00 PM**
+#### [5th call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (1st June 2021 - 20 Dec. 2021)](https://valeriupredoi.github.io/access-calls-past#cordex5)
 
+**Su, 1. Nov 2020**
+#### [4th call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (1st Nov 2020 - 31 May. 2021)](https://valeriupredoi.github.io/access-calls-past#cordex4)
 
-Su, 1. Nov 2020
-4th call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (1st Nov 2020 - 31 May. 2021)
-Nov 01, 2020 12:00 PM to May 31, 2021 01:00 PM
+**We, 10. Jun 2020**
+#### [3rd call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (10 June - 31 Oct. 2020)](https://valeriupredoi.github.io/access-calls-past#cordex3)
 
-    iCal 
+**Mo, 16. Dec 2019**
+#### [Second call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (15 Dec.-10 June 2020)](https://valeriupredoi.github.io/access-calls-past#cordex2)
 
-We, 10. Jun 2020
-3rd call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (10 June - 31 Oct. 2020)
-Jun 10, 2020 02:00 PM to Oct 31, 2020 03:00 PM
+**Mo, 16. Sep 2019**
+#### [1st call for Analysis Platforms for CMIP6 and CORDEX (Sep 16, 2019 to Dec 08, 2019)](https://valeriupredoi.github.io/access-calls-past#cordex1)
 
-    iCal 
+**Fr, 6. Sep 2019**
+#### [IS-ENES3 2nd call for an OASIS Dedicated User Support (Sep 06, 2019 to Oct 31, 2019)](https://valeriupredoi.github.io/access-calls-past#oasis2)
 
-Mo, 16. Dec 2019
-Second call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (15 Dec.-10 June 2020)
-Dec 16, 2019 12:00 AM to Jun 10, 2020 12:00 AM
-
-    iCal 
-
-Mo, 16. Sep 2019
-1st call for Analysis Platforms for CMIP6 and CORDEX (closing Dec. 15)
-Sep 16, 2019 08:00 AM to Dec 08, 2019 05:00 PM
-
-Opening: Sep 16 2019- Deadline Extended: Dec 15 2019
-
-    iCal 
-
-Fr, 6. Sep 2019
-IS-ENES3 2nd call for an OASIS Dedicated User Support
-Sep 06, 2019 12:00 AM to Oct 31, 2019 12:00 AM
-
-Open : Sep 6, 2019 - Deadline : Oct 31 2019
-
-    iCal 
-
-Tu, 1. Jan 2019
-1st call for an OASIS Dedicated User Support
-Jan 01, 2019 12:00 AM to Jan 31, 2019 12:00 AM
-
-    iCal 
-
-
+**Tu, 1. Jan 2019**
+#### [1st call for an OASIS Dedicated User Support (Jan 01, 2019 to Jan 31, 2019)](https://valeriupredoi.github.io/access-calls-past#oasis1)
