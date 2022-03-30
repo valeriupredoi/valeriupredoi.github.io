@@ -27,6 +27,8 @@ header:
 - open when: **Th, 25. Nov 2021**
 - duration: **Nov 25, 2021 10:00 AM to Jan 15, 2022 11:00 AM**
 
+![oasislogo](../images/oasis-logo.png)
+
 Within IS-ENES3, work-package 6 "Services on European ESMs and Software Tool", a Trans-National Access action, proposes to provide technical help to upgrade the code or enhance computing performance of OASIS3-MCT based coupled models.
 
 This year, a total of 3 person-months of Dedicated User Support will be offered to 3 different groups. Provided by CERFACS, this service is available to any climate research laboratory in Europe. This service excludes the scientific development, tuning, analysis and evaluation of the coupled model components themselves and of the coupled model as a whole. At the moment, difficult traveling conditions forbid to give this service on site. This additional constraint leads to favor short and well-defined tasks that can be achieved remotely.
@@ -103,8 +105,25 @@ Calls are open twice a year, approximately every 6 months. Find the application 
 - open when: **We, 10. Jun 2020**
 - duration: **Jun 10, 2020 02:00 PM to Oct 31, 2020 03:00 PM**
 
+![tnabanner](../images/TNA_banner)
 
-Mo, 16. Dec 2019
+Apply for direct access to compute facilities:
+- Discover the model data you are interested in
+- Process your multimodel analyses in the supercomputer
+- Download the results
+
+**Deadline: 31st of October 2020 (pre-access test activities are also possible)**
+
+We are broadening access to world-class supercomputers at the national facilities used by research communities in Germany, France, Italy and the UK. These facilities provide access to significant computational resources located next to extensive data collections, including data from CMIP6 and CORDEX.
+
+Thanks to funding from EU H2020, the IS-ENES3 project is able to provide access free of charge to scientists from anywhere in Europe. 
+
+With the new Access to Advanced Analysis Platforms, you will be able to
+- log onto a server which has direct access to the filesystem containing the data, we can import additional data on request
+- run your own software, 
+- have access to a large collection of software libraries commonly used to analyse climate model output. 
+ Calls are open twice a year, approximately every 6 months.
+
 #### <a name="cordex2"></a>Second call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (15 Dec.-10 June 2020)
 - open when: **Mo, 16. Dec 2019**
 - duration: **Dec 16, 2019 12:00 AM to Jun 10, 2020 12:00 AM**
