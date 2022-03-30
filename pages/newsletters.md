@@ -2,11 +2,11 @@
 layout: page
 show_meta: false
 title: "Newsletters"
-subheadline: "Newsletters for the populus"
+#subheadline: "Newsletters for the populus"
 teaser: "The most up-to-date news."
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/newsletters/"
+permalink: "/design/newsletters/"
 categories:
     - design
 tags:
