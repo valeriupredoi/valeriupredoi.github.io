@@ -60,8 +60,8 @@ The Second Technical ESMValTool Workshop 2021 took place via video call from 23-
 
 Time Slot | Author(s) and presentation
 :--------:|:--------------------------:
-9h30-10h15 | Overview of IS-ENES3 - Sylvie Joussaume & Bryan Lawrence
-           | Update on sustainability (WP2-NA1) - Fanny Adloff
+9h30-10h15 | [Overview of IS-ENES3](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_overview_v2.pdf) - Sylvie Joussaume & Bryan Lawrence
+           | [Update on sustainability (WP2-NA1)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES_GA2_WP2-NA1_sustain.pdf) - Fanny Adloff
 10h15-10h55 | NextGEMS – Next Generation Earth Modelling Systems - Björn Stevens, MPI-M
             | ESM2025 – Earth System Models for the future - Roland Séférian, MF-CNRM
 10h55-11h10 | Results from the HPC survey – Claire Lévy, IPSL-LOCEAN
