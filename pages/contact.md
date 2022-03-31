@@ -1,7 +1,7 @@
 ---
 layout: page
-show_meta: false
-title: "Contact Us"
+#show_meta: false
+#title: "Contact Us"
 subheadline: "Get in touch with us!"
 teaser: "We are always ready to serve your sciency needs"
 header:
@@ -16,13 +16,17 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: ISENES3 Contact
-    background-color: "#186F4D;"
+    title: Contact
+    #background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    image_fullwidth: "widget-1-302x182.jpg"
+    #image_fullwidth: "widget-1-302x182.jpg"
 ---
 
-Edit file: `pages/contact.md`
+#### About the project
 
-You can contact at <fake@example.com> and browse our friend's site at <https://www.markdownguide.org>.
+To contact us, please write an Email to <is-enes@ipsl.fr>.
+
+#### About the site
+
+To contact us about the site, please wite to <valeriu.predoi@ncas.ac.uk>.
