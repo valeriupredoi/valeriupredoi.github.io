@@ -16,10 +16,10 @@ tags:
     #background-color: "#186F4D"
 header:
     title: Work Package 8 (WP8)
-    background-color: "#186F4D;"
+    background-color: "#0B59FF;"  # dark blue
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    image_fullwidth: "widget-1-302x182.jpg"
+    #image_fullwidth: "widget-1-302x182.jpg"
 
 ---
 

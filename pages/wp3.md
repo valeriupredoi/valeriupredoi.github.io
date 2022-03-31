@@ -16,10 +16,10 @@ tags:
     #background-color: "#186F4D"
 header:
     title: Work Package 3 (WP3)
-    background-color: "#186F4D;"
+    background-color: "#0B59FF;"  # dark blue
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    image_fullwidth: "widget-1-302x182.jpg"
+    #image_fullwidth: "widget-1-302x182.jpg"
 
 ---
 WP3/NA2 aims at further engaging with the community of users of IS-ENES services. This will be done through widening the user base through training, engaging the community in co-constructing standards and expressing needs, and engaging the younger generation in interdisciplinary approaches. Target users will be the climate researchers and the vulnerability, impacts and adaptation (VIA) researchers. WP3/NA2 will also target societal innovation through the emerging climate service providers.
