@@ -57,3 +57,21 @@ Organised by the [IS-ENES3 consortium](https://valeriupredoi.github.io/partners/
 Driven by the theoretical background provided by domain, data and computer science experts, the school will adopt a hands-on approach for maximising results focusing on the usage of datasets linked to the IS-ENES3 data services. The school will strengthen the individual expertise of the participating climate and computer scientists, as well as, leverage and emphasise the need of collaboration between them, helping early career scientists with different backgrounds to meet and network.
 
 **Find the programme, application procedure and other information on the** [NCSR-D website](https://www.iit.demokritos.gr/is-enes-summer-school/).
+
+### Past
+
+#### [IS-ENES3: Virtual clinic on bias-adjustment of climate model data (Oct 14, 2021 to Oct 21, 2021)](https://valeriupredoi.github.io/training-past/#virt-clinic)
+
+#### XIOS training sessions (Mar 15, 2021 to Apr 16, 2021)
+
+#### Online Training on Data Analytics: How to skip high-volume data transfer and access free computing resources for your CMIP analyses (Mar 08, 2021 to Mar 09, 2021)
+
+#### Second and Third IS-ENES3 virtual School on Climate Data Use for Impact Assessments (Mar 03, 2021 to Jun 14, 2021)
+
+#### First IS-ENES3 virtual Autumn School on Climate data use for impact assessments (Nov 04, 2020 to Dec 10, 2020)
+
+#### 1st Webinar of the demonstration of the Climate4Impact portal (Sep 16, 2019)
+
+#### EMS 2019: Second demonstration session of the Climate4Impact portal (Sep 12, 2019 from 09:00 AM to 01:00 PM EMS2019, Lyngby Campus, Side meeting SIM13, Room: S8)
+
+#### EGU 2019: First demonstration session Climate4Impact portal for the IS-ENES3 project (Apr 09, 2019 from 08:03 AM to 10:15 AM)
