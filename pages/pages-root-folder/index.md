@@ -4,7 +4,7 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: page-fullwidth
+layout: frontpage
 header:
     title: ISENES3 Website
     background-color: "#186F4D;"
@@ -15,23 +15,41 @@ widget1:
   title: "Objectives"
   url: 'https://valeriupredoi.github.io/objectives/'
   image: widget-1-302x182.jpg
-  text: 'Widget about <em>sciencey shtuff</em> that makes you smarter.'
+  #text: 'Widget about <em>sciencey shtuff</em> that makes you smarter.'
 widget2:
   title: "Description of Work"
   url: 'https://valeriupredoi.github.io/description-of-work/'
   image: widget-1-302x182.jpg
-  text: 'Widget with <em>ISENES3</em> embedded video.<br/>1. Sciencey Shtuff 1<br/>2. Sciencey Shtuff 2'
+  #text: 'Widget with <em>ISENES3</em> embedded video.<br/>1. Sciencey Shtuff 1<br/>2. Sciencey Shtuff 2'
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://valeriupredoi.github.io/images/porsche962Cvideo.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Partners"
   url: 'https://valeriupredoi.github.io/partners/'
   image: widget-1-302x182.jpg
-  text: 'Widget with <em>ISENES3</em> link and Twitter. Have a look at our <a href="https://is.enes.org/project/partners">ISENES3 Partners List</a> and call us at Twitter <a href="https://twitter.com/search?q=%23ISENES3">@ISENES3</a>.'
+  #text: 'Widget with <em>ISENES3</em> link and Twitter. Have a look at our <a href="https://is.enes.org/project/partners">ISENES3 Partners List</a> and call us at Twitter <a href="https://twitter.com/search?q=%23ISENES3">@ISENES3</a>.'
 permalink: /index.html
 homepage: true
 ---
 
-## ISENES3: the best thing after toast and beans
+## Welcome to the IS-ENES3 project
+### Infrastructure for the European Network for Earth System Modelling (2019 - 2022)
+
+IS-ENES3, an Horizon 2020 project, is the third phase of the distributed e-infrastructure of the European Network for Earth System Modelling (ENES).
+
+The project fosters collaboration between twenty-two European climate research institutions.
+
+The community aims to develop a better understanding of past and present-day climate and to project future variability and changes through the development and sharing of model components, modelling tools and data infrastructure.
+
+The IS-ENES3 three main objectives are to: 
+- Foster collaboration among the modelling groups to speed-up the development and use of models of the complex Earth’s climate system, namely “Earth System models” (ESMs)
+- Deliver common strategies for the research infrastructure
+- Disseminate model data
+
+### Cool stuff
+
+- [mailing list](https://lists.enes.org/mailman/listinfo/is-enes3)
+
+## Building this site: mini-tutorial
 
 - Main settings in `_config.yml`
 - Main tabs above listed in: `_data/navigation.yml`
@@ -40,20 +58,7 @@ homepage: true
 - Footer for Contact, legal etc in: `_data/services.yml`
 - Aknowledgements footer tab: `_data/network.yml`
 - Edit pages in `pages/*`
-
-## A nice guide to Markdown
-
-Fanny, Sophie, you can find a very easy guide to Mardown syntax [here](https://www.markdownguide.org/basic-syntax/).
-Also, here is a French flag, just to see how an image can be inserted:
-
-![Frenchie flag](images/france-flag.jpg)
-
-## Stuff about ISENES3 on front page
-
-You can list things like this:
-
-- something
-- something **something**
+- you can find a very easy guide to Mardown syntax [here](https://www.markdownguide.org/basic-syntax/).
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
