@@ -27,6 +27,10 @@ header:
 
 To contact us, please write an Email to <is-enes@ipsl.fr>.
 
+#### Mailing list
+
+Please subscribe to our [mailing list](https://lists.enes.org/mailman/listinfo/is-enes3).
+
 #### About the site
 
 To contact us about the site, please wite to <valeriu.predoi@ncas.ac.uk>.
