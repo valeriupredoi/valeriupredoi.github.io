@@ -80,3 +80,5 @@ Session 5 | Data Worflows
 #### [2nd Technical ESMValTool Workshop 2021, Nov 23, 2021 to Nov 25, 2021](https://valeriupredoi.github.io/workshops-past/#esmv1)
 
 #### [IS-ENES3 virtual 2nd General Assembly, Oct 04, 2021 to Oct 06, 2021](https://valeriupredoi.github.io/workshops-past/#isenes3ga)
+
+*Needs completion*
