@@ -81,4 +81,22 @@ Session 5 | Data Worflows
 
 #### [IS-ENES3 virtual 2nd General Assembly, Oct 04, 2021 to Oct 06, 2021](https://valeriupredoi.github.io/workshops-past/#isenes3ga)
 
-*Needs completion*
+
+#### Workshop "Climate indices - Eastern European perspective" (Sep 27, 2021 from 11:00 AM to 03:00 PM)
+
+#### 2021 Climate and Forecast Conventions (CF) Workshop (Sep 21, 2021 to Sep 23, 2021)
+
+#### IS-ENES3 Virtual workshop on requirements for a fast and scalable evaluation workflow (May 18, 2021 to May 19, 2021)
+
+#### 1st Technical ESMValTool Workshop 2021 (May 04, 2021 to May 06, 2021)
+
+#### IS-ENES3@EGU2021 (Apr 19, 2021 to Apr 30, 2021)
+
+#### Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling (Mar 16, 2021 to Mar 18, 2021)
+
+#### 4th Climate4Impact Coding Sprint (Jan 28, 2021 to Jan 29, 2021)
+
+#### 7th Technical ESMValTool Coding workshop (Nov 24, 2020 to Nov 26, 2020)
+
+*TODO Needs completion*
+*listing further workshops and adding detailed info*
