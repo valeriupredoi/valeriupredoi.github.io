@@ -5,7 +5,7 @@ title: Past Workshops
 #teaser: "ISENES3 stuff SOS related to Access Calls."
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/access-calls-past/"
+permalink: "/workshops-past/"
 categories:
     - design
 tags:
@@ -16,10 +16,10 @@ tags:
     #background-color: "#186F4D"
 header:
     title: ISENES3 Past Workshops
-    background-color: "#186F4D;"
+    background-color: "#0B59FF;"  # dark blue
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    image_fullwidth: "widget-1-302x182.jpg"
+    #image_fullwidth: "widget-1-302x182.jpg"  # image has somedelay loading
 
 ---
 
@@ -44,10 +44,11 @@ The Second Technical ESMValTool Workshop 2021 took place via video call from 23-
 
 
 
-#### <a name="cordex5"></a>5th call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (1st June 2021 - 20 Dec. 2021)
-- open when: **Tu, 1. Jun 2021**
-- duration: **Jun 01, 2021 09:00 AM to Dec 20, 2021 06:00 PM**
+#### <a name="isenes3ga"></a>IS-ENES3 virtual 2nd General Assembly
+- open when: **Oct 04, 2021**
+- duration: **Oct 04, 2021 09:00 AM to Oct 06, 2021 05:00 PM (Europe/Vienna / UTC200)**
 
+![isenes3GA](../images/isenes3GA-2021.png)
 
 
 #### <a name="cordex4"></a>4th call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (1st Nov 2020 - 31 May. 2021)
