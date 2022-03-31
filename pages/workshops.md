@@ -73,3 +73,10 @@ Session 5 | Data Worflows
 - EGU22-11971 - Emergence of a sub-ice platelet layer in mushy-layer sea ice model simulations, by Martin Vancoppenolle et al
 - OS1.11 – [Under cover: The Southern Ocean’s connection to sea ice and ice shelves](https://meetingorganizer.copernicus.org/EGU22/EGU22-7257.html)
 - EGU22-7257 - Drivers of Antarctic sea-ice advance date, by Kenza Himmich et al.
+
+
+### Past
+
+#### [2nd Technical ESMValTool Workshop 2021, Nov 23, 2021 to Nov 25, 2021](https://valeriupredoi.github.io/workshops-past/#esmv1)
+
+#### [IS-ENES3 virtual 2nd General Assembly, Oct 04, 2021 to Oct 06, 2021](https://valeriupredoi.github.io/workshops-past/#isenes3ga)
