@@ -1,9 +1,9 @@
 ---
 layout: page
 #show_meta: false
-#title: "Contact Us"
+# title: "Contact Us"
 subheadline: "Get in touch with us!"
-teaser: "We are always ready to serve your sciency needs"
+# teaser: "We are always ready to serve your sciency needs"
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/contact/"
@@ -17,11 +17,13 @@ tags:
     #background-color: "#186F4D"
 header:
     title: Contact
-    #background-color: "#186F4D;"
+    background-color: "#0B59FF;"  # dark blue
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
     #image_fullwidth: "widget-1-302x182.jpg"
 ---
+
+![typewriter](../images/typewriter-thumb.jpg)
 
 #### About the project
 
