@@ -55,4 +55,28 @@ The Second Technical ESMValTool Workshop 2021 took place via video call from 23-
 - open when: **Su, 1. Nov 2020**
 - duration: **Nov 01, 2020 12:00 PM to May 31, 2021 01:00 PM**
 
+- **You can find the event report of the workshop** [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M1.4.pdf)
+- **You can find the agenda of the workshop** [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Agenda_IS-ENES3_Virtual_GA2_v4.pdf)
+
+Table of presentations:
+
+##### Monday, October 4th
+**9h30-12h30: Session 1 - Plenary session**
+
+Time Slot | Author(s) and presentation
+:--------:|:--------------------------:
+9h30-10h15 | Overview of IS-ENES3 - Sylvie Joussaume & Bryan Lawrence
+           | Update on sustainability (WP2-NA1) - Fanny Adloff
+10h15-10h55 | NextGEMS – Next Generation Earth Modelling Systems - Björn Stevens, MPI-M
+            | ESM2025 – Earth System Models for the future - Roland Séférian, MF-CNRM
+10h55-11h10 | Results from the HPC survey – Claire Lévy, IPSL-LOCEAN
+            | About the estimation of energy-cost of data transfer – Jean-Claude André
+11h25-12h30 | General project information, budget assessment for 2022 and reallocations – Sophie Morellon & Sylvie Joussaume
+
+**14h30-16h30: Session 2 - Model Evaluation**
+
+##### Tuesday, October 5th
+**10h-12h: Session 3 - Data, metadata and other data software**
+
+**14h30-16h30: Session 4 - Models, Tools and HPC**
 
