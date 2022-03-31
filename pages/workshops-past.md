@@ -100,3 +100,6 @@ Time Slot | Author(s) and presentation
             | Update on NEMO Sea Ice model – Ed Blockley & Martin Vancoppenolle
             | NEMO HPC Working Group – Italo Epicoco
 15h55-16h35 | Models, Tools and HPC: cross-workpackage issues and introduction to breakout groups
+
+*TODO Needs completion*
+*all links to presentations in table above and the next workshops detailed info
