@@ -50,15 +50,10 @@ The Second Technical ESMValTool Workshop 2021 took place via video call from 23-
 
 ![isenes3GA](../images/isenes3GA-2021.png)
 
-
-#### <a name="cordex4"></a>4th call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (1st Nov 2020 - 31 May. 2021)
-- open when: **Su, 1. Nov 2020**
-- duration: **Nov 01, 2020 12:00 PM to May 31, 2021 01:00 PM**
-
 - **You can find the event report of the workshop** [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M1.4.pdf)
 - **You can find the agenda of the workshop** [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Agenda_IS-ENES3_Virtual_GA2_v4.pdf)
 
-Table of presentations:
+**Table of presentations:**
 
 ##### Monday, October 4th
 **9h30-12h30: Session 1 - Plenary session**
@@ -75,8 +70,33 @@ Time Slot | Author(s) and presentation
 
 **14h30-16h30: Session 2 - Model Evaluation**
 
+Time Slot | Author(s) and presentation
+:--------:|:--------------------------:
+14h30-14h55 | WP debriefings (WP3-NA2, WP5-NA4, WP6-VA1, WP7-VA2, WP9-JRA2) - Kim Serradell & Rémi Kazeroni
+14h55-15h45 | Survey results on model evaluation and perspectives – Jérôme Servonnat
+            | Overview of ESMValTool progress – Rémi Kazeroni
+            | Provenance and technical standards (WP3-NA2, WP5-NA4) – Kim Serradell & Javier Vegas
+15h45-16h30 | Model Evaluation: cross-workpackage issues
+
 ##### Tuesday, October 5th
 **10h-12h: Session 3 - Data, metadata and other data software**
 
+Time Slot | Author(s) and presentation
+:--------:|:--------------------------:
+10h-10h25 | WP debriefings (WP5-NA4, WP7-VA2, WP10-JRA3)
+10h25-11h25 | ESGF architecture – Philip Kershaw
+            | Climate4impact portal 2.0 – Alessandro Spinuso
+            | Update on user requirements (including climate indices) – Janette Bessembinder
+            | ES-DOC – Sadie Bartholomew
+11h25-12h | Data, metadata and other data software: cross-workpackage issues and introduction to breakout groups
+
 **14h30-16h30: Session 4 - Models, Tools and HPC**
 
+Time Slot | Author(s) and presentation
+:--------:|:--------------------------:
+14h30-14h55 | WP debriefings (WP4-NA3, WP6-VA1, WP8-JRA1)
+14h55-15h55 | Recent developments in XIOS – Yann Meurdesoif
+            | Update on Cylc/Rose – David Matthews
+            | Update on NEMO Sea Ice model – Ed Blockley & Martin Vancoppenolle
+            | NEMO HPC Working Group – Italo Epicoco
+15h55-16h35 | Models, Tools and HPC: cross-workpackage issues and introduction to breakout groups
