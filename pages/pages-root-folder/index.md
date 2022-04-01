@@ -49,17 +49,6 @@ The IS-ENES3 three main objectives are to:
 
 - [mailing list](https://lists.enes.org/mailman/listinfo/is-enes3)
 
-## Building this site: mini-tutorial
-
-- Main settings in `_config.yml`
-- Main tabs above listed in: `_data/navigation.yml`
-- Front page (this): edit file: `pages/pages-root-folder/index.md`
-- Social media settings: `_data/socialmedia.yml`
-- Footer for Contact, legal etc in: `_data/services.yml`
-- Aknowledgements footer tab: `_data/network.yml`
-- Edit pages in `pages/*`
-- you can find a very easy guide to Mardown syntax [here](https://www.markdownguide.org/basic-syntax/).
-
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/BHMqckkh52g" frameborder="0" allowfullscreen></iframe>
