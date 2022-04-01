@@ -10,8 +10,8 @@ tags:
   - is-enes3
 header: no
 image:
-    title: widget-1-302x182.jpg
-    thumb: widget-1-302x182.jpg
+    title: claudio-schwarz-bMzpGDkUAmc-unsplash.jpg
+    thumb: claudio-schwarz-bMzpGDkUAmc-unsplash.jpg
     homepage: claudio-schwarz-bMzpGDkUAmc-unsplash.jpg
     # caption: Our News team.
     caption_url: https://valeriupredoi.github.io/newsletters/
