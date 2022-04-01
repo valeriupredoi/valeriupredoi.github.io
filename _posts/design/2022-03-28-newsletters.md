@@ -12,7 +12,7 @@ header: no
 image:
     title: widget-1-302x182.jpg
     thumb: widget-1-302x182.jpg
-    homepage: widget-1-302x182.jpg
+    homepage: claudio-schwarz-bMzpGDkUAmc-unsplash.jpg
     # caption: Our News team.
     caption_url: https://valeriupredoi.github.io/newsletters/
 ---
