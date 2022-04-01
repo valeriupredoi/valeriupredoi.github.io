@@ -6,8 +6,8 @@
 #
 layout: frontpage
 header:
-    title: ISENES3 Website
-    background-color: "#186F4D;"
+    # title: ISENES3 Website
+    # background-color: "#186F4D;"
     # caption: This is a caption for the header image with link
     # caption_url: https://unsplash.com/
     image_fullwidth: "front-page-banner.jpg"
