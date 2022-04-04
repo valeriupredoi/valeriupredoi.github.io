@@ -2,12 +2,12 @@
 
 - name: "Contact"
   url: "/contact/"
-  title: "Contact"
+  title: "ISENES3 contact"
 
-- name: "RSS"
-  url: "/feed.xml"
-  title: "Subscribe to RSS Feed"
+#- name: "RSS"
+#  url: "/feed.xml"
+#  title: "Subscribe to RSS Feed"
 
-- name: "Legal Stuff"
-  url: "/info/"
-  title: "Legeal crap here."
+- name: "Privacy Policy"
+  url: "/privacy/"
+  title: "ISENES3 privacy policy"
