@@ -1,17 +1,17 @@
 - name: GitHub
-  url: https://github.com/ESMValGroup/ESMValTool
+  url: https://github.com/ESMValGroup/isenes3
   class: icon-github
-  title: "ESMValTool"
+  title: "ISENES3 GitHub"
 
 - name: YouTube
   url: https://www.youtube.com/channel/UC24YCohRVh1WXqzBm9tkL2g
   class: icon-youtube
-  title: "ISENES3 Presentations"
+  title: "ISENES3 YouTube"
 
 - name: Twitter
-  url: http://twitter.com/isenes3
+  url: https://twitter.com/isenes_ri
   class: icon-twitter
-  title: "ISENES3"
+  title: "ISENES3 Twitter"
 
 #- name: Mixcloud
 #  url: http://www.mixcloud.com/phlow/
@@ -23,10 +23,10 @@
 #  class: icon-googleplus
 #  title: "YouTube Google+"
 
-- name: Facebook
-  url: https://www.facebook.com/valeriu.predoi
-  class: icon-facebook
-  title: "Facebook"
+#- name: Facebook
+#  url: https://www.facebook.com/valeriu.predoi
+#  class: icon-facebook
+#  title: "Facebook"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
