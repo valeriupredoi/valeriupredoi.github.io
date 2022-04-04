@@ -26,33 +26,35 @@
   - title: "Newsletters"
     url: "/design/newsletters"
 
+- title: "Services on Models&Tools"
+  url: "/services-models-tools/"
+  side: left
+
 - title: "Services on Data&Metadata"
   url: "/services-data-metadata/"
   side: left
-  dropdown:
-  - title: "Data Discovery"
-    url: "/data-discovery/"
-  - title: "Climate4Impact Portal"
-    url: "/climate4impact/"
-  - title: "Derived Data Products"
-    url: "/derived-data/"
-  - title: "Analysis Platforms"
-    url: "/analysis-platforms/"
-  - title: "Metadata Services"
-    url: "/metadata-services/"
-  - title: "Data Publication"
-    url: "/data-publication/"
-  - title: "Support Contacts"
-    url: "/support-contacts/"
 
-#- title: Documentation
-#  url: "/documentation/"
-#  side: left
-#  dropdown:
-#  - title: "Changelog"
-#    url: "/changelog/"
-#  - title: "Roadmap"
-#    url: "/roadmap/"
+- title: "Publications"
+  url: "/publications/"
+  side: left
+  dropdown:
+  - title: "Deliverables and Milestones"
+    url: "/deliverables-milestones/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Presentations and Posters"
+    url: "/presentations-posters/"
+  - title: "Lectures Tutorials Webinars"
+    url: "/lectures-tutorials-webinars/"
+
+- title: Archive
+  url: "/archive/"
+  side: left
+  dropdown:
+  - title: "IS-ENES Phase One"
+    url: "/isenes-phase-1/"
+  - title: "IS-ENES Phase Two"
+    url: "/isenes-phase-2/"
 
 #- title: Blog
 #  url: "/blog/"
