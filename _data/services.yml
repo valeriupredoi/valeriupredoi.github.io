@@ -4,9 +4,9 @@
   url: "/contact/"
   title: "ISENES3 contact"
 
-#- name: "RSS"
-#  url: "/feed.xml"
-#  title: "Subscribe to RSS Feed"
+- name: "Mailinglist"
+  url: "https://lists.enes.org/mailman/listinfo/is-enes3"
+  title: "Subscribe to mailinglist"
 
 - name: "Privacy Policy"
   url: "/privacy/"
