@@ -23,7 +23,7 @@ header:
 
 ---
 
-#### <a name="esmv1"></a>2nd Technical ESMValTool Workshop 2021
+### <a name="esmv1"></a>2nd Technical ESMValTool Workshop 2021
 - open when: **Nov 23, 2021**
 - duration: **Nov 23, 2021 10:00 AM to Nov 25, 2021 05:00 PM**
 
@@ -42,9 +42,9 @@ The Second Technical ESMValTool Workshop 2021 took place via video call from 23-
   - cross team meeting
   - pinning dependencies
 
+<hr style="border:2px solid gray">
 
-
-#### <a name="isenes3ga"></a>IS-ENES3 virtual 2nd General Assembly
+### <a name="isenes3ga"></a>IS-ENES3 virtual 2nd General Assembly
 - open when: **Oct 04, 2021**
 - duration: **Oct 04, 2021 09:00 AM to Oct 06, 2021 05:00 PM (Europe/Vienna / UTC200)**
 
@@ -100,6 +100,8 @@ Time Slot | Author(s) and presentation
             | Update on NEMO Sea Ice model – Ed Blockley & Martin Vancoppenolle
             | NEMO HPC Working Group – Italo Epicoco
 15h55-16h35 | Models, Tools and HPC: cross-workpackage issues and introduction to breakout groups
+
+<hr style="border:2px solid gray">
 
 *TODO Needs completion*
 *all links to presentations in table above and the next workshops detailed info

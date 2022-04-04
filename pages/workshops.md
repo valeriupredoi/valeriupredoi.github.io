@@ -25,7 +25,7 @@ header:
 
 ### Current
 
-#### 7th ENES HPC Workshop (Barcelona, 2022)
+### 7th ENES HPC Workshop (Barcelona, 2022)
 - open when: **Monady, 9 May 2022**
 - duration: **May 09, 2022 09:00 AM to May 11, 2022 05:00 PM (Europe/Vienna / UTC200)**
 
@@ -51,7 +51,9 @@ Session 5 | Data Worflows
 - Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdaTpORsHkO-OQzfG50vWFnuyhzP8hcGXWVC5hRotYtPYVqiw/viewform) before April 25th, 2022!
 - In order to organise your stay, you can find the instructions to access the BSC venue [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Barcelona2022-Venue%20details.pdf) and a list of hotels in Barcelona [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Barcelona2022-Hotels%20near%20BSC.pdf).
 
-#### IS-ENES3@EGU2022
+<hr style="border:2px solid gray">
+
+### IS-ENES3@EGU2022
 - duration: **May 23, 2022 09:00 AM to May 27, 2022 08:00 PM (Europe/Vienna / UTC200)**
 
 ![egu2022](../images/egu-2022.png)
@@ -74,6 +76,7 @@ Session 5 | Data Worflows
 - OS1.11 – [Under cover: The Southern Ocean’s connection to sea ice and ice shelves](https://meetingorganizer.copernicus.org/EGU22/EGU22-7257.html)
 - EGU22-7257 - Drivers of Antarctic sea-ice advance date, by Kenza Himmich et al.
 
+<hr style="border:2px solid gray">
 
 ### Past
 

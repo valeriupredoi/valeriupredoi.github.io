@@ -23,7 +23,7 @@ header:
 
 ---
 
-#### <a name="oasis"></a>IS-ENES3 3rd call for an OASIS Dedicated User Support (closing January 15th)
+### <a name="oasis"></a>IS-ENES3 3rd call for an OASIS Dedicated User Support (closing January 15th)
 - open when: **Th, 25. Nov 2021**
 - duration: **Nov 25, 2021 10:00 AM to Jan 15, 2022 11:00 AM**
 
@@ -54,7 +54,9 @@ The selection will be made by members of the OASIS Advisory Board. The instituti
 
 *Your personal data (name, surname, e-mail address) will be collected by CERFACS for selecting and maintaining your candidacy. The legal basis of the processing is Article 6 (1) lit. e General Data Protection Regulation (GDPR) . Your data might be shared among ISENES3 partners and will be deleted at the end of the IS-ENES3 project. In accordance with the European GDPR, you can ask for data rectification, data access and data erasure by contacting Eric Maisonnave (eric.maisonnave[at]cerfacs.fr).*
 
-#### <a name="cordex5"></a>5th call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (1st June 2021 - 20 Dec. 2021)
+<hr style="border:2px solid gray">
+
+### <a name="cordex5"></a>5th call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (1st June 2021 - 20 Dec. 2021)
 - open when: **Tu, 1. Jun 2021**
 - duration: **Jun 01, 2021 09:00 AM to Dec 20, 2021 06:00 PM**
 
@@ -77,8 +79,9 @@ With the new Access to Advanced Analysis Platforms, you will be able to
 
 Calls are open twice a year, approximately every 6 months. Find the application procedure on the [ENES portal](https://portal.enes.org/data/data-metadata-service/analysis-platforms).
 
+<hr style="border:2px solid gray">
 
-#### <a name="cordex4"></a>4th call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (1st Nov 2020 - 31 May. 2021)
+### <a name="cordex4"></a>4th call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (1st Nov 2020 - 31 May. 2021)
 - open when: **Su, 1. Nov 2020**
 - duration: **Nov 01, 2020 12:00 PM to May 31, 2021 01:00 PM**
 
@@ -101,7 +104,9 @@ With the new Access to Advanced Analysis Platforms, you will be able to
 
 Calls are open twice a year, approximately every 6 months. Find the application procedure on the [ENES portal](https://portal.enes.org/data/data-metadata-service/analysis-platforms).
 
-#### <a name="cordex3"></a>3rd call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (10 June - 31 Oct. 2020)
+<hr style="border:2px solid gray">
+
+### <a name="cordex3"></a>3rd call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (10 June - 31 Oct. 2020)
 - open when: **We, 10. Jun 2020**
 - duration: **Jun 10, 2020 02:00 PM to Oct 31, 2020 03:00 PM**
 
@@ -124,7 +129,9 @@ With the new Access to Advanced Analysis Platforms, you will be able to
 - have access to a large collection of software libraries commonly used to analyse climate model output. 
  Calls are open twice a year, approximately every 6 months.
 
-#### <a name="cordex2"></a>Second call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (15 Dec.-10 June 2020)
+<hr style="border:2px solid gray">
+
+### <a name="cordex2"></a>Second call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (15 Dec.-10 June 2020)
 - open when: **Mo, 16. Dec 2019**
 - duration: **Dec 16, 2019 12:00 AM to Jun 10, 2020 12:00 AM**
 
@@ -149,7 +156,9 @@ With the new Access to Advanced Analysis Platforms, you will be able to
 
 Calls are open twice a year, approximately every 6 months. Find the application procedure on the [ENES portal](https://portal.enes.org/data/data-metadata-service/analysis-platforms).
 
-#### <a name="cordex1"></a>1st call for Analysis Platforms for CMIP6 and CORDEX (closing Dec. 15)
+<hr style="border:2px solid gray">
+
+### <a name="cordex1"></a>1st call for Analysis Platforms for CMIP6 and CORDEX (closing Dec. 15)
 - open when: **Mo, 16. Sep 2019**
 - duration: **Sep 16, 2019 08:00 AM to Dec 08, 2019 05:00 PM**
 - note: Deadline Extended: Dec 15 2019
@@ -167,7 +176,9 @@ New data near processing capabilities at the centers DKRZ, CNRS-IPSL, STFC (at C
 
 Calls are open twice a year, approximately every 6 months. Find the application procedure on the [ENES portal](https://portal.enes.org/data/data-metadata-service/analysis-platforms).
 
-#### <a name="oasis2"></a>IS-ENES3 2nd call for an OASIS Dedicated User Support
+<hr style="border:2px solid gray">
+
+### <a name="oasis2"></a>IS-ENES3 2nd call for an OASIS Dedicated User Support
 - open when: **Fr, 6. Sep 2019**
 - duration: **Sep 06, 2019 12:00 AM to Oct 31, 2019 12:00 AM**
 
@@ -182,7 +193,9 @@ This service excludes the scientific development, tuning, analysis and evaluatio
 
 This year, a total of 3 person-months of Dedicated User Support will be offered to 3 different groups. Provided by CERFACS, this service is available to any climate research laboratory in Europe.
 
-#### <a name="oasis1"></a>1st call for an OASIS Dedicated User Support
+<hr style="border:2px solid gray">
+
+### <a name="oasis1"></a>1st call for an OASIS Dedicated User Support
 - open when: **Tu, 1. Jan 2019**
 - duration: **Jan 01, 2019 12:00 AM to Jan 31, 2019 12:00 AM**
 
@@ -196,3 +209,5 @@ Within IS-ENES3, work package 6 "Services on European ESMs and Software Tool", a
 This service excludes the scientific development, tuning, analysis and evaluation of the coupled model components themselves and of the coupled model as a whole.
 
 This year, a total of 3 person-months of Dedicated User Support will be offered to 3 different groups. Provided by CERFACS, this service is available to any climate research laboratory in Europe.
+
+<hr style="border:2px solid gray">

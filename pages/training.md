@@ -25,7 +25,7 @@ header:
 
 ### Current
 
-#### IS-ENES3 Eastern Europe Spring Schools on Climate data and Impact assessments
+### IS-ENES3 Eastern Europe Spring Schools on Climate data and Impact assessments
 - open when: **May 17, 2022**
 - duration: **May 17, 2022 08:30 AM to May 19, 2022 07:00 PM (Europe/Vienna / UTC200)**
 
@@ -41,7 +41,9 @@ The aim of the schools is to:
 
 **The programme, practical details information and application procedure are available on the** [BBU website](https://geografie.ubbcluj.ro/cercetare/?page_id=557).
 
-#### IS-ENES3 Data Science Summer School
+<hr style="border:2px solid gray">
+
+### IS-ENES3 Data Science Summer School
 - open when: **Sep 01, 2022**
 - duration: **Sep 01, 2022 09:00 AM to Sep 07, 2022 05:00 PM (Europe/Vienna / UTC200)**
 
@@ -57,6 +59,8 @@ Organised by the [IS-ENES3 consortium](https://valeriupredoi.github.io/partners/
 Driven by the theoretical background provided by domain, data and computer science experts, the school will adopt a hands-on approach for maximising results focusing on the usage of datasets linked to the IS-ENES3 data services. The school will strengthen the individual expertise of the participating climate and computer scientists, as well as, leverage and emphasise the need of collaboration between them, helping early career scientists with different backgrounds to meet and network.
 
 **Find the programme, application procedure and other information on the** [NCSR-D website](https://www.iit.demokritos.gr/is-enes-summer-school/).
+
+<hr style="border:2px solid gray">
 
 ### Past
 

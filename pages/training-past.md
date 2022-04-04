@@ -23,7 +23,7 @@ header:
 
 ---
 
-#### <a name="virt-clinic"></a>IS-ENES3: Virtual clinic on bias-adjustment of climate model data
+### <a name="virt-clinic"></a>IS-ENES3: Virtual clinic on bias-adjustment of climate model data
 - open when: **Oct 14, 2021**
 - duration: **Oct 14, 2021 10:00 AM to Oct 21, 2021 12:00 PM (Europe/Vienna / UTC200)**
 
@@ -54,5 +54,14 @@ Everyone interested ! However, the workshop is meant especially for **climate re
 
 **Register** [here](https://docs.google.com/forms/d/e/1FAIpQLSdChe9gsMkxACd4_Muny9yz5SbmwN820OsPbwWR6RmxEP-DdA/viewform) before October 12!
 
+<hr style="border:2px solid gray">
+
+### <a name="xios"></a>XIOS training sessions
+- open when: **Mar 15, 2021**
+- duration: **Mar 15, 2021 02:00 PM to Apr 16, 2021 05:00 PM (Europe/Vienna / UTC100)**
+
+<hr style="border:2px solid gray">
+
+<hr style="border:2px solid gray">
 *TODO Needs completion*
 *all the other past trainings need to be listed here
