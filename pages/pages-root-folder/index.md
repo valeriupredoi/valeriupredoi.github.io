@@ -46,11 +46,6 @@ The IS-ENES3 three main objectives are to:
 - Disseminate model data
 
 
-### Cool stuff
-
-![mailinglist](../images/liam-truong-oeDH20DVb2A-unsplash.jpg)  [ISENES3 mailing list](https://lists.enes.org/mailman/listinfo/is-enes3)  ![mailinglist](../images/liam-truong-oeDH20DVb2A-unsplash.jpg)  [ISENES3 mailing list](https://lists.enes.org/mailman/listinfo/is-enes3)
-
-
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/BHMqckkh52g" frameborder="0" allowfullscreen></iframe>
