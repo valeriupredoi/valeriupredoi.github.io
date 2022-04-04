@@ -17,7 +17,7 @@
 description: 'Website of ISENES3'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by Valeriu Predoi, Fanny Adloff and Sophie Morellon with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p><img src="images/flag_eu_h40px.png" alt="EU flag"> IS-ENES3 has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No <a href="https://european-union.europa.eu/select-language?destination=/node/1" target="_blank">824084</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
