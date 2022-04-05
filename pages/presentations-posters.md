@@ -36,10 +36,16 @@ Title | Type
 
 Title | Type
 :----:|:----:
-[Cloud futures for CMIP data – Evaluating object storage models and re-evaluating federation for data distribution](https://zenodo.org/record/4670017#.YkwjbCbTVD9) | Zenodo
-[ESMValCore and ESMValTool : analyzing CMIP data made easy]() | PDF
+[Cloud futures for CMIP data – Evaluating object storage models and re-evaluating federation for data distribution](https://zenodo.org/record/4670017#.YkwjbCbTVD9) | Zenodo Link
+[ESMValCore and ESMValTool : analyzing CMIP data made easy](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Hassler_ESMValTool_AGU2020_FINAL_novoice.pdf) | PDF Document
 
 ### AGU2021
+
+Title | Type
+:----:|:----:
+[Access to Analysis and Climate Indices Tools for Climate Researchers and End Users](https://zenodo.org/record/5907026#.YkwlxibTVD9) | Zenodo Link
+[Evaluation of CMIP6 and quantifying progress of climate models across different CMIP phases with the ESMValTool](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AGU2021_ESMValTool_Bock_v3.pdf) | PDF Document
+[Developing Community standards-based Search Tools for Earth System Model Data using STAC](https://zenodo.org/record/5930282#.Ykwl7SbTVD9) | Zenodo Link
 
 ### AGU2022
 *Future*
