@@ -21,25 +21,41 @@ header:
 
 ---
 
+### Table of Contents
+
 Here is a collection of all the IS-ENES3 presentations and posters.
 
 **Find more IS-ENES3 presentations on our [ZENODO](https://zenodo.org/communities/is-enes3/?page=1&size=20) community page.**
 
-### AGU2019
+1. [AGU2019](#AGU2019)
+2. [AGU2020](#AGU2020)
+3. [AGU2021](#AGU2021)
+4. [AGU2022](#AGU2022)
+5. [EGU2019](#EGU2019)
+6. [EGU2020](#EGU2020)
+7. [EGU2021](#EGU2021)
+8. [EGU2022](#EGU2022)
+9. [EMS2021](#EMS2021)
+10. [EOSC-Hub Week 2020](#EOSC-HubWeek2020)
+11. [e-Science International Conference 2019](#e-ScienceInternationalConference2019)
+12. [e-Science International Conference 2021](#e-ScienceInternationalConference2021)
+13. [Other](#Other)
+
+# AGU2019
 
 Title | Type
 :----:|:----:
 [Climate Data Analysis: Enhancing Usage of Research Data with Climate4impact, EUDAT and DARE](https://zenodo.org/record/3585160#.YkwidSbTVD-) | Zenodo
 
 
-### AGU2020
+# AGU2020
 
 Title | Type
 :----:|:----:
 [Cloud futures for CMIP data – Evaluating object storage models and re-evaluating federation for data distribution](https://zenodo.org/record/4670017#.YkwjbCbTVD9) | Zenodo Link
 [ESMValCore and ESMValTool : analyzing CMIP data made easy](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Hassler_ESMValTool_AGU2020_FINAL_novoice.pdf) | PDF Document
 
-### AGU2021
+# AGU2021
 
 Title | Type
 :----:|:----:
@@ -47,27 +63,27 @@ Title | Type
 [Evaluation of CMIP6 and quantifying progress of climate models across different CMIP phases with the ESMValTool](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AGU2021_ESMValTool_Bock_v3.pdf) | PDF Document
 [Developing Community standards-based Search Tools for Earth System Model Data using STAC](https://zenodo.org/record/5930282#.Ykwl7SbTVD9) | Zenodo Link
 
-### AGU2022
+# AGU2022
 *Future*
 
-### EGU2019
+# EGU2019
 
-### EGU2020
+# EGU2020
 
-### EGU2021
+# EGU2021
 
-### EGU2022
+# EGU2022
 *Future*
 
-### EMS2021
+# EMS2021
 
-### EOSC-Hub Week 2020 
+# EOSC-HubWeek2020 
 
-### e-Science International Conference 2019
+# e-ScienceInternationalConference 2019
 
-### e-Science International Conference 2021
+# e-ScienceInternationalConference 2021
 
-### Other Presentations and Posters
+# Other
 
 Title | Type
 :----:|:----:
