@@ -27,8 +27,8 @@ Here is a collection of all the IS-ENES3 presentations and posters.
 
 **Find more IS-ENES3 presentations on our [ZENODO](https://zenodo.org/communities/is-enes3/?page=1&size=20) community page.**
 
-Title | Type
-:----:|:----:
+No. | Conference
+:--:|:----------:
 1 | [AGU2019](#agu2019)
 2 | [AGU2020](#agu2020)
 3 | [AGU2021](#agu2021)
@@ -70,20 +70,57 @@ Title | Type
 
 ### EGU2019
 
+Title | Type
+:----:|:----:
+[Climate4impact: Enhance usage of research data and support researchers with climate analysis](https://zenodo.org/record/3600972#.Ykxi4ibTVD9) | Zenodo Link
+[IS‐ENES impacts on the path towards the infrastructure sustainability](https://zenodo.org/record/3550858#.YkxiuCbTVD_) | Zenodo Link
+
 ### EGU2020
 
+Title | Type
+:----:|:----:
+[A Python-oriented environment for climate experiments at scale in the frame of the European Open Science Cloud](https://zenodo.org/record/3896196#.YkxjrSbTVD-) | Zenodo Link
+[Evolution and Future Architecture for the Earth System Grid Federation (ESGF)](https://zenodo.org/record/3895832#.YkxjxybTVD-) | Zenodo Link
+[Boosting climate change research with direct access to high performance computing](https://zenodo.org/record/3896443#.Ykxj5CbTVD-) | Zenodo Link
+[Integrating e-infrastructures for remote climate data processing](https://zenodo.org/record/3901545#.Ykxj_SbTVD9) | Zenodo Link
+[Advances in Collaborative Documentation Support for CMIP6](https://zenodo.org/record/3928319#.YkxkHSbTVD9) | Zenodo Link
+[Refactoring the memory access pattern to improve computational performance in NEMO](https://zenodo.org/record/3931799#.YkxkOCbTVD9) | Zenodo Link
+[Climate Index Metadata and its Implementation](https://zenodo.org/record/3946599#.YkxkVibTVD9) | Zenodo Link
+[Broadening access to supercomputers for CMIP6 and CORDEX multimodel comparisons](https://zenodo.org/record/3959252#.YkxkjybTVD9) | Zenodo Link
+
 ### EGU2021
+
+Title | Type
+:----:|:----:
+[From climate models to informing policy decisions: the end-to-end importance of an effective research infrastructure]() | Link
+[Making Cyclone Tracking accessible to end users for Climate Research and Applications]() | Link
+[Skip high-volume data transfer and access free computing resources for your CMIP6 multi-model analyses]() | Link
+[New scientific diagnostics in the ESMValTool an overview]() | File
+[Recent developments on the Earth System Model Evaluation Tool]() | File
+[Model evaluation expectations of European ESM communities: first results from a survey]() | File
 
 ### EGU2022
 *Future*
 
 ### EMS2021
 
+Title | Type
+:----:|:----:
+
 ### EOSC HubWeek 2020 
+
+Title | Type
+:----:|:----:
 
 ### e-Science International Conference 2019
 
+Title | Type
+:----:|:----:
+
 ### e-Science International Conference 2021
+
+Title | Type
+:----:|:----:
 
 ### Other
 
