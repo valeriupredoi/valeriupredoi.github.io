@@ -106,45 +106,50 @@ Title | Type
 
 Title | Type
 :----:|:----:
+[Experiences with virtual schools on “Climate data for impact assessments”]() | File
 
-### EOSC HubWeek 2020 
+### EOSC HubWeek 2020
 
 Title | Type
 :----:|:----:
+[ECAS: a data science environment for climate change in the EGI federated infrastructure]() | Link
 
 ### e-Science International Conference 2019
 
 Title | Type
 :----:|:----:
+[Ease Access to Climate Simulations for Researchers: IS-ENES climate4impact]() | Link
+[Enabling Transparent Access to Heterogeneous Architectures for IS-ENES climate4impact using the DARE Platform]() | Link
 
 ### e-Science International Conference 2021
 
 Title | Type
 :----:|:----:
+[Climate modelling: computing and data challenges - S. Joussaume]() | Link
 
 ### Other
 
 Title | Type
 :----:|:----:
-IS-ENES3 Kick-off meeting | Internal Link
-IS-ENES3 Virtual 1st General Assembly | Internal Link
-IS-ENES3 2nd General Assembly | Internal Link
-IS-ENES3 Virtual workshop on Compute and Analytics (2 Dec. 2019) | Internal Link
-IS-ENES3 Webinar on Access to CORDEX and CMIP6 climate data | Internal Link
-First IS-ENES3 virtual Autumn School on Climate data use for impact assessments | Internal Link
-IS-ENES3 Workshop: Climate indices - an Eastern European perspective (17 May 2021) | Internal Link
-Fifth Workshop on Coupling Technologies for Earth System Models (CW2020) | Link
-Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling | Link
-IS-ENES3 virtual workshop on requirements for a fast and scalable evaluation workflow (18-19 May 2021) | Internal Link
-IPCC WG1 Training on Data and Software Development - June 2019 | Folder
-Scientific Gateways 2019 | Folder
-Climate Science2Policy 2020 | Folder
-EGI Conference 2020 | Folder
-EGI Conference 2021 | Folder
-Research Data Alliance (RDA) Plenary Meeting 2020 | Folder
-C3S Workshops | Folder
-EOSC Symposium 2021 | Folder
-Scientific Gateways 2021 | Folder
-ClimateData.ca Conference | Folder
-WGCM-24 | Folder
-EuroHPC Summit week (March 2022) | Folder
+[IS-ENES3 Kick-off meeting]() | Internal Link
+[IS-ENES3 Virtual 1st General Assembly]() | Internal Link
+[IS-ENES3 2nd General Assembly]() | Internal Link
+[IS-ENES3 Virtual workshop on Compute and Analytics (2 Dec. 2019)]() | Internal Link
+[IS-ENES3 Webinar on Access to CORDEX and CMIP6 climate data]() | Internal Link
+[First IS-ENES3 virtual Autumn School on Climate data use for impact assessments]() | Internal Link
+[IS-ENES3 Workshop: Climate indices - an Eastern European perspective (17 May 2021)]() | Internal Link
+[Fifth Workshop on Coupling Technologies for Earth System Models (CW2020)]() | Link
+[Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling]() | Link
+[IS-ENES3 virtual workshop on requirements for a fast and scalable evaluation workflow (18-19 May 2021)]() | Internal Link
+[IPCC WG1 Training on Data and Software Development - June 2019]() | Folder
+[Scientific Gateways 2019]() | Folder
+[Climate Science2Policy 2020]() | Folder
+[EGI Conference 2020]() | Folder
+[EGI Conference 2021]() | Folder
+[Research Data Alliance (RDA) Plenary Meeting 2020]() | Folder
+[C3S Workshops]() | Folder
+[EOSC Symposium 2021]() | Folder
+[Scientific Gateways 2021]() | Folder
+[ClimateData.ca Conference]() | Folder
+[WGCM-24]() | Folder
+[EuroHPC Summit week (March 2022)]() | Folder
