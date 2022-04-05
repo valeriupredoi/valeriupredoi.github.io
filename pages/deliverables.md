@@ -28,7 +28,7 @@ D3.1 - Initial requirements on model evaluation | File
 [D3.4 - CMIP documentation requirements](IS-ENES3_D3.4)| File
 D4.1 - Coupling workshop report | File
 D4.2 - Development strategy for sea ice modelling in NEMO | File
-D4.3 - CPMIP performance metrics and community advice | Link
+[D4.3 - CPMIP performance metrics and community advice](https://zenodo.org/record/6394049#.YkxFuzyxXkN) | Link
 D5.1 - Compute service requirements and state of the art approaches | Link
 D5.2 -Technical standards for diagnostic tools | File
 D5.4 - IS-ENES3 involvement in ESGF | File
@@ -46,6 +46,6 @@ D9.2 - ESMValTool version enabling model development usage | File
 D9.3 - ESMValTool version with ESGF coupling and distributed computation features | File
 D9.4 - Seamless Evaluation with the ESMValTool | File
 [D10.1 - Architectural document of the ENES CDI software stack](https://zenodo.org/record/4309892#.Ykw7jDyxXkN) | Link
-D10.2 - First release of the ENES CDI software stack | Link
+[D10.2 - First release of the ENES CDI software stack](https://zenodo.org/record/4450012#.YkxFyDyxXkO) | Link
 D10.3 - Second release of the ENES CDI software stack | File
-IS-ENES3 White Paper on provenance handling in the model evaluation process (contribution to D3.3) | Link
+[IS-ENES3 White Paper on provenance handling in the model evaluation process (contribution to D3.3)](https://zenodo.org/record/5759571#.YkxFwzyxXkN) | Link
