@@ -23,7 +23,7 @@ header:
 
 Title | Type
 :----:|:----:
-[M1.1 - IS-ENES3 Kick-off meeting](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M1.1_vf) | File
+[M1.1 - IS-ENES3 Kick-off meeting](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/tree/master/pdf_documents/IS-ENES3_M1.1_vf) | File
 [M1.3 - IS-ENES3 Virtual First General Assembly](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M1.3_vf) | File
 [M1.4 - IS-ENES3 Virtual Second General Assembly](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M1.4) | File
 [M2.1 - New Advice Structures Active](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M2.1) | File
