@@ -146,7 +146,7 @@ If you have any questions about this training, please contact Yushan Wang <yusha
 - Tired of downloading tons of climate model data?
 - Are you about to overload your computer’s memory with the constant increase of data volume and you need more computing resources?
 
-"[eoscBanner](../images/IS-ENES3-EOSCjointonlinetrainingMarch2021banner-vf2.png)
+![eoscBanner](../images/IS-ENES3-EOSCjointonlinetrainingMarch2021banner-vf2.png)
 
 The infrastructure for the European Network of Earth System modelling ([ENES](https://portal.enes.org/)) has a new service for you! Thanks to the ENES Climate Analytics Service ([ECAS](https://portal.enes.org/data/data-metadata-service/climate-analytics-service)), which is also one of the thematic services included in the [EOSC-hub](https://www.eosc-hub.eu/) service portfolio, you can load just the data you need and straightforwardly process them. With this free of charge service, you can request computing time through the [IS-ENES](https://valeriupredoi.github.io/) infrastructure project, which hosts and maintains more than 6 Petabytes of CMIP data as the European part of the Earth System Grid Federation ([ESGF](https://esgf.llnl.gov/)).
 
