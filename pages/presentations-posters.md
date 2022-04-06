@@ -92,9 +92,9 @@ Title | Type
 
 Title | Type
 :----:|:----:
-[From climate models to informing policy decisions: the end-to-end importance of an effective research infrastructure]() | Link
-[Making Cyclone Tracking accessible to end users for Climate Research and Applications]() | Link
-[Skip high-volume data transfer and access free computing resources for your CMIP6 multi-model analyses]() | Link
+[From climate models to informing policy decisions: the end-to-end importance of an effective research infrastructure](https://zenodo.org/record/4737232#.Yk3BzMhBw2z) | Link
+[Making Cyclone Tracking accessible to end users for Climate Research and Applications](https://zenodo.org/record/4737276#.Yk3B4chBw2y) | Link
+[Skip high-volume data transfer and access free computing resources for your CMIP6 multi-model analyses](https://zenodo.org/record/4738991#.Yk3B8shBw2z) | Link
 [New scientific diagnostics in the ESMValTool an overview]() | File
 [Recent developments on the Earth System Model Evaluation Tool]() | File
 [Model evaluation expectations of European ESM communities: first results from a survey]() | File
@@ -112,20 +112,20 @@ Title | Type
 
 Title | Type
 :----:|:----:
-[ECAS: a data science environment for climate change in the EGI federated infrastructure]() | Link
+[ECAS: a data science environment for climate change in the EGI federated infrastructure](https://zenodo.org/record/3961477#.Yk3CJshBw2y) | Link
 
 ### e-Science International Conference 2019
 
 Title | Type
 :----:|:----:
-[Ease Access to Climate Simulations for Researchers: IS-ENES climate4impact]() | Link
-[Enabling Transparent Access to Heterogeneous Architectures for IS-ENES climate4impact using the DARE Platform]() | Link
+[Ease Access to Climate Simulations for Researchers: IS-ENES climate4impact](https://zenodo.org/record/3546240#.Yk3Cw8hBw2x) | Link
+[Enabling Transparent Access to Heterogeneous Architectures for IS-ENES climate4impact using the DARE Platform](https://zenodo.org/record/3546219#.Yk3CxMhBw2y) | Link
 
 ### e-Science International Conference 2021
 
 Title | Type
 :----:|:----:
-[Climate modelling: computing and data challenges - S. Joussaume]() | Link
+[Climate modelling: computing and data challenges - S. Joussaume](https://zenodo.org/record/5526225#.Yk3C88hBw2x) | Link
 
 ### Other
 
