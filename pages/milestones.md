@@ -23,7 +23,7 @@ header:
 
 Title | Type
 :----:|:----:
-[M1.1 - IS-ENES3 Kick-off meeting](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/tree/master/pdf_documents/IS-ENES3_M1.1_vf.pdf) | File
+[M1.1 - IS-ENES3 Kick-off meeting](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M1.1_vf.pdf) | File
 [M1.3 - IS-ENES3 Virtual First General Assembly](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M1.3_vf.pdf) | File
 [M1.4 - IS-ENES3 Virtual Second General Assembly](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M1.4.pdf) | File
 [M2.1 - New Advice Structures Active](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M2.1.pdf) | File
@@ -36,9 +36,9 @@ Title | Type
 [M4.1 - Development strategy workshop for European Platform for Sea Ice modelling](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M4.1_VF_wp.pdf) | File
 [M4.2 - New Technical Opportunities workshop in ML and AI](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M4.2_vf.pdf) | File
 [M5.1 - Draft Architecture Design](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M5.1_Draft_Architecture_Design.pdf) | File
-[M5.2 - ESGF CMIP6 Summary](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M5.2_ESGF_CMIP6_SUmmary.pdf) | File
-[M5.3 - Requirements for technical standards for diagnostic tools](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M5.3_Requirements_for_technical_standards_for_diagnostics_tools.pdf) | File
-[M5.4 - Compute service roadmap](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/M5.4_Compute_service_roadmap.pdf)| File
+[M5.2 - ESGF CMIP6 Summary](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M5.2_ESGF_CMIP6_Summary.pdf) | File
+[M5.3 - Requirements for technical standards for diagnostic tools](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M5.3_Requirements_for_technical_standards_for_diagnostic_tools.pdf) | File
+[M5.4 - Compute service roadmap](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M5.4_Compute_service_roadmap.pdf)| File
 [M6.1 - ENES ESM resources updated](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M6.1.pdf) | File
 [M6.2 - Reviewer for services appointed](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M6.2.pdf) | File
 [M6.3 - ENES ESM resources updated, RP2](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M6.3.pdf) | File
