@@ -23,7 +23,10 @@ header:
 
 ---
 
-### Current
+- [Current](#current)
+- [Past](#past)
+
+## Current
 
 ### IS-ENES3 Eastern Europe Spring Schools on Climate data and Impact assessments
 - open when: **May 17, 2022**
@@ -62,20 +65,45 @@ Driven by the theoretical background provided by domain, data and computer scien
 
 <hr style="border:2px solid gray">
 
-### Past
+## Past
 
-#### [IS-ENES3: Virtual clinic on bias-adjustment of climate model data (Oct 14, 2021 to Oct 21, 2021)](https://valeriupredoi.github.io/training-past/#virt-clinic)
+### <a name="virt-clinic"></a>IS-ENES3: Virtual clinic on bias-adjustment of climate model data
+- open when: **Oct 14, 2021**
+- duration: **Oct 14, 2021 10:00 AM to Oct 21, 2021 12:00 PM (Europe/Vienna / UTC200)**
 
-#### XIOS training sessions (Mar 15, 2021 to Apr 16, 2021)
+**Dates of the clinic**
 
-#### Online Training on Data Analytics: How to skip high-volume data transfer and access free computing resources for your CMIP analyses (Mar 08, 2021 to Mar 09, 2021)
+The virtual clinic is divided into two meetings.
+- 14th October 2021 10:00-12:00 CET
+- 21st October 2021 10:00-12:00 CET
 
-#### Second and Third IS-ENES3 virtual School on Climate Data Use for Impact Assessments (Mar 03, 2021 to Jun 14, 2021)
+##### Background
 
-#### First IS-ENES3 virtual Autumn School on Climate data use for impact assessments (Nov 04, 2020 to Dec 10, 2020)
+For many studies on the impacts of climate change, bias-adjustment of the climate model simulations is a necessary step before impact models can be run or before relevant climate indices can be calculated. However, there are many methods, all with their own advantages and disadvantages. As part of the IS-ENES3 project, 3 courses on “Climate data for impact assessments” were organized, in which also some attention was paid to bias-adjustment (by Ana Casanueva, University of Cantabria). However, it was clear that the participants of the schools wanted some more in-depth information and practical exercises.
 
-#### 1st Webinar of the demonstration of the Climate4Impact portal (Sep 16, 2019)
+##### Who can participate
 
-#### EMS 2019: Second demonstration session of the Climate4Impact portal (Sep 12, 2019 from 09:00 AM to 01:00 PM EMS2019, Lyngby Campus, Side meeting SIM13, Room: S8)
+Everyone interested ! However, the workshop is meant especially for **climate researchers, impact researchers and climate service providers** who may have to do bias-adjustments or use/will use bias-adjusted climate model data.
 
-#### EGU 2019: First demonstration session Climate4Impact portal for the IS-ENES3 project (Apr 09, 2019 from 08:03 AM to 10:15 AM)
+##### Set-up the clinic
+
+- During the first meeting, two experts in the field of bias-adjustments will give more in-depth information about e.g. quantile mapping, bias adjustment of precipitation, multivariate methods, challenges, limitations and pitfalls and non-stationary methods.
+- In between the two meetings, participants are asked to either explore some tools, do an exercise that will be provided or send in an example/problem/question from their own work on bias adjustments or with bias-adjusted data.
+- During the second meeting, problems and challenges of participants with bias-adjustments will be discussed, either from their own work, tools they used or the exercise that was provided during the first meeting.
+
+##### Speakers
+
+- **Mathieu Vrac**: Head of the ESTIMR (Extremes - Statistics - Impacts - Regionalization) group, Directeur de Recherches CNRS (Senior Research scientist) at LSCE-IPSL/CNRS
+- **Douglas Maraun**: Associate Professor at the Wegener Center for Climate and Global Change and head of the Regional Climate Research Group at the University of Graz
+
+**Register** [here](https://docs.google.com/forms/d/e/1FAIpQLSdChe9gsMkxACd4_Muny9yz5SbmwN820OsPbwWR6RmxEP-DdA/viewform) before October 12!
+
+<hr style="border:2px solid gray">
+
+### <a name="xios"></a>XIOS training sessions
+- open when: **Mar 15, 2021**
+- duration: **Mar 15, 2021 02:00 PM to Apr 16, 2021 05:00 PM (Europe/Vienna / UTC100)**
+
+<hr style="border:2px solid gray">
+
+*TODO Section Needs completion* - **all the other past trainings need to be listed here**
