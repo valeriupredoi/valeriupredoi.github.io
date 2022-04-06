@@ -23,7 +23,10 @@ header:
 
 ---
 
-### Current
+- [Current](#current)
+- [Past](#past)
+
+## Current
 
 ### 7th ENES HPC Workshop (Barcelona, 2022)
 - open when: **Monady, 9 May 2022**
@@ -78,28 +81,88 @@ Session 5 | Data Worflows
 
 <hr style="border:2px solid gray">
 
-### Past
+## Past
 
-#### [2nd Technical ESMValTool Workshop 2021, Nov 23, 2021 to Nov 25, 2021](https://valeriupredoi.github.io/workshops-past/#esmv1)
+### <a name="esmv1"></a>2nd Technical ESMValTool Workshop 2021
+- open when: **Nov 23, 2021**
+- duration: **Nov 23, 2021 10:00 AM to Nov 25, 2021 05:00 PM**
 
-#### [IS-ENES3 virtual 2nd General Assembly, Oct 04, 2021 to Oct 06, 2021](https://valeriupredoi.github.io/workshops-past/#isenes3ga)
+**You can find the summary report of the workshop** [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Summary_ESMValTool_Workshop_Nov_2021.pdf)
 
+The Second Technical ESMValTool Workshop 2021 took place via video call from 23-25 November 2021 with 34 participants from BSC, DLR, Met Office, NLeSC, PML, SMHI, U Bremen and U Reading. The main goal of the workshop was to bring together the development community, discuss future strategies and provide updates on progress since the last workshop in May 2021. Specifically, the workshop included the following topics and side meetings:
 
-#### Workshop "Climate indices - Eastern European perspective" (Sep 27, 2021 from 11:00 AM to 03:00 PM)
+- Latest developments: mamba Installation, highlights v2.4, automatic download of missing data, selection of time rages
+- Native model grids and diagnostics for monitoring model runs
+- Support for regional models
+- Testing recipes
+- Non-backward compatible changes
+- General discussion
+- Side meetings:
+  - user engagement team
+  - cross team meeting
+  - pinning dependencies
 
-#### 2021 Climate and Forecast Conventions (CF) Workshop (Sep 21, 2021 to Sep 23, 2021)
+<hr style="border:2px solid gray">
 
-#### IS-ENES3 Virtual workshop on requirements for a fast and scalable evaluation workflow (May 18, 2021 to May 19, 2021)
+### <a name="isenes3ga"></a>IS-ENES3 virtual 2nd General Assembly
+- open when: **Oct 04, 2021**
+- duration: **Oct 04, 2021 09:00 AM to Oct 06, 2021 05:00 PM (Europe/Vienna / UTC200)**
 
-#### 1st Technical ESMValTool Workshop 2021 (May 04, 2021 to May 06, 2021)
+![isenes3GA](../images/isenes3GA-2021.png)
 
-#### IS-ENES3@EGU2021 (Apr 19, 2021 to Apr 30, 2021)
+- **You can find the event report of the workshop** [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M1.4.pdf)
+- **You can find the agenda of the workshop** [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Agenda_IS-ENES3_Virtual_GA2_v4.pdf)
 
-#### Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling (Mar 16, 2021 to Mar 18, 2021)
+**Table of presentations:**
 
-#### 4th Climate4Impact Coding Sprint (Jan 28, 2021 to Jan 29, 2021)
+##### Monday, October 4th
+**9h30-12h30: Session 1 - Plenary session**
 
-#### 7th Technical ESMValTool Coding workshop (Nov 24, 2020 to Nov 26, 2020)
+Time Slot | Author(s) and presentation
+:--------:|:--------------------------:
+9h30-10h15 | [Overview of IS-ENES3](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_overview_v2.pdf) - Sylvie Joussaume & Bryan Lawrence
+           | [Update on sustainability (WP2-NA1)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES_GA2_WP2-NA1_sustain.pdf) - Fanny Adloff
+10h15-10h55 | [NextGEMS – Next Generation Earth Modelling Systems](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/20211004_NextGEMSENES.pdf) - Björn Stevens, MPI-M
+            | [ESM2025 – Earth System Models for the future](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/ESM2025_ISENES3_AGM_RolandSfrian.pdf) - Roland Séférian, MF-CNRM
+10h55-11h10 | Results from the HPC survey – Claire Lévy, IPSL-LOCEAN
+            | About the estimation of energy-cost of data transfer – Jean-Claude André
+11h25-12h30 | General project information, budget assessment for 2022 and reallocations – Sophie Morellon & Sylvie Joussaume
 
-*TODO Needs completion*
-*listing further workshops and adding detailed info*
+**14h30-16h30: Session 2 - Model Evaluation**
+
+Time Slot | Author(s) and presentation
+:--------:|:--------------------------:
+14h30-14h55 | WP debriefings (WP3-NA2, WP5-NA4, WP6-VA1, WP7-VA2, WP9-JRA2) - Kim Serradell & Rémi Kazeroni
+14h55-15h45 | Survey results on model evaluation and perspectives – Jérôme Servonnat
+            | Overview of ESMValTool progress – Rémi Kazeroni
+            | Provenance and technical standards (WP3-NA2, WP5-NA4) – Kim Serradell & Javier Vegas
+15h45-16h30 | Model Evaluation: cross-workpackage issues
+
+##### Tuesday, October 5th
+**10h-12h: Session 3 - Data, metadata and other data software**
+
+Time Slot | Author(s) and presentation
+:--------:|:--------------------------:
+10h-10h25 | WP debriefings (WP5-NA4, WP7-VA2, WP10-JRA3)
+10h25-11h25 | ESGF architecture – Philip Kershaw
+            | Climate4impact portal 2.0 – Alessandro Spinuso
+            | Update on user requirements (including climate indices) – Janette Bessembinder
+            | ES-DOC – Sadie Bartholomew
+11h25-12h | Data, metadata and other data software: cross-workpackage issues and introduction to breakout groups
+
+**14h30-16h30: Session 4 - Models, Tools and HPC**
+
+Time Slot | Author(s) and presentation
+:--------:|:--------------------------:
+14h30-14h55 | WP debriefings (WP4-NA3, WP6-VA1, WP8-JRA1)
+14h55-15h55 | Recent developments in XIOS – Yann Meurdesoif
+            | Update on Cylc/Rose – David Matthews
+            | Update on NEMO Sea Ice model – Ed Blockley & Martin Vancoppenolle
+            | NEMO HPC Working Group – Italo Epicoco
+15h55-16h35 | Models, Tools and HPC: cross-workpackage issues and introduction to breakout groups
+
+<hr style="border:2px solid gray">
+
+*TODO Table above* - **needs all links added**
+
+*TODO Section Needs completion* - **listing all workshops and adding detailed info**
