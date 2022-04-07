@@ -1,36 +1,54 @@
 ---
-layout: video
-title: "Video Template"
+layout: page-fullwidth-6widgets
+title: Lectures and Webinars
+teaser: "Click on the images to go to the YouTube playlists!"
+header:
+   image_fullwidth: "header_homepage_13.jpg"
 permalink: "/lectures-tutorials-webinars/"
-tags:
-    - post format
 categories:
     - design
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
-video:
-    embedURL: "https://www.youtube.com/watch?v=deQUK9k47uo&list=PLFvev1W5vG7P1VGITP3ys1GpXnhL--jIc"
-    contentURL: "https://www.youtube.com/watch?v=deQUK9k47uo&list=PLFvev1W5vG7P1VGITP3ys1GpXnhL--jIc"
-    thumbnailUrl: "https://img.youtube.com/vi/deQUK9k47uo&t=11s/0.jpg"
-video1:
-    embedURL: "https://www.youtube.com/embed/WoHxoz_0ykI"
-    contentURL: "https://www.youtube.com/watch?v=WoHxoz_0ykI"
-    thumbnailUrl: "http://img.youtube.com/vi/WoHxoz_0ykI/maxresdefault.jpg"
-video2:
-    embedURL: "https://www.youtube.com/embed/WoHxoz_0ykI"
-    contentURL: "https://www.youtube.com/watch?v=WoHxoz_0ykI"
-    thumbnailUrl: "http://img.youtube.com/vi/WoHxoz_0ykI/maxresdefault.jpg"
-video3:
-    embedURL: "https://www.youtube.com/embed/WoHxoz_0ykI"
-    contentURL: "https://www.youtube.com/watch?v=WoHxoz_0ykI"
-    thumbnailUrl: "http://img.youtube.com/vi/WoHxoz_0ykI/maxresdefault.jpg"
-video4:
-    embedURL: "https://www.youtube.com/embed/WoHxoz_0ykI"
-    contentURL: "https://www.youtube.com/watch?v=WoHxoz_0ykI"
-    thumbnailUrl: "http://img.youtube.com/vi/WoHxoz_0ykI/maxresdefault.jpg"
+tags:
+    - design
+    - background color
+    - header
+#header:
+    #background-color: "#186F4D"
+header:
+    title: ISENES3 Deliverables&Milestones
+    background-color: "#186F4D;"
+    #caption: This is a caption for the header image with link
+    #caption_url: https://unsplash.com/
+    image_fullwidth: "widget-1-302x182.jpg"
+widget1:
+  title: "Climate Impact School"
+  url: "https://www.youtube.com/watch?v=_42ltTQzY30&list=PLFvev1W5vG7NDEZhxObXDd1Bc5rnBpYrk"
+  image: 'Climate_Impact_School.png'
+  # text: 'Climate Impact School'
+widget2:
+  title: "Training ECAS"
+  url: 'https://www.youtube.com/watch?v=deQUK9k47uo&list=PLFvev1W5vG7P1VGITP3ys1GpXnhL--jIc'
+  image: 'Training_ECAS.png'
+  # text: 'IS-ENES3 Milestones.'
+widget3:
+  title: "Coupling Workshop"
+  url: 'https://www.youtube.com/watch?v=p5kQii_UNlU&list=PLFvev1W5vG7O-h0H1AYrXHtkPQ3zAOZjt'
+  image: 'Coupling_Workshop.png'
+  # text: 'IS-ENES3 Milestones.'
+widget4:
+  title: "CORDEX and CMIP"
+  url: 'https://www.youtube.com/watch?v=SSjod5McTZo&list=PLFvev1W5vG7Nv-wzntcCp46XbqJKWaqRB'
+  image: 'CORDEX_and_CMIP.png'
+  # text: 'IS-ENES3 deliverables.'
+widget5:
+  title: "Compute and Analytics"
+  url: 'https://www.youtube.com/watch?v=Kr9IIa4JL08&list=PLFvev1W5vG7N69d4mD0Aa6FgNiuisQDcl'
+  image: 'Compute_and_analytics.png'
+  # text: 'IS-ENES3 Milestones.'
+widget6:
+  title: "ML-AI Workshop"
+  url: 'https://www.youtube.com/watch?v=P0RtRdLvAGA&list=PLFvev1W5vG7NP2xSRRorQabHWKKwJqw54'
+  image: 'ML-AI_Workshop.png'
+  # text: 'IS-ENES3 deliverables.'
+
 ---
 
-### Lectures
-
-### Tutorials
-
-### Webinars
