@@ -23,16 +23,19 @@ header:
 
 ---
 
-- [Current](#current)
-- [Past](#past)
+Status | Workshop
+:-----:|:--------:
+Current | *none yet*
+Past | [IS-ENES3 3rd call for an OASIS Dedicated User Support](#is-enes3-3rd-call-for-an-oasis-dedicated-user-support)
+     | [5th call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX](#5th-call-for-access-to-advanced-analysis-platforms-for-cmip6-and-cordex)
+     | [4th call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX](#4th-call-for-access-to-advanced-analysis-platforms-for-cmip6-and-cordex)
+     | [3rd call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX](#3rd-call-for-access-to-advanced-analysis-platforms-for-cmip6-and-cordex)
+     | [Second call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX](#second-call-for-access-to-advanced-analysis-platforms-for-cmip6-and-cordex)
+     | [1st call for Analysis Platforms for CMIP6 and CORDEX](#1st-call-for-analysis-platforms-for-cmip6-and-cordex)
+     | [IS-ENES3 2nd call for an OASIS Dedicated User Support](#is-enes3-2nd-call-for-an-oasis-dedicated-user-support)
+     | [1st call for an OASIS Dedicated User Support](#1st-call-for-an-oasis-dedicated-user-support)
 
-## Current
-
-*None just yet.*
-
-## Past
-
-### <a name="oasis"></a>IS-ENES3 3rd call for an OASIS Dedicated User Support (closing January 15th)
+### <a name="oasis"></a>IS-ENES3 3rd call for an OASIS Dedicated User Support
 - open when: **Th, 25. Nov 2021**
 - duration: **Nov 25, 2021 10:00 AM to Jan 15, 2022 11:00 AM**
 
@@ -65,7 +68,7 @@ The selection will be made by members of the OASIS Advisory Board. The instituti
 
 <hr style="border:2px solid gray">
 
-### <a name="cordex5"></a>5th call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (1st June 2021 - 20 Dec. 2021)
+### <a name="cordex5"></a>5th call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX
 - open when: **Tu, 1. Jun 2021**
 - duration: **Jun 01, 2021 09:00 AM to Dec 20, 2021 06:00 PM**
 
@@ -90,7 +93,7 @@ Calls are open twice a year, approximately every 6 months. Find the application 
 
 <hr style="border:2px solid gray">
 
-### <a name="cordex4"></a>4th call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (1st Nov 2020 - 31 May. 2021)
+### <a name="cordex4"></a>4th call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX
 - open when: **Su, 1. Nov 2020**
 - duration: **Nov 01, 2020 12:00 PM to May 31, 2021 01:00 PM**
 
@@ -115,7 +118,7 @@ Calls are open twice a year, approximately every 6 months. Find the application 
 
 <hr style="border:2px solid gray">
 
-### <a name="cordex3"></a>3rd call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (10 June - 31 Oct. 2020)
+### <a name="cordex3"></a>3rd call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX
 - open when: **We, 10. Jun 2020**
 - duration: **Jun 10, 2020 02:00 PM to Oct 31, 2020 03:00 PM**
 
@@ -140,7 +143,7 @@ With the new Access to Advanced Analysis Platforms, you will be able to
 
 <hr style="border:2px solid gray">
 
-### <a name="cordex2"></a>Second call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX ! (15 Dec.-10 June 2020)
+### <a name="cordex2"></a>Second call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX
 - open when: **Mo, 16. Dec 2019**
 - duration: **Dec 16, 2019 12:00 AM to Jun 10, 2020 12:00 AM**
 
@@ -167,7 +170,7 @@ Calls are open twice a year, approximately every 6 months. Find the application 
 
 <hr style="border:2px solid gray">
 
-### <a name="cordex1"></a>1st call for Analysis Platforms for CMIP6 and CORDEX (closing Dec. 15)
+### <a name="cordex1"></a>1st call for Analysis Platforms for CMIP6 and CORDEX
 - open when: **Mo, 16. Sep 2019**
 - duration: **Sep 16, 2019 08:00 AM to Dec 08, 2019 05:00 PM**
 - note: Deadline Extended: Dec 15 2019
