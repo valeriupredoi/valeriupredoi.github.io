@@ -23,10 +23,13 @@ header:
 
 ---
 
-- [Current](#current)
-- [Past](#past)
-
-## Current
+Status | Training Event
+:-----:|:--------------:
+Current | [IS-ENES3 Eastern Europe Spring Schools on Climate data and Impact assessments](#is-enes3-eastern-europe-spring-schools-on-climate-data-and-impact-assessments)
+        | [IS-ENES3 Data Science Summer School](#is-enes3-data-science-summer-school)
+Past | [IS-ENES3 Virtual clinic on bias-adjustment of climate model data](#is-enes3-virtual-clinic-on-bias-adjustment-of-climate-model-data)
+     | [XIOS training sessions](#xios-training-sessions)
+     | [Online Training on Data Analytics: How to skip high-volume data transfer and access free computing resources for your CMIP analyses](#online-training-on-data-analytics-how-to-skip-high-volume-data-transfer-and-access-free-computing-resources-for-your-cmip-analyses)
 
 ### IS-ENES3 Eastern Europe Spring Schools on Climate data and Impact assessments
 - open when: **May 17, 2022**
@@ -65,9 +68,7 @@ Driven by the theoretical background provided by domain, data and computer scien
 
 <hr style="border:2px solid gray">
 
-## Past
-
-### <a name="virt-clinic"></a>IS-ENES3: Virtual clinic on bias-adjustment of climate model data
+### <a name="virt-clinic"></a>IS-ENES3 Virtual clinic on bias-adjustment of climate model data
 - open when: **Oct 14, 2021**
 - duration: **Oct 14, 2021 10:00 AM to Oct 21, 2021 12:00 PM (Europe/Vienna / UTC200)**
 
@@ -138,7 +139,7 @@ If you have any questions about this training, please contact Yushan Wang <yusha
 
 <hr style="border:2px solid gray">
 
-###  Online Training on Data Analytics: How to skip high-volume data transfer and access free computing resources for your CMIP analyses
+###  Online Training on Data Analytics How to skip high-volume data transfer and access free computing resources for your CMIP analyses
 - open when: **Mar 08, 2021 03:00 PM**
 - duration: **Mar 08, 2021 03:00 PM to Mar 09, 2021 05:30 PM**
 
