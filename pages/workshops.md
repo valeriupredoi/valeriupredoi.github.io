@@ -23,12 +23,13 @@ header:
 
 ---
 
-- [Current](#current)
-- [Past](#past)
+Status | Workshop
+:-----:|:--------:
+Current | [7th ENES HPC Workshop (Barcelona, 2022)](#7th-enes-hpc-workshop-barcelona-2022)
+        | [IS-ENES3 at EGU2022](#is-enes3-at-egu2022)
+Past | [2nd Technical ESMValTool Workshop 2021](#2nd-technical-esmvaltool-workshop-2021)
 
-## Current
-
-### 7th ENES HPC Workshop (Barcelona, 2022)
+### 7th ENES HPC Workshop Barcelona 2022
 - open when: **Monady, 9 May 2022**
 - duration: **May 09, 2022 09:00 AM to May 11, 2022 05:00 PM (Europe/Vienna / UTC200)**
 
@@ -56,7 +57,7 @@ Session 5 | Data Worflows
 
 <hr style="border:2px solid gray">
 
-### IS-ENES3@EGU2022
+### IS-ENES3 at EGU2022
 - duration: **May 23, 2022 09:00 AM to May 27, 2022 08:00 PM (Europe/Vienna / UTC200)**
 
 ![egu2022](../images/egu-2022.png)
@@ -80,8 +81,6 @@ Session 5 | Data Worflows
 - EGU22-7257 - Drivers of Antarctic sea-ice advance date, by Kenza Himmich et al.
 
 <hr style="border:2px solid gray">
-
-## Past
 
 ### <a name="esmv1"></a>2nd Technical ESMValTool Workshop 2021
 - open when: **Nov 23, 2021**
