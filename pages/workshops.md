@@ -30,6 +30,7 @@ Current | [7th ENES HPC Workshop (Barcelona, 2022)](#7th-enes-hpc-workshop-barce
 Past | [2nd Technical ESMValTool Workshop 2021](#2nd-technical-esmvaltool-workshop-2021)
      | [IS-ENES3 virtual 2nd General Assembly](#is-enes3-virtual-2nd-general-assembly)
      | [IS-ENES3 virtual First General Assembly](#is-enes3-virtual-first-general-assembly)
+     | [Workshop Climate Indices-Eastern European perspective](#workshop-climate-indices-eastern-european-perspective)
 
 ### 7th ENES HPC Workshop Barcelona 2022
 - open when: **Monady, 9 May 2022**
@@ -182,7 +183,7 @@ Find the presentations within the agenda, by clicking on the title of the presen
 
 <hr style="border:2px solid gray">
 
-### Workshop "Climate indices - Eastern European perspective"
+### Workshop Climate Indices-Eastern European perspective
 **Sep 27, 2021** from 11:00 AM to 03:00 PM
 
 ![EEclimateindicesworkshop](../images/Eastern_Europe_banner_vf2.png)
@@ -209,7 +210,7 @@ Contact: vdj[at]ff.bg.ac.rs
 -  **Presentations from the initial meeting (May 17th)**
 
 Presentation | Author(s) 
-:--------:|:--------------------------:
+:-----------:|:---------:
 [IS-ENES3 project introduction] | WP debriefings (WP4-NA3, WP6-VA1, WP8-JRA1)
 [Indices workshop goals] | Vladimir Djurdjevic (FPUB)
 [ETCCDI indices: recap and usage examples] | Lars Bärring (SHMI)
