@@ -164,4 +164,21 @@ Time Slot | Author(s) and presentation
 
 *TODO Table above* - **needs all links added**
 
+<hr style="border:2px solid gray">
+
+### <a name="isenes3ga1"></a>IS-ENES3 virtual First General Assembly
+- open when: **Mar 25, 2020**
+- duration: **Mar 25, 2020 to Mar 27, 2020 (Europe/Vienna / UTC100)**
+
+The IS-ENES3 Virtual First General Assembly was held on the 25th-27th of March 2020. Initially planned in Toulouse (Centre International de Conférences), the Covid-19 situation compelled the project to turn it into a remote meeting. More than 100 persons joined throughout the three days to attend presentations of the project activities (organized in sessions according to the three main themes: Data, metadata and software; Models, tools and HPC; model Evaluation) and participate to discussions on various topics.
+
+Find the presentations within the agenda, by clicking on the title of the presentations.
+
+**Agenda**
+
+*TODO Finish this with table etc*
+
+
+<hr style="border:2px solid gray">
+
 *TODO Section Needs completion* - **listing all workshops and adding detailed info**
