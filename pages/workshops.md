@@ -185,7 +185,7 @@ Find the presentations within the agenda, by clicking on the title of the presen
 ### Workshop "Climate indices - Eastern European perspective"
 **Sep 27, 2021** from 11:00 AM to 03:00 PM
 
-![EEclimateindicesworkshop]((../images/Eastern_Europe_banner_vf.png)
+![EEclimateindicesworkshop](../images/Eastern_Europe_banner_vf.png)
 
 The IS-ENES3 consortium organizes an online workshop ‘Climate indices - Eastern European perspective’. The workshop will **be an online effort to collect information on the current status about usage and implementation of different climate indices in the region, which will be the starting point to draft requirements and recommendations for the future**. It will be organized as two online meetings, combined with online surveys and online interviews between them.
 
@@ -207,6 +207,7 @@ Contact: vdj[at]ff.bg.ac.rs
 ***Find the detailed programme of the initial meeting [here] and of the final meeting [here]***
 
 -  **Presentations from the initial meeting (May 17th)**
+
 Presentation | Author(s) 
 :--------:|:--------------------------:
 [IS-ENES3 project introduction] | WP debriefings (WP4-NA3, WP6-VA1, WP8-JRA1)
@@ -217,6 +218,7 @@ Presentation | Author(s)
 [Next steps: survey, interviews and the planned content of the final report] | Vladimir Djurdjevic (FPUB)
 
 - **Presentations from the final meeting (September 27th)**
+
 Presentation | Author(s) 
 :--------:|:--------------------------:
 [Workshop Climate indices - past activities and next steps] | Vladimir Djurdjevic (FPUB)
