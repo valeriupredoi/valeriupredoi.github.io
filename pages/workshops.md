@@ -185,7 +185,7 @@ Find the presentations within the agenda, by clicking on the title of the presen
 ### Workshop "Climate indices - Eastern European perspective"
 **Sep 27, 2021** from 11:00 AM to 03:00 PM
 
-![EEclimateindicesworkshop](../images/Eastern_Europe_banner_vf.png)
+![EEclimateindicesworkshop](../images/Eastern_Europe_banner_vf2.png)
 
 The IS-ENES3 consortium organizes an online workshop ‘Climate indices - Eastern European perspective’. The workshop will **be an online effort to collect information on the current status about usage and implementation of different climate indices in the region, which will be the starting point to draft requirements and recommendations for the future**. It will be organized as two online meetings, combined with online surveys and online interviews between them.
 
