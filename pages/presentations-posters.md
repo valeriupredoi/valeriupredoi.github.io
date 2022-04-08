@@ -41,7 +41,9 @@ No. | Conference
 10 | [EOSC-Hub Week 2020](#eosc-hubweek-2020)
 11 | [e-Science International Conference 2019](#e-science-international-conference-2019)
 12 | [e-Science International Conference 2021](#e-science-international-conference-2021)
-13 | [Other](#other)
+13 | [EGI Conference](#egi-conference)
+14 | [IS-ENES3 Meetings](#is-enes3-meetings)
+15 | [Other](#other)
 
 ### AGU2019
 
@@ -127,12 +129,19 @@ Title | Type
 :----:|:----:
 [Climate modelling: computing and data challenges - S. Joussaume](https://zenodo.org/record/5526225#.Yk3C88hBw2x) | Link
 
-### Other
+### EGI Conference
 
 Title | Type
 :----:|:----:
-[IS-ENES3 Kick-off meeting]() | Internal Link
-[IS-ENES3 Virtual 1st General Assembly]() | Internal Link
+[EGI Conference 2020]() | Folder
+[EGI Conference 2021]() | Folder
+
+### IS-ENES3 Meetings
+
+Title | Type
+:----:|:----:
+[IS-ENES3 Kick-off meeting](https://valeriupredoi.github.io/workshops#kickoff) | Internal Link
+[IS-ENES3 Virtual 1st General Assembly](https://valeriupredoi.github.io/workshops#isenes3ga1) | Internal Link
 [IS-ENES3 2nd General Assembly](https://valeriupredoi.github.io/workshops#isenes3ga2) | Internal Link
 [IS-ENES3 Virtual workshop on Compute and Analytics (2 Dec. 2019)]() | Internal Link
 [IS-ENES3 Webinar on Access to CORDEX and CMIP6 climate data]() | Internal Link
@@ -141,11 +150,14 @@ Title | Type
 [Fifth Workshop on Coupling Technologies for Earth System Models (CW2020)]() | Link
 [Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling]() | Link
 [IS-ENES3 virtual workshop on requirements for a fast and scalable evaluation workflow (18-19 May 2021)]() | Internal Link
+
+### Other
+
+Title | Type
+:----:|:----:
 [IPCC WG1 Training on Data and Software Development - June 2019]() | Folder
 [Scientific Gateways 2019]() | Folder
 [Climate Science2Policy 2020]() | Folder
-[EGI Conference 2020]() | Folder
-[EGI Conference 2021]() | Folder
 [Research Data Alliance (RDA) Plenary Meeting 2020]() | Folder
 [C3S Workshops]() | Folder
 [EOSC Symposium 2021]() | Folder
