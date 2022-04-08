@@ -23,12 +23,13 @@ header:
 
 ### Table of Contents
 
-Here is a collection of all the IS-ENES3 presentations and posters.
+Here is a collection of all the [IS-ENES3 Workshops](#is-enes3-workshops), and IS-ENES3-related presentations and posters at various conferences.
 
 **Find more IS-ENES3 presentations on our [ZENODO](https://zenodo.org/communities/is-enes3/?page=1&size=20) community page.**
 
 No. | Conference
 :--:|:----------:
+0 | [IS-ENES3 Workshops](#is-enes3-workshops)
 1 | [AGU2019](#agu2019)
 2 | [AGU2020](#agu2020)
 3 | [AGU2021](#agu2021)
@@ -42,8 +43,22 @@ No. | Conference
 11 | [e-Science International Conference 2019](#e-science-international-conference-2019)
 12 | [e-Science International Conference 2021](#e-science-international-conference-2021)
 13 | [EGI Conference](#egi-conference)
-14 | [IS-ENES3 Meetings](#is-enes3-meetings)
-15 | [Other](#other)
+14 | [Other](#other)
+
+### IS-ENES3 Workshops
+
+Title | Type
+:----:|:----:
+[IS-ENES3 Kick-off meeting](https://valeriupredoi.github.io/workshops#kickoff) | Internal Link
+[IS-ENES3 Virtual 1st General Assembly](https://valeriupredoi.github.io/workshops#isenes3ga1) | Internal Link
+[IS-ENES3 2nd General Assembly](https://valeriupredoi.github.io/workshops#isenes3ga2) | Internal Link
+[IS-ENES3 Virtual workshop on Compute and Analytics (2 Dec. 2019)]() | Internal Link
+[IS-ENES3 Webinar on Access to CORDEX and CMIP6 climate data]() | Internal Link
+[First IS-ENES3 virtual Autumn School on Climate data use for impact assessments]() | Internal Link
+[IS-ENES3 Workshop: Climate indices - an Eastern European perspective (17 May 2021)]() | Internal Link
+[Fifth Workshop on Coupling Technologies for Earth System Models (CW2020)]() | Link
+[Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling]() | Link
+[IS-ENES3 virtual workshop on requirements for a fast and scalable evaluation workflow (18-19 May 2021)]() | Internal Link
 
 ### AGU2019
 
@@ -135,21 +150,6 @@ Title | Type
 :----:|:----:
 [EGI Conference 2020]() | Folder
 [EGI Conference 2021]() | Folder
-
-### IS-ENES3 Meetings
-
-Title | Type
-:----:|:----:
-[IS-ENES3 Kick-off meeting](https://valeriupredoi.github.io/workshops#kickoff) | Internal Link
-[IS-ENES3 Virtual 1st General Assembly](https://valeriupredoi.github.io/workshops#isenes3ga1) | Internal Link
-[IS-ENES3 2nd General Assembly](https://valeriupredoi.github.io/workshops#isenes3ga2) | Internal Link
-[IS-ENES3 Virtual workshop on Compute and Analytics (2 Dec. 2019)]() | Internal Link
-[IS-ENES3 Webinar on Access to CORDEX and CMIP6 climate data]() | Internal Link
-[First IS-ENES3 virtual Autumn School on Climate data use for impact assessments]() | Internal Link
-[IS-ENES3 Workshop: Climate indices - an Eastern European perspective (17 May 2021)]() | Internal Link
-[Fifth Workshop on Coupling Technologies for Earth System Models (CW2020)]() | Link
-[Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling]() | Link
-[IS-ENES3 virtual workshop on requirements for a fast and scalable evaluation workflow (18-19 May 2021)]() | Internal Link
 
 ### Other
 
