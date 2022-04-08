@@ -155,13 +155,13 @@ Title | Type
 
 Title | Type
 :----:|:----:
-[IPCC WG1 Training on Data and Software Development - June 2019]() | Folder
-[Scientific Gateways 2019]() | Folder
-[Climate Science2Policy 2020]() | Folder
-[Research Data Alliance (RDA) Plenary Meeting 2020]() | Folder
-[C3S Workshops]() | Folder
+[IPCC WG1 Training on Data and Software Development - June 2019](https://zenodo.org/record/3368459#.Xx6h-y3pM_UCollaborative%20frameworks%20and%20best%20practices) | Zenodo Link
+[Scientific Gateways 2019](https://zenodo.org/record/3546232#.YlAiICbTVD-) | Zenodo Link
+[Climate Science2Policy 2020](https://zenodo.org/record/4282167#.YlAiPybTVD9) | Zenodo Link
+[Research Data Alliance (RDA) Plenary Meeting 2020](https://zenodo.org/record/4282222#.YlAiWybTVD9) | Zenodo Link
+[C3S Workshops](https://zenodo.org/record/4674539#.YlAieybTVD9) | Zenodo Link
 [EOSC Symposium 2021]() | Folder
 [Scientific Gateways 2021]() | Folder
-[ClimateData.ca Conference]() | Folder
-[WGCM-24]() | Folder
-[EuroHPC Summit week (March 2022)]() | Folder
+[ClimateData.ca Conference](https://zenodo.org/record/5930348#.YlAi9SbTVD9) | Zenodo Link
+[WGCM-24](https://zenodo.org/record/5930437#.YlAjFibTVD9) | Zenodo Link
+[EuroHPC Summit week (March 2022)](https://zenodo.org/record/6394413#.YlAjLybTVD9) | Zenodo Link
