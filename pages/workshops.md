@@ -28,6 +28,8 @@ Status | Workshop
 Current | [7th ENES HPC Workshop (Barcelona, 2022)](#7th-enes-hpc-workshop-barcelona-2022)
         | [IS-ENES3 at EGU2022](#is-enes3-at-egu2022)
 Past | [2nd Technical ESMValTool Workshop 2021](#2nd-technical-esmvaltool-workshop-2021)
+     | [IS-ENES3 virtual 2nd General Assembly](#is-enes3-virtual-2nd-general-assembly)
+     | [IS-ENES3 virtual First General Assembly](#is-enes3-virtual-first-general-assembly)
 
 ### 7th ENES HPC Workshop Barcelona 2022
 - open when: **Monady, 9 May 2022**
