@@ -180,6 +180,54 @@ Find the presentations within the agenda, by clicking on the title of the presen
 
 *TODO Finish this with table etc*
 
+<hr style="border:2px solid gray">
+
+### Workshop "Climate indices - Eastern European perspective"
+**Sep 27, 2021** from 11:00 AM to 03:00 PM
+
+![EEclimateindicesworkshop]((../images/Eastern_Europe_banner_vf.png)
+
+The IS-ENES3 consortium organizes an online workshop ‘Climate indices - Eastern European perspective’. The workshop will **be an online effort to collect information on the current status about usage and implementation of different climate indices in the region, which will be the starting point to draft requirements and recommendations for the future**. It will be organized as two online meetings, combined with online surveys and online interviews between them.
+
+- **Initial meeting**: 17th May, 2021 (9:30 AM to 12:00 PM CEST)
+- **Survey and interview** : June and July, 2021
+- **Final workshop**: 27th September, 2021 (11:00 AM to 3:00 PM CEST)
+
+**The aim of the workshop?** Used by a broad user community for many applications outside the climate science community, climate indices provide compact information on key physical parameters. A reference specification of the indices has been developed by joint CCl/CLIVAR/JCOMM Expert Team (ET) on Climate Change Detection and Indices (ETCCDI), and these have been implemented in the ICCLIM tool and many others. The workshop will evaluate and review the usage of existing indices and explore the need for additional ones in these broader and new communities.
+
+**Who organizes it?**  Researchers from the IS-ENES3 consortium. These researchers will interact directly with the workshop participants. Beside many activities, IS-ENES3 project aims at further engaging with the community of users of IS-ENES services, by widening the user base through training, engaging the community in co-constructing standards and expressing needs, and engaging the younger generation in interdisciplinary approaches.
+
+**For whom?** This workshop is for climate scientists and researchers from different disciplines (agriculture, forestry, water resources, public health etc) that often use different climate indices. We aim to create a mix of different disciplines so that recommendations will follow needs from broad research communities.
+
+**What is the programme?** The initial online meeting will be organized to present the main goals and planned output of the final workshop together with the discussion on current status and potential future developments. After the meeting the online survey will be initialized together with online interviews, from which a set of recommendations will be drafted. The topics related to the climate indices that will be covered are: indices definition and usage, data sources, software for calculation and visualization, current gaps and limitations.
+
+Contact: vdj[at]ff.bg.ac.rs
+
+***Find the final report "M3.5 - Workshop on climate indice - Eastern Europe perspective" [here]***
+***Find the detailed programme of the initial meeting [here] and of the final meeting [here]***
+
+-  **Presentations from the initial meeting (May 17th)**
+Presentation | Author(s) 
+:--------:|:--------------------------:
+[IS-ENES3 project introduction] | WP debriefings (WP4-NA3, WP6-VA1, WP8-JRA1)
+[Indices workshop goals] | Vladimir Djurdjevic (FPUB)
+[ETCCDI indices: recap and usage examples] | Lars Bärring (SHMI)
+[ICCLIM and Climate4impact tool] | Christian Pagé (CERFACS)
+[Regional perspective: Previous analysis (presentation of ORIENTGATE survey and analysis report)] | Aleksandra Krzic (RHMSS/FPUB)
+[Next steps: survey, interviews and the planned content of the final report] | Vladimir Djurdjevic (FPUB)
+
+- **Presentations from the final meeting (September 27th)**
+Presentation | Author(s) 
+:--------:|:--------------------------:
+[Workshop Climate indices - past activities and next steps] | Vladimir Djurdjevic (FPUB)
+[Changes in temperature extremes in Romania] | Adina-Eliza Croitoru et al. (1) Babes-Bolyai University, Romania; 2) JRC, Italy)
+[Application of Climate Indices in the Regional Climatology over Southeast Europe] | Hristo Chervenkov (National Institute of Meteorology and Hydrology, Bulgaria)
+[Use of Climate Indices in R. N. Macedonia: ClimDex and ClimPACT] | Aleksandar D. Prodanov (National Hydrometeorological Service, N. Macedonia)
+[Sectoral climate indices studies in Turkey] | Serhat Şensoy (Turkish State Meteorological Service)
+[Operational use of climate indices in RHMSS] | Dragan Mihic (Republic Hydrometeorological Service, Serbia)
+[Climate indices - Presentation of the survey results] | Aleksandra Krzic (RHMSS/FPUB)
+[Climate indices report - main conclusions] | Vladimir Djurdjevic (FPUB)
+
 
 <hr style="border:2px solid gray">
 
