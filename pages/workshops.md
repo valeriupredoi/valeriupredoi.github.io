@@ -126,18 +126,18 @@ Time Slot | Author(s) and presentation
            | [Update on sustainability (WP2-NA1)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES_GA2_WP2-NA1_sustain.pdf) - Fanny Adloff
 10h15-10h55 | [NextGEMS – Next Generation Earth Modelling Systems](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/20211004_NextGEMSENES.pdf) - Björn Stevens, MPI-M
             | [ESM2025 – Earth System Models for the future](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/ESM2025_ISENES3_AGM_RolandSfrian.pdf) - Roland Séférian, MF-CNRM
-10h55-11h10 | Results from the HPC survey – Claire Lévy, IPSL-LOCEAN
-            | About the estimation of energy-cost of data transfer – Jean-Claude André
+10h55-11h10 | [Results from the HPC survey](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_CarbonFootprint_Action7.pdf) – Claire Lévy, IPSL-LOCEAN
+            | [About the estimation of energy-cost of data transfer](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_About_the_estimation_of_the_energy-cost_of_data_transfer.pdf) – Jean-Claude André
 11h25-12h30 | General project information, budget assessment for 2022 and reallocations – Sophie Morellon & Sylvie Joussaume
 
 **14h30-16h30: Session 2 - Model Evaluation**
 
 Time Slot | Author(s) and presentation
 :--------:|:--------------------------:
-14h30-14h55 | WP debriefings (WP3-NA2, WP5-NA4, WP6-VA1, WP7-VA2, WP9-JRA2) - Kim Serradell & Rémi Kazeroni
-14h55-15h45 | Survey results on model evaluation and perspectives – Jérôme Servonnat
-            | Overview of ESMValTool progress – Rémi Kazeroni
-            | Provenance and technical standards (WP3-NA2, WP5-NA4) – Kim Serradell & Javier Vegas
+14h30-14h55 | [WP debriefings (WP3-NA2, WP5-NA4, WP6-VA1, WP7-VA2, WP9-JRA2] (https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_WP3_WP5_WP6_WP7_WP9 (2).pdf) - Kim Serradell & Rémi Kazeroni
+14h55-15h45 | [Survey results on model evaluation and perspectives](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/SurveyAG_ISENES3_2021.pdf) – Jérôme Servonnat
+            | [Overview of ESMValTool progress – Rémi Kazeroni](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_ESMValTool_Kazeroni.pdf)
+            | [Provenance and technical standards (WP3-NA2, WP5-NA4](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_DiagnosticStandards_JavierVegas.pdf) – Kim Serradell & Javier Vegas
 15h45-16h30 | Model Evaluation: cross-workpackage issues
 
 ##### Tuesday, October 5th
@@ -145,22 +145,22 @@ Time Slot | Author(s) and presentation
 
 Time Slot | Author(s) and presentation
 :--------:|:--------------------------:
-10h-10h25 | WP debriefings (WP5-NA4, WP7-VA2, WP10-JRA3)
-10h25-11h25 | ESGF architecture – Philip Kershaw
-            | Climate4impact portal 2.0 – Alessandro Spinuso
-            | Update on user requirements (including climate indices) – Janette Bessembinder
-            | ES-DOC – Sadie Bartholomew
+10h-10h25 | [WP debriefings (WP5-NA4, WP7-VA2, WP10-JRA3)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_WP5-WP7-WP10.pdf)
+10h25-11h25 | [ESGF architecture](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_ESGF_Architecture.pdf) – Philip Kershaw
+            | [Climate4impact portal 2.0](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_Climate4Impact.pdf) – Alessandro Spinuso
+            | [Update on user requirements (including climate indices)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/WP_debriefing_GA2_WP3_NA2_user_requirements.pdf) – Janette Bessembinder
+            | [ES-DOC](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_ES-DOC_status_update.pdf) – Sadie Bartholomew
 11h25-12h | Data, metadata and other data software: cross-workpackage issues and introduction to breakout groups
 
 **14h30-16h30: Session 4 - Models, Tools and HPC**
 
 Time Slot | Author(s) and presentation
 :--------:|:--------------------------:
-14h30-14h55 | WP debriefings (WP4-NA3, WP6-VA1, WP8-JRA1)
-14h55-15h55 | Recent developments in XIOS – Yann Meurdesoif
-            | Update on Cylc/Rose – David Matthews
-            | Update on NEMO Sea Ice model – Ed Blockley & Martin Vancoppenolle
-            | NEMO HPC Working Group – Italo Epicoco
+14h30-14h55 | [WP debriefings (WP4-NA3, WP6-VA1, WP8-JRA1)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_WP4-WP6-WP8.pdf)
+14h55-15h55 | [Recent developments in XIOS](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AG-ISENES3-recent_developments_in_xios.pdf) – Yann Meurdesoif
+            | [Update on Cylc/Rose](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_Cylc_Rose_Update.pdf) – David Matthews
+            | [Update on NEMO Sea Ice model](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_NEMO-sea-ice_Blockley_Vancoppenolle.pdf) – Ed Blockley & Martin Vancoppenolle
+            | [NEMO HPC Working Group](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_Epicoco_NEMO_HPC-WG.pdf) – Italo Epicoco
 15h55-16h35 | Models, Tools and HPC: cross-workpackage issues and introduction to breakout groups
 
 <hr style="border:2px solid gray">
