@@ -204,32 +204,31 @@ The IS-ENES3 consortium organizes an online workshop ‘Climate indices - Easter
 
 Contact: vdj[at]ff.bg.ac.rs
 
-***Find the final report "M3.5 - Workshop on climate indice - Eastern Europe perspective" [here]***
-***Find the detailed programme of the initial meeting [here] and of the final meeting [here]***
+***Find the final report "M3.5 - Workshop on climate indice - Eastern Europe perspective" [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M3.5_vf.pdf)***
 
 -  **Presentations from the initial meeting (May 17th)**
 
 Presentation | Author(s) 
 :-----------:|:---------:
-[IS-ENES3 project introduction] | WP debriefings (WP4-NA3, WP6-VA1, WP8-JRA1)
-[Indices workshop goals] | Vladimir Djurdjevic (FPUB)
-[ETCCDI indices: recap and usage examples] | Lars Bärring (SHMI)
-[ICCLIM and Climate4impact tool] | Christian Pagé (CERFACS)
-[Regional perspective: Previous analysis (presentation of ORIENTGATE survey and analysis report)] | Aleksandra Krzic (RHMSS/FPUB)
-[Next steps: survey, interviews and the planned content of the final report] | Vladimir Djurdjevic (FPUB)
+[IS-ENES3 project introduction](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/01_JoussaumeS_IS-ENES_European_research_infrastructure_for_Earth_System_Models_s.pdf) | WP debriefings (WP4-NA3, WP6-VA1, WP8-JRA1)
+[Indices workshop goals](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/02_DjurdjevicV_Indices_workshop_goals.pdf) | Vladimir Djurdjevic (FPUB)
+[ETCCDI indices: recap and usage examples](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/03_BarringL_ Climate_indices_latest_developments_and_application_examples_s.pdf) | Lars Bärring (SHMI)
+[ICCLIM and Climate4impact tool](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/04_PageC_ICCLIM_and_Climate4impact_Tool.pdf) | Christian Pagé (CERFACS)
+[Regional perspective: Previous analysis (presentation of ORIENTGATE survey and analysis report)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/05_KrzicA_Regional_perspective_Previous_analysis_ORIENTGATE_survey_and_analysis_report.pdf) | Aleksandra Krzic (RHMSS/FPUB)
+[Next steps: survey, interviews and the planned content of the final report](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/06_DjurdjevicV_Next steps.pdf) | Vladimir Djurdjevic (FPUB)
 
 - **Presentations from the final meeting (September 27th)**
 
 Presentation | Author(s) 
 :-----------:|:---------:
-[Workshop Climate indices - past activities and next steps] | Vladimir Djurdjevic (FPUB)
-[Changes in temperature extremes in Romania] | Adina-Eliza Croitoru et al. (1) Babes-Bolyai University, Romania; 2) JRC, Italy)
-[Application of Climate Indices in the Regional Climatology over Southeast Europe] | Hristo Chervenkov (National Institute of Meteorology and Hydrology, Bulgaria)
-[Use of Climate Indices in R. N. Macedonia: ClimDex and ClimPACT] | Aleksandar D. Prodanov (National Hydrometeorological Service, N. Macedonia)
-[Sectoral climate indices studies in Turkey] | Serhat Şensoy (Turkish State Meteorological Service)
-[Operational use of climate indices in RHMSS] | Dragan Mihic (Republic Hydrometeorological Service, Serbia)
-[Climate indices - Presentation of the survey results] | Aleksandra Krzic (RHMSS/FPUB)
-[Climate indices report - main conclusions] | Vladimir Djurdjevic (FPUB)
+[Workshop Climate indices - past activities and next steps](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/1_Workshop_Climate_indices - past_activities_and_next_steps.pdf) | Vladimir Djurdjevic (FPUB)
+[Changes in temperature extremes in Romania](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/2_Changes_in_temperature_extremes_in_Romania.pdf) | Adina-Eliza Croitoru et al. (1) Babes-Bolyai University, Romania; 2) JRC, Italy)
+[Application of Climate Indices in the Regional Climatology over Southeast Europe](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/3_Application_of_Climate_Indices_in_the_Regional_Climatology_over_Southeast_Europe.pdf) | Hristo Chervenkov (National Institute of Meteorology and Hydrology, Bulgaria)
+[Use of Climate Indices in R. N. Macedonia: ClimDex and ClimPACT](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/4_Use_of_Climate_Indices_in_R_N_Macedonia_ClimDex_and_ClimPACT.pdf) | Aleksandar D. Prodanov (National Hydrometeorological Service, N. Macedonia)
+[Sectoral climate indices studies in Turkey](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/5_Sectoral_climate_indices_studies_in_Turkey.pdf) | Serhat Şensoy (Turkish State Meteorological Service)
+[Operational use of climate indices in RHMSS](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/6_Operational_use_of_climate_indices_in_RHMSS.pdf) | Dragan Mihic (Republic Hydrometeorological Service, Serbia)
+[Climate indices - Presentation of the survey results](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/7_Climate_indices_Presentation_of_the_survey_results.pdf) | Aleksandra Krzic (RHMSS/FPUB)
+[Climate indices report - main conclusions](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/8_Climate_indices_report_main_conclusions.pdf) | Vladimir Djurdjevic (FPUB)
 
 
 <hr style="border:2px solid gray">
