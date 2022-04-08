@@ -220,7 +220,7 @@ Presentation | Author(s)
 - **Presentations from the final meeting (September 27th)**
 
 Presentation | Author(s) 
-:--------:|:--------------------------:
+:-----------:|:---------:
 [Workshop Climate indices - past activities and next steps] | Vladimir Djurdjevic (FPUB)
 [Changes in temperature extremes in Romania] | Adina-Eliza Croitoru et al. (1) Babes-Bolyai University, Romania; 2) JRC, Italy)
 [Application of Climate Indices in the Regional Climatology over Southeast Europe] | Hristo Chervenkov (National Institute of Meteorology and Hydrology, Bulgaria)
