@@ -134,7 +134,7 @@ Time Slot | Author(s) and presentation
 
 Time Slot | Author(s) and presentation
 :--------:|:--------------------------:
-14h30-14h55 | [WP debriefings (WP3-NA2, WP5-NA4, WP6-VA1, WP7-VA2, WP9-JRA2] (https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_WP3_WP5_WP6_WP7_WP9 (2).pdf) - Kim Serradell & Rémi Kazeroni
+14h30-14h55 | [WP debriefings (WP3-NA2, WP5-NA4, WP6-VA1, WP7-VA2, WP9-JRA2] (https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_WP3_WP5_WP6_WP7_WP9.pdf) - Kim Serradell & Rémi Kazeroni
 14h55-15h45 | [Survey results on model evaluation and perspectives](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/SurveyAG_ISENES3_2021.pdf) – Jérôme Servonnat
             | [Overview of ESMValTool progress – Rémi Kazeroni](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_ESMValTool_Kazeroni.pdf)
             | [Provenance and technical standards (WP3-NA2, WP5-NA4](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_DiagnosticStandards_JavierVegas.pdf) – Kim Serradell & Javier Vegas
