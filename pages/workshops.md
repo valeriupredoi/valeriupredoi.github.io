@@ -183,7 +183,7 @@ Find the presentations within the agenda, by clicking on the title of the presen
 
 <hr style="border:2px solid gray">
 
-### Workshop Climate Indices-Eastern European perspective
+### <a name="climate-indices"></a>Workshop Climate Indices-Eastern European perspective
 **Sep 27, 2021** from 11:00 AM to 03:00 PM
 
 ![EEclimateindicesworkshop](../images/Eastern_Europe_banner_vf2.png)
@@ -230,6 +230,19 @@ Presentation | Author(s)
 [Climate indices - Presentation of the survey results](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/7_Climate_indices_Presentation_of_the_survey_results.pdf) | Aleksandra Krzic (RHMSS/FPUB)
 [Climate indices report - main conclusions](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/8_Climate_indices_report_main_conclusions.pdf) | Vladimir Djurdjevic (FPUB)
 
+<hr style="border:2px solid gray">
+
+### <a name="cordex-webinar"></a>IS-ENES3 webinar on the Access on CORDEX and CMIP6 climate data
+- duration: **Jun 15, 2020 from 10:00 AM to 11:30 AM (Europe/Vienna / UTC200)**
+
+<hr style="border:2px solid gray">
+
+### <a name="kickoff"></a>IS-ENES3 Kick-off Meeting
+- duration: **Jan 09, 2019 01:00 PM to Jan 11, 2019 01:30 PM (Europe/Vienna / UTC100)**
+
+<hr style="border:2px solid gray">
+
+### <a name="compute-analytics"></a>IS-ENES3/ESGF Virtual Workshop on Compute and Analytics
 
 <hr style="border:2px solid gray">
 

@@ -182,4 +182,9 @@ This training is co-organized jointly by the H2020 IS-ENES3 and EOSC-hub project
 
 <hr style="border:2px solid gray">
 
+### <a name="autumn-school"></a>First IS-ENES3 virtual Autumn School on Climate data use for impact assessments
+- duration: **Nov 04, 2020 09:00 AM to Dec 10, 2020 09:00 AM (Europe/Vienna / UTC100)**
+
+<hr style="border:2px solid gray">
+
 *TODO Section Needs completion* - **all the other past trainings need to be listed here**

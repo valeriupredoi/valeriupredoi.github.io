@@ -52,10 +52,10 @@ Title | Type
 [IS-ENES3 Kick-off meeting](https://valeriupredoi.github.io/workshops#kickoff) | Internal Link
 [IS-ENES3 Virtual 1st General Assembly](https://valeriupredoi.github.io/workshops#isenes3ga1) | Internal Link
 [IS-ENES3 2nd General Assembly](https://valeriupredoi.github.io/workshops#isenes3ga2) | Internal Link
-[IS-ENES3 Virtual workshop on Compute and Analytics (2 Dec. 2019)]() | *missing* Internal Link
-[IS-ENES3 Webinar on Access to CORDEX and CMIP6 climate data]() | *missing* Internal Link
-[First IS-ENES3 virtual Autumn School on Climate data use for impact assessments]() | *missing* Internal Link
-[IS-ENES3 Workshop: Climate indices - an Eastern European perspective (17 May 2021)]() | *missing* Internal Link
+[IS-ENES3 Virtual workshop on Compute and Analytics (2 Dec. 2019)](https://valeriupredoi.github.io/workshops#compute-analytics) | Internal Link
+[IS-ENES3 Webinar on Access to CORDEX and CMIP6 climate data](https://valeriupredoi.github.io/workshops#cordex-webinar) | Internal Link
+[First IS-ENES3 virtual Autumn School on Climate data use for impact assessments](https://valeriupredoi.github.io/training#autumn-school) | Internal Link
+[IS-ENES3 Workshop: Climate indices - an Eastern European perspective](https://valeriupredoi.github.io/workshops#climate-indices) | Internal Link
 [Fifth Workshop on Coupling Technologies for Earth System Models (CW2020)]() | *missing* Internal Link
 [Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling]() | *missing* Internal Link
 [IS-ENES3 virtual workshop on requirements for a fast and scalable evaluation workflow (18-19 May 2021)]() | *missing* Internal Link
