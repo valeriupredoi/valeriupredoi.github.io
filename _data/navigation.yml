@@ -34,8 +34,8 @@
   url: "/services-data-metadata/"
   side: left
 
-- title: "Publications"
-  url: "/publications/"
+- title: "Dissemination"
+  url: "/dissemination/"
   side: left
   dropdown:
   - title: "Deliverables and Milestones"
