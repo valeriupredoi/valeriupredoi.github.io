@@ -33,3 +33,5 @@ header:
 #### [1st call for Analysis Platforms for CMIP6 and CORDEX](https://valeriupredoi.github.io/access-calls-detailed#cordex1)
 #### [IS-ENES3 2nd call for an OASIS Dedicated User Support](https://valeriupredoi.github.io/access-calls-detailed#oasis2)
 #### [1st call for an OASIS Dedicated User Support](https://valeriupredoi.github.io/access-calls-detailed#oasis1)
+
+<hr style="border:2px solid gray">
