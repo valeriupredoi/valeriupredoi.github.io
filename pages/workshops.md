@@ -31,6 +31,10 @@ Past | [2nd Technical ESMValTool Workshop 2021](#2nd-technical-esmvaltool-worksh
      | [IS-ENES3 virtual 2nd General Assembly](#is-enes3-virtual-2nd-general-assembly)
      | [IS-ENES3 virtual First General Assembly](#is-enes3-virtual-first-general-assembly)
      | [Workshop Climate Indices-Eastern European perspective](#workshop-climate-indices-eastern-european-perspective)
+     | [IS-ENES3 Virtual workshop on requirements for a fast and scalable evaluation workflow](#is-enes3-virtual-workshop-on-requirements-for-a-fast-and-scalable-evaluation-workflow)
+     | [IS-ENES3 webinar on the Access on CORDEX and CMIP6 climate data](#is-enes3-webinar-on-the-access-on-cordex-and-cmip6-climate-data)
+     | [IS-ENES3 Kick-off Meeting](#is-enes3-kick-off-meeting)
+     | [IS-ENES3 and ESGF Virtual Workshop on Compute and Analytics](#is-enes3-and-esgf-virtual-workshop-on-compute-and-analytics)
 
 ### 7th ENES HPC Workshop Barcelona 2022
 - open when: **Monady, 9 May 2022**
@@ -232,6 +236,11 @@ Presentation | Author(s)
 
 <hr style="border:2px solid gray">
 
+### <a name="fast-scalable-evaluation"></a>IS-ENES3 Virtual workshop on requirements for a fast and scalable evaluation workflow
+- duration: **May 18, 2021 02:00 PM to May 19, 2021 06:00 PM (Europe/Vienna / UTC200)**
+
+<hr style="border:2px solid gray">
+
 ### <a name="cordex-webinar"></a>IS-ENES3 webinar on the Access on CORDEX and CMIP6 climate data
 - duration: **Jun 15, 2020 from 10:00 AM to 11:30 AM (Europe/Vienna / UTC200)**
 
@@ -242,7 +251,7 @@ Presentation | Author(s)
 
 <hr style="border:2px solid gray">
 
-### <a name="compute-analytics"></a>IS-ENES3/ESGF Virtual Workshop on Compute and Analytics
+### <a name="compute-analytics"></a>IS-ENES3 and ESGF Virtual Workshop on Compute and Analytics
 
 <hr style="border:2px solid gray">
 
