@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page-fullwidth-4widgets
 title: Publications
 header:
    image_fullwidth: "header_homepage_13.jpg"
@@ -24,11 +24,16 @@ widget1:
   image: widget-1-302x182.jpg
   text: 'IS-ENES3 deliverables and milestones.'
 widget2:
+  title: "Publications"
+  url: 'https://valeriupredoi.github.io/publications-table/'
+  image: widget-1-302x182.jpg
+  text: 'IS-ENES3 publications.'
+widget3:
   title: "Presentations and Posters"
   url: 'https://valeriupredoi.github.io/presentations-posters/'
   image: widget-1-302x182.jpg
   text: 'IS-ENES3 presentations and posters.'
-widget3:
+widget4:
   title: "Lectures, Tutorials, and Webinars"
   url: 'https://valeriupredoi.github.io/lectures-tutorials-webinars/'
   image: widget-1-302x182.jpg
