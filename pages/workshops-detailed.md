@@ -176,7 +176,7 @@ Time Slot | Author(s) and presentation
 10h50-11h00 | [Introduction to user engagement](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S13_IS-ENES3_GA1_user_engagement_v2.pdf) - Janette Bessembinder, Eric Guilyardi
 11h00-11h15 | [Downstream data usage](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S14_IS-ENES3_GA1_Downstream_data_usage.pdf) – Janette Bessembinder
 11h45-12h05 | [Introduction to innovation (including Copernicus C3S)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S15_IS-ENES3_GA1_Innovation.pdf) – Martin Juckes, Fanny Adloff
-12h20-12h20 | [Preparing the RP1 report](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Preparing_the_Reporting_Period_1_Sophie Morellon_v2_SJ.pdf) – Sophie Morellon
+12h20-12h20 | [Preparing the RP1 report](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Preparing_the_Reporting_Period_1_Sophie_Morellon_v2_SJ.pdf) – Sophie Morellon
 12h30-12h40 | [Autumn Data School](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S17_IS-ENES3_GA1_Autumn_School.pdf) – Judith Klostermann
 12h40-12h50 | [Carbon Footprint working group](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S18_IS-ENES3_GA1_CarbonFootprint-comp.pdf) – Sophie Valcke et al.
 
@@ -220,16 +220,19 @@ Time Slot | Author(s) and presentation
 *10h-13h Session 5: Cross-WP issue discussions*
 
 Data, metadata and other software
+:--------:|:--------------------------:
 10h-11h | Model Evaluation, C4I and link with the Compute Service – Björn Brötz, Christian Pagé
 11h-12h | ENES CDI – Sandro Fiore, Stephan Kindermann
 12h-13h | ESGF Future Architecture – Mario Acosta
 
  Models, tools and HPC
+:--------:|:--------------------------:
 10h-11h30 | XIOS benchmarks – Sophie Valcke, Mario Acosta
 11h30-13h | Computational evaluation of ESMs, including coupling issues (LUCIA) and energy consumption – Mario Acosta
 
 *14h/14h30-16h/16h30 - Session 6: “Around coffee” parallel discussions*
 
+:--------:|:--------------------------:
 14h30-16h | Carbon footprint group - Sophie Valcke
 14h30-15h15 | Copernicus and climate projections - Martin Juckes 
 15h15-16h30 | Climate indices standards - Lars Bärring, Christian Pagé 
