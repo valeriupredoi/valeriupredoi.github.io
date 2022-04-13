@@ -371,7 +371,7 @@ Presentation | Author(s)
 - *Day 2*
 
 Presentation | Author(s) 
-:-----------:|:---------:
+:---------:|:-----------------:
 [WP5-NA4](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP5_NA4.pdf) | Sébastien Denvil, Klaus Zimmermann
 [WP7-VA2](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP7-VA2.pdf) | Stephan Kindermann, Wim Som de Cerff
 [WP9-JRA2](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP9-JRA2.pdf) | Veronika Eyring, Kim Serradell
