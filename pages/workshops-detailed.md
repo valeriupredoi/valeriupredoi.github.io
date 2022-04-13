@@ -298,6 +298,43 @@ Presentation | Author(s)
 ### <a name="fast-scalable-evaluation"></a>IS-ENES3 Virtual workshop on requirements for a fast and scalable evaluation workflow
 - duration: **May 18, 2021 02:00 PM to May 19, 2021 06:00 PM (Europe/Vienna / UTC200)**
 
+![FSworkshop](../images/Fast-and-scalable-evaluation-workshop-banner-png-2.png)
+
+The **“IS-ENES3 Virtual workshop on requirements for a fast and scalable evaluation workflow”**  is a web meeting organized in the context of the EU H2020 IS-ENES3 project in close collaboration with the **ESMValTool development team**.
+
+The workshop aims to bring together leading researchers and software engineers in the field of **evaluation frameworks for Earth System Models to discuss users’ requirements, current solutions and to identify gaps and challenges about the next evaluation workflows**.
+
+In this workshop, current and future requirements (such as input data size, memory footprint, reproducibility and computation time, among others) will be gathered, producing a complete set of specifications. This will include feedback from the users obtained from the survey performed by Assimila.
+
+**Find the detailed agenda [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Agenda-IS-ENES3_Virtual_workshop_on_requirements_for_a_fast_and_scalable_evaluation_workflow-v2.pdf)**
+
+**Day 1 (May 18th)**
+
+Presentation | Author(s) 
+:-----------:|:---------:
+[Welcome and general overview from IPCC and other projects](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS1_Introduction.pptx.pdf) | Pierre-Antoine Bretonnière/Kim Serradell, Francisco Doblas-Reyes (BSC)
+[Results of the Assimila survey](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS2_Stott-Assimila-ESM_evaluation_survey-virtual_workshop-hardware.pptx.pdf) | Zofia Stott (Assimila)
+[Analysing CMIP in small groups](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS3_Rodriguez-AnalysingCMIPinSmallGroups.pptx.pdf) | Belen Rodríguez de Fonseca (UCM)
+[JASMIN: Infrastructure to support a diverse range of scientific use cases](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS4_JASMIN.pdf) | Ag Stephens (STFC)
+[BoG1: data storage and distribution](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS5_BoG1.pptx.pdf) | Chair: Pierre-Antoine Bretonnière
+[BoG2: data processing machines](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS6_BoG2.pptx.pdf) | Chair: Kim Serradell
+
+**Day 2 (May 19th**
+
+Presentation | Author(s) 
+:-----------:|:---------:
+[Results of the Assimila survey](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS7_Stott-ResultsSurvey-workflows.pptx.pdf) | Zofia Stott (Assimila)
+[CMIP5 and CMIP6 Mediterranean climate change projections](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS8_Cos-MediterraneanClimateChangeProjections.pptx.pdf) | Josep Cos (BSC)
+[User engagement](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS9_Drost-UserEngagement.pdf) | Niels Drost (NLeSC)
+[ESMValTool vs multiple languages](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS10_VPredoi_MultiProgLang_ISENES3-19May2021.pdf) | Valeriu Predoi (NCAS)
+[Ophidia](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS11_Elia-Ophidia.pdf) | Donatello Elia (CMCC)
+[Results of the Assimila survey](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS12_Stott-ResultsSurvey-software.pptx.pdf) | Zofia Stott (Assimila)
+[Synda integration in ESMValTool](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS13_Andela-syndaIntegration.pdf) | Bowe Andela (NLeSC)
+[Online model evaluation](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS14_Vegas-OnlineModelEvaluation.pdf) | Javier Vegas (BSC)
+[BoG1: Workflow and Performance](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS15_BoG1.pdf) | Javier Vegas, Kim Serradell
+[BoG2: Reproducibility and provenance](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS16_BoG2.pdf) | Saskia Loosveldt
+
+
 <hr style="border:2px solid gray">
 
 ### <a name="cordex-webinar"></a>IS-ENES3 webinar on the Access on CORDEX and CMIP6 climate data
