@@ -156,21 +156,83 @@ Time Slot | Author(s) and presentation
 
 <hr style="border:2px solid gray">
 
-*TODO Table above* - **needs all links added**
-
-<hr style="border:2px solid gray">
-
 ### <a name="isenes3ga1"></a>IS-ENES3 virtual First General Assembly
 - open when: **Mar 25, 2020**
 - duration: **Mar 25, 2020 to Mar 27, 2020 (Europe/Vienna / UTC100)**
 
-The IS-ENES3 Virtual First General Assembly was held on the 25th-27th of March 2020. Initially planned in Toulouse (Centre International de Conférences), the Covid-19 situation compelled the project to turn it into a remote meeting. More than 100 persons joined throughout the three days to attend presentations of the project activities (organized in sessions according to the three main themes: Data, metadata and software; Models, tools and HPC; model Evaluation) and participate to discussions on various topics.
+The **IS-ENES3 Virtual First General Assembly** was held on the **25th-27th of March 2020**. Initially planned in Toulouse (Centre International de Conférences), the Covid-19 situation compelled the project to turn it into a remote meeting. More than 100 persons joined throughout the three days to attend presentations of the project activities (organized in sessions according to the three main themes: Data, metadata and software; Models, tools and HPC; model Evaluation) and participate to discussions on various topics.
 
 Find the presentations within the agenda, by clicking on the title of the presentations.
 
 **Agenda**
 
-*TODO Finish this with table etc*
+- **Wednesday 25th March**
+*10h-13h - Session 1: Integration and sustainability*
+
+Time Slot | Author(s) and presentation
+:--------:|:--------------------------:
+10h-10h15 | [Overview of IS-ENES3](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S11_IS-ENES3_GA1_overview.pdf) - Sylvie Joussaume & Bryan Lawrence
+10h20-10h35 | [Introduction to sustainability (WP2-NA1)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S12_IS-ENES3_GA1_Sustainability.pdf) - Michael Lautenschlager, Fanny Adloff
+10h50-11h00 | [Introduction to user engagement](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S13_IS-ENES3_GA1_user_engagement_v2.pdf) - Janette Bessembinder, Eric Guilyardi
+11h00-11h15 | [Downstream data usage](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S14_IS-ENES3_GA1_Downstream_data_usage.pdf) – Janette Bessembinder
+11h45-12h05 | [Introduction to innovation (including Copernicus C3S)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S15_IS-ENES3_GA1_Innovation.pdf) – Martin Juckes, Fanny Adloff
+12h20-12h20 | [Preparing the RP1 report](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Preparing_the_Reporting_Period_1_Sophie Morellon_v2_SJ.pdf) – Sophie Morellon
+12h30-12h40 | [Autumn Data School](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S17_IS-ENES3_GA1_Autumn_School.pdf) – Judith Klostermann
+12h40-12h50 | [Carbon Footprint working group](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S18_IS-ENES3_GA1_CarbonFootprint-comp.pdf) – Sophie Valcke et al.
+
+*14h30-17h30 Session 2: Data, metadata and other software*
+
+Time Slot | Author(s) and presentation
+:--------:|:--------------------------:
+14h30-14h45 | [WP debriefings: WP5-NA4, WP7-VA2, WP10-JRA3](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S21_IS-ENES3_GA1_WP5_WP7_WP10.pdf) - Phil Kershaw, Klaus Zimmermann, Stephan Kindermann, Wim Som de Cerff, Sandro Fiore, Christian Pagé
+14h55-15h10 | [Status of ESGF for CMIP6](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S22_IS-ENES3_GA1_CMIP6-ESGF.pdf) - Stephan Kindermann
+15h10-15h25 | [Status of ES-DOC for CMIP6](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents//S23_IS-ENES3_GA1_ES-DOC-v2.pdf) - David Hassell
+15h25-15h40 | [Perspectives on possible Future architecture for ESGF](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_CarbonFootprint_Action7.pdf) – Philip Kershaw
+15h40-15h55 | [Perspectives on compute services for ESGF](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S25_IS-ENES3_GA1_ComputeService_Fiore.pdf) – Sandro Fiore
+16h35-16h45 | [Data, metadata and other data software: presentation of cross-WP issues](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S26_Cross-WP_Data_Session.pdf) 
+
+- **Thursday 26th March**
+*10h-13h - Session 3: Models, Tools and HPC*
+
+Time Slot | Author(s) and presentation
+:--------:|:--------------------------:
+10h-10h15 | [WP debriefings: WP4-NA3, WP6-VA1, WP8-JRA1](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S31_IS-ENES3_GA1_WP4_WP6_WP8.pdf) - Jean-Christophe Rioual, Mario Acosta, Uwe Fladrich, Eric Maisonnave, Sophie Valcke, Italo Epicoco
+10h25-10h35 | [Cylc and Rose: latest news)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S32_IS-ENES3_GA1_Cylc.pdf) - David Matthews
+10h35-10h45 | [XIOS: where are we and example of use](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S33_IS-ENES3_GA1-XIOS.pdf) - Yann Meuredesoif
+10h45-10h55 | [OASIS3-MCT latest news](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S34_IS-ENES3_GA1_OASIS3-MCT.pdf) – Sophie Valcke
+11h20-11h35 | [European sea ice modelling integrated initiative](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/EdBlockley_IS-ENES3-GA_March2020-trim.pdf) – Ed Blockley, Martin Vancopenolle
+11h35-11h50 | [NEMO: improving performance results from IS-ENES3 and other projects (ESiWACE2, IMMERSE)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S36_IS-ENES3_GA1_Epicoco_NEMO_improvements.pdf) – Italo Epicoco
+11h50-12h05 | [Model performance: results for CMIP6](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S37_IS-ENES3_GA1_MarioAcostaCPMIP_presentation_final.pdf) – Mario Acosta
+12h20-12h30 | [Models, tools, HPC: presentation of cross-WP issues](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S38_IS-ENES3_GA1_cross-WP-issues_ModelsToolsHPC-comp.pdf) – Sophie Valcke et al.
+12h30-12h45 | Innovation for “Models, Tools and HPC” – Graham Riley
+12h45-13h   | Machine learning/AI – Graham Riley
+
+*14h30-17h30 - Session 4: Model Evaluation*
+
+Time Slot | Author(s) and presentation
+:--------:|:--------------------------:
+14h30-14h50 | [WP debriefings: WP3-NA2, WP5-NA4, WP6-VA1, WP7-VA2, WP9-JRA2](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S41_IS-ENES3_GA1_WP3_WP5_WP6_WP7_WP9.pdf) - Eric Guilyardi, Klaus Zimmermann, Uwe Fladrich, Stephan Kindermann, Björn Brötz, Kim Serradell
+15h05-15h25 | [ESMValTool (IS-ENES3 and CRESCENDO)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S42_IS-ENES3_GA1_ESMValTool_Broetz.pdf) - Björn Brötz
+15h25-15h40 | [Update on interfacing the CLIVAR ENSO package with ESMValTool](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S43_IS-ENES3_GA1_ENSO_interface.pdf) - Eric Guilyardi, Javier Vegas-Regidor, Kim Serradell, Yann Planton
+16h10-16h20 | [Model Evaluation: Presentation of cross-workpackage issues](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S44_IS-ENES3_GA1_Evaluation_breakout_group.pdf)
+
+- **Friday 27th March**
+*10h-13h Session 5: Cross-WP issue discussions*
+
+Data, metadata and other software
+10h-11h | Model Evaluation, C4I and link with the Compute Service – Björn Brötz, Christian Pagé
+11h-12h | ENES CDI – Sandro Fiore, Stephan Kindermann
+12h-13h | ESGF Future Architecture – Mario Acosta
+
+ Models, tools and HPC
+10h-11h30 | XIOS benchmarks – Sophie Valcke, Mario Acosta
+11h30-13h | Computational evaluation of ESMs, including coupling issues (LUCIA) and energy consumption – Mario Acosta
+
+*14h/14h30-16h/16h30 - Session 6: “Around coffee” parallel discussions*
+
+14h30-16h | Carbon footprint group - Sophie Valcke
+14h30-15h15 | Copernicus and climate projections - Martin Juckes 
+15h15-16h30 | Climate indices standards - Lars Bärring, Christian Pagé 
 
 <hr style="border:2px solid gray">
 
