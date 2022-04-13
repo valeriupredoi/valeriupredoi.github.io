@@ -384,7 +384,7 @@ Presentation | Author(s)
 [BoG2: Data and metadata](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ISENES3_KO_BoG2_Data_&_Metadata.pdf) | Sébastien Denvil, Sandro Fiore, Stephan Kindermann
 [Virtual WP - Innovation](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_VWP_Innovation.pdf) | Martin Juckes
 [H2020 Financial and legal aspects](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_Financial_&_legal_aspects.pdf) | Federico Esu
-[IS-ENES3 Communication and Dissemination] (https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_Communication_-_Dissemination.pdf) | Sylvie Joussaume, Nada Caud
+[IS-ENES3 Communication and Dissemination] (https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_Communication_Dissemination.pdf) | Sylvie Joussaume, Nada Caud
 
 - *Day 3*
 
