@@ -221,6 +221,7 @@ Time Slot | Author(s) and presentation
 
 Data, metadata and other software
 
+Time Slot | Author(s) and presentation
 :----------:|:--------------------------:
 10h-11h | Model Evaluation, C4I and link with the Compute Service – Björn Brötz, Christian Pagé
 11h-12h | ENES CDI – Sandro Fiore, Stephan Kindermann
@@ -228,12 +229,14 @@ Data, metadata and other software
 
  Models, tools and HPC
  
+Time Slot | Author(s) and presentation 
 :-----------:|:--------------------------:
 10h-11h30 | XIOS benchmarks – Sophie Valcke, Mario Acosta
 11h30-13h | Computational evaluation of ESMs, including coupling issues (LUCIA) and energy consumption – Mario Acosta
 
 *14h/14h30-16h/16h30 - Session 6: “Around coffee” parallel discussions*
 
+Time Slot | Author(s) and presentation
 :----------:|:--------------------------:
 14h30-16h | Carbon footprint group - Sophie Valcke
 14h30-15h15 | Copernicus and climate projections - Martin Juckes 
