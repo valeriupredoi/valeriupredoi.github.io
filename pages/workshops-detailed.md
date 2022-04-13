@@ -345,6 +345,58 @@ Presentation | Author(s)
 ### <a name="kickoff"></a>IS-ENES3 Kick-off Meeting
 - duration: **Jan 09, 2019 01:00 PM to Jan 11, 2019 01:30 PM (Europe/Vienna / UTC100)**
 
+![isenes3KO](../images/KO_Group_Picture.JPG)
+
+**Find the agenda [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_agenda_vf.pdf)**
+
+**Presentations**
+
+- *Day 1*
+
+Presentation | Author(s) 
+:-----------:|:---------:
+[IPSL/Climate Modelling center](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_IPSL_Presentation.pdf) | Olivier Boucher
+[IS-ENES3 Overview](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_Overview.pdf) | Sylvie Joussaume
+[Challenges related with infrastructure ](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_Challenges_Infrastructures.pdf) | Bryan Lawrence
+[Lessons from the WIP/Vision for the future](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_Lessons_WIP.pdf) | V. Balaji
+[ExtremeEarth Challenge](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_ExtremeEarth_Challenge.pdf) | Peter Bauer
+[WP2-NA1](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP2_NA1.pdf) | Bryan Lawrence, Martin Lautenschlager
+[WP3-NA2](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP3_NA2.pdf) | Eric Guilyardi, Janette Bessembinder
+[WP4-NA3](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP4_NA3.pdf) | Mick Carter, Mario Acosta
+[WP6-VA1](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP6_VA1.pdf) | Uwe Fladrich, Eric Maisonnave
+[WP8-JRA1](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP8_JRA1.pdf) | Sophie Valcke, Italo Epicoco
+[IMMERSE (NEMO)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO-IMMERSE.pdf) | Julien le Sommer
+[ESiWACE2](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_ESiWACE2.pdf) | Joachim Biercamp
+
+- *Day 2*
+
+Presentation | Author(s) 
+:-----------:|:---------:
+[WP5-NA4](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP5_NA4.pdf) | Sébastien Denvil, Klaus Zimmermann
+[WP7-VA2](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP7-VA2.pdf) | Stephan Kindermann, Wim Som de Cerff
+[WP9-JRA2](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP9-JRA2.pdf) | Veronika Eyring, Kim Serradell
+[WP10-JRA3](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS10_VPredoi_MultiProgLang_ISENES3-19May2021.pdf) | Sandro Fiore, Christian Pagé
+[ESGF in next 3 years](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_ESGF_3_years.pdf) | Sébastien Denvil
+[Copernicus and C4I portal](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_Copernicus_&_C4I.pdf) | Wim Som de Cerff, Christian Pagé
+[Involvement of ENES in EOSC and other data project](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_EOSC.pdf) | Stephan Kindermann
+[ESMValTool: Legacy of ENES projects](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_ESMValTool.pdf) | Mick Carter, Björn Brötz
+[BoG1: Models, tools and HPC](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/WP4T3_BoG_Theme2.pdf) | Mick Carter, Sophie Valcke, Mario Acosta
+[BoG2: Data and metadata](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ISENES3_KO_BoG2_Data_&_Metadata.pdf) | Sébastien Denvil, Sandro Fiore, Stephan Kindermann
+[Virtual WP - Innovation](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_VWP_Innovation.pdf) | Martin Juckes
+[H2020 Financial and legal aspects](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_Financial_&_legal_aspects.pdf) | Federico Esu
+[IS-ENES3 Communication and Dissemination] (https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_Communication_-_Dissemination.pdf) | Sylvie Joussaume, Nada Caud
+
+- *Day 3*
+
+Presentation | Author(s) 
+:-----------:|:---------:
+[General discussion on Integration (NA2)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_Integration.pdf) | Eric Guilyardi, Janette Bessembinder
+[Data Management Plan](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_Data_Management_Plan.pdf) | Bryan Lawrence, Francesca Guglielmo
+[Low Carbon](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_Low_Carbon.pdf) | Casimir de Lavergne
+[BoG3: Model Evaluaton](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_BoG_Model_Evaluation.pdf) | Eric Guilyardi, Björn Brötz, Kim Serradell
+[BoG4: Preparing Sustainability](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_BoG4_Sustainability.pdf) | Bryan Lawrence, Martin Lautenschlager
+[BoG5: Technical meetings](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_BoG5_Technical_Meetings.pdf) | Philip Kershaw
+
 <hr style="border:2px solid gray">
 
 ### <a name="compute-analytics"></a>IS-ENES3 and ESGF Virtual Workshop on Compute and Analytics
