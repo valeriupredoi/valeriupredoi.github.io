@@ -402,37 +402,88 @@ The participants' personal data used for the organisation of the workshop was co
 
 Presentation | Author(s) 
 :--------------:|:---------:
-New approaches based on ML for a range of climate prediction problems | Emily Shuckburgh (U. Cambridge)
-Philosophy and Targeted Applications of ML/AI Techniques for Climate Risk Analytics at Jupiter | Luke Madaus & Steve Sain (Jupiter Intel.)
-The optimization dichotomy: Why is it so hard to improve climate models with machine learning | Stephan Rasp (ClimateAI)
-Improving convection parameterizations with a library of large-eddy simulations | Zhaoyi Shen (Caltech)
-Stochastic Super-Resolution for Convective Regimes using Gaussian Random Fields | Rachel Prudden (Met Office Inf. Lab)
-Subseasonal Forecasts of Opportunity Identified by an Explainable Neural Network | Kirsten Mayer (CSU)
-Using transfer learning and backscattering analysis to build stable, generalizable data-driven subgrid-scale models: A 2D turbulence test case | Pedram Hassanzadeh (U. Rice)
+[New approaches based on ML for a range of climate prediction problems](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML1_Mar-2021.pdf) | Emily Shuckburgh (U. Cambridge)
+[Philosophy and Targeted Applications of ML/AI Techniques for Climate Risk Analytics at Jupiter](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML2_Madaus_MLandAIatJupiter.pdf) | Luke Madaus & Steve Sain (Jupiter Intel.)
+[The optimization dichotomy: Why is it so hard to improve climate models with machine learning](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML3_Rasp_OptimizationDichotomy.pdf) | Stephan Rasp (ClimateAI)
+[Improving convection parameterizations with a library of large-eddy simulations](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML4_new_opportunities_shen.pdf) | Zhaoyi Shen (Caltech)
+[Stochastic Super-Resolution for Convective Regimes using Gaussian Random Fields](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML5_downscaling_newopportunities.pdf) | Rachel Prudden (Met Office Inf. Lab)
+[Subseasonal Forecasts of Opportunity Identified by an Explainable Neural Network](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML6_ISENES3_ESiWACE2_KMayer.pdf) | Kirsten Mayer (CSU)
+[Using transfer learning and backscattering analysis to build stable, generalizable data-driven subgrid-scale models: A 2D turbulence test case](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML7_ISENES3v2_Pedram.pdf) | Pedram Hassanzadeh (U. Rice)
 
 *Session 2: ML/AI Software technologies*
 
 Presentation | Author(s) 
 :--------------:|:---------:
-Stochastic machine learning for atmospheric fields with generative adversarial networks | Jussi Leinonen (MeteoSwiss)
-Causal discovery in time series with unobserved confounders | Andreas Gerhardus (DLR Jena)
-Estimating stochastic closures using sparsity-promoting ensemble Kalman inversion | Jinlong Wu (Caltech)
-Deep Learning on the sphere for weather/climate applications | Gionata Ghiggi and Michaël Defferrard (EPFL)
-Deep learning-based remote sensing for infrastructure damage assessment | Thomas Chen (AMSE)
-Leveraging physics information in neural networks for fluid flow problems | Akshay Subramaniam (NVIDIA)
-Sub-seasonal forecasting with a large ensemble of deep-learning weather prediction models | Jonathan Weyn (U. of Washington)
+[Stochastic machine learning for atmospheric fields with generative adversarial networks](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML7_ISENES3-Workshop-20210317-JL.pdf) | Jussi Leinonen (MeteoSwiss)
+[Causal discovery in time series with unobserved confounders](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML8_causal_discovery_time_series_unobserved_confounders_Gerhardus.pdf) | Andreas Gerhardus (DLR Jena)
+[Estimating stochastic closures using sparsity-promoting ensemble Kalman inversion](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML9_Estimating_stochastic_closures-Jinlong_WU.pdf) | Jinlong Wu (Caltech)
+[Deep Learning on the sphere for weather/climate applications](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML10_DeepSphere-Weather_ESIWACE_Ghiggi.pdf) | Gionata Ghiggi and Michaël Defferrard (EPFL)
+Deep learning-based remote sensing for infrastructure damage assessment(https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ | Thomas Chen (AMSE)
+[Leveraging physics information in neural networks for fluid flow problems](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML11_Subramaniam_leveraging_physics_information_in_neural_newtworks.pdf) | Akshay Subramaniam (NVIDIA)
+[Sub-seasonal forecasting with a large ensemble of deep-learning weather prediction models](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML12_Weyn_S2S_forecasting_ML.pdf) | Jonathan Weyn (U. of Washington)
 
 *Session 3: High performance, Infrastructure and Big data challenges*
 
 Presentation | Author(s) 
 :--------------:|:---------:
-Scaling Up Deep Learning Workloads - A Data-Centric View | Tal Ben-Nun (ETHZ)
-Radar QPE and Machine Learning | Micheal Simpson (NOAA)
-Using ML at the Edge to Improve Data Gathering | Pete Warden (Google)
-An Overview of ML and AI on Arm Based HPC Systems for Weather and Climate Applications | Phil Ridley (Arm)
-Machine-Learned Preconditioners for Linear Solvers in Geophysical Fluid Flows | Jan Ackmann (U. Oxford)
-You do you. How next-gen data platforms can stop weather and climate scientists from being software engineers and other perversions | Theo McCaie (MO Informatics Lab)
-3D bias correction with deep learning in the Integrated Forecasting System | Thorsten Kurth (NVIDIA)
+[Scaling Up Deep Learning Workloads - A Data-Centric View](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML13_Scaling_Up_Deep_Learning_Workloads.pdf) | Tal Ben-Nun (ETHZ)
+[Radar QPE and Machine Learning](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML14_Radar_QPE_andMachine_Learning_Simpson.pdf) | Micheal Simpson (NOAA)
+[Using ML at the Edge to Improve Data Gathering](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML15_Warden.pdf) | Pete Warden (Google)
+[An Overview of ML and AI on Arm Based HPC Systems for Weather and Climate Applications](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML16_Ridley.pdf) | Phil Ridley (Arm)
+[Machine-Learned Preconditioners for Linear Solvers in Geophysical Fluid Flows](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML17_Ackmann.pdf) | Jan Ackmann (U. Oxford)
+[You do you. How next-gen data platforms can stop weather and climate scientists from being software engineers and other perversions](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML18_McCaie.pdf) | Theo McCaie (MO Informatics Lab)
+[3D bias correction with deep learning in the Integrated Forecasting System](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML19_Kurth.pdf) | Thorsten Kurth (NVIDIA)
+
+<hr style="border:2px solid gray">
+
+### <a name="C4I4th"></a>4th Climate4Impact Coding Sprint
+- When: **Jan 28, 2021 09:00 AM to Jan 29, 2021 05:00 PM (Europe/Vienna / UTC100)**
+
+A fourth IS-ENES3 technical workshop will take place on 28-29th January 2021, dedicated to the development of the [Climate4impact portal](https://climate4impact.eu/impactportal/general/index.jsp) (C4I) and the Compute Services. It will be a virtual meeting, organized by CERFACS.
+
+The main objectives of this workshop is to enable partners, involved in the development of Compute Services of the **ENES Climate Data Infrastructure** and especially on **climate4impact**, to work together on specific items, with high collaboration and dedicated full time.
+It will consist of brainstorming sessions, followed by coding and developments, and a summary of achievements. The brainstorming will be an opportunity to discuss the overall architecture, identifying parts where there is a need of developments and decisions. The actual coding and development sessions will happen in focused groups on identified specific points in the brainstorming session. The summary will be the opportunity to discuss problems and bottlenecks encountered.
+
+Even if the meeting focus is on C4I related work and tasks, it is also the opportunity to develop other parts of the ENES infrastructure that C4I will use. 
+
+<hr style="border:2px solid gray">
+
+### <a name="7thESMValTool"></a>7th Technical ESMValTool Coding workshop
+- When: **Nov 24, 2020 09:00 AM to Nov 26, 2020 05:00 PM (Europe/Vienna / UTC100)**
+
+The Technical ESMValTool Workshop took place via video call from 24-26 November 2020 with 23 participants from U Bremen, NLeSC, BSC, U Reading, PML, SMHI, ENEA, ETH and DLR. The main goal of the workshop was to work on open pull request and draft guidelines for reviewing pull requests.
+
+Specifically, the workshop included the following topics:
+
+- New team structure on GitHub
+- Importing native model / observational data
+- Guidelines for reviewing pull requests
+- User Engagement Team
+- Presentations: (1) ESMValTool Tutorial, (2) Automated testing, (3) Running ESMValTool in Jupyter Hub
+- ESMValTool related IS-ENES3 tasks and deliverables
+- Reviewing and merging openpull requests
+
+**See the full workshop report [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Summary_ESMValTool_Workshop_Nov_2020.pdf).**
+
+<hr style="border:2px solid gray">
+
+### <a name="CW2020"></a>5th Workshop on Coupling Technologies for Earth System Models
+- When: **Sep 21, 2020 03:00 PM to Sep 24, 2020 06:00 PM (Europe/Vienna / UTC200)**
+
+**TO DO**
+
+<hr style="border:2px solid gray">
+
+### <a name="C4I3th"></a>3rd Climate4Impact Coding Sprint
+- When: **Jun 16, 2020 09:00 AM to Jun 17, 2020 05:00 PM (Europe/Vienna / UTC200)**
+
+A third IS-ENES3 technical workshop will take place from June 16th to June 17th, 2020, dedicated to the development of the [Climate4impact portal (C4I)](https://climate4impact.eu/impactportal/general/index.jsp) and the Compute Services. It will be a virtual meeting, organized by CERFACS.
+
+The main objectives of this workshop is to enable partners, involved in the development of Compute Services of the ENES Climate Data Infrastructure and especially on climate4impact, to work together on specific items, with high collaboration and dedicated full time.
+It will consist of brainstorming sessions, followed by coding and developments, and a summary of achievements. The brainstorming will be an opportunity to discuss the overall architecture, identifying parts where there is a need of developments and decisions. The actual coding and development sessions will happen in focused groups on identified specific points in the brainstorming session. The summary will be the opportunity to discuss problems and bottlenecks encountered.
+
+Even if the meeting focus is on C4I related work and tasks, it is also the opportunity to develop other parts of the ENES infrastructure that C4I will use. 
+Learn more about the C4I portal here.
 
 <hr style="border:2px solid gray">
 
@@ -454,8 +505,32 @@ ESGF is an international open-source effort that disseminates climate model data
 
 <hr style="border:2px solid gray">
 
+### <a name="CFConvention2020"></a>The 2020 Climate and Forecast metadata Convention
+- When: **Jun 09, 2020 to Jun 11, 2020 (UTC / UTC0)**
+
+![CFConventions](../images/banner_v3_CFConvention.png)
+
+**Find [here](https://zenodo.org/record/3900253#.YmAy_9pBxaR) the Wrap-up and Conclusions of the 2020 CF Workshop !**
+
+**The Climate and Forecast (CF) metadata convention for netCDF (netCDF-CF)** is a community-developed standard first released in 2003. The CF conventions were originally developed to represent climate and forecast model output encoded in the netCDF binary format, with the specific goal of facilitating comparison of output from different models. Subsequent development of the convention has broadened its scope to include observational data and derived products.
+
+Because of the COVID-19 pandemic situation, the meeting will be virtual from the **9th to 11th of June 2020**. The meeting will only run for 3 hours on each day: 16:00 - 19:00 UTC, followed by a short purely social time for those who can, and want to, stay on.
+
+**Find the agenda [here](https://github.com/cf-convention/discuss/issues/53)**
+
+<hr style="border:2px solid gray">
+
+### <a name="EGU2020"></a>IS-ENES3@EGU2020
+- When: **May 04, 2020 08:00 AM to May 08, 2020 05:00 PM (Europe/Vienna / UTC200)**
+
+![egu2021](../images/egu-2022.png)
+
+**Find all the presentations of the EGU2020 [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/presentations-posters.md)**
+
+<hr style="border:2px solid gray">
+
 ### <a name="kickoff"></a>IS-ENES3 Kick-off Meeting
-- duration: **Jan 09, 2019 01:00 PM to Jan 11, 2019 01:30 PM (Europe/Vienna / UTC100)**
+- When: **Jan 09, 2019 01:00 PM to Jan 11, 2019 01:30 PM (Europe/Vienna / UTC100)**
 
 ![isenes3KO](../images/KO_Group_Picture.JPG)
 
@@ -511,6 +586,29 @@ Presentation | Author(s)
 
 <hr style="border:2px solid gray">
 
+### <a name="6thESMValTool"></a>6th Technical ESMValTool Coding Workshop
+- When: **Mar 09, 2020 06:00 PM to Mar 12, 2020 07:00 PM (Europe/Vienna / UTC100)**
+
+The Technical ESMValTool Coding Workshop took place via video call from 9-12 March 2020 with 13 participants from U Bremen, NLeSC, BSC, U Reading, PML, MetOffice, SMHI, and DLR. The main goal of the workshop was to discuss a governance draft for the ESMValTool and to advance preparation of the upcoming v2.0 release of the software. Specifically, the workshop included the following topics:
+
+- Governance
+- Automatization
+- Pull requests for v2.0
+- Status and discussion documentation
+- Quicklooks and other IS-ENES3 tasks
+- Preparation ESMValTool workshop at EGU
+
+**Find the Summary of the coding workshop [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Summary_ESMValTool_Workshop_Mar_2020.pdf)**
+
+<hr style="border:2px solid gray">
+
+### <a name="2ndWP10Sprint"></a>2nd WP10 Coding Sprint Workshop
+- When: **Feb 05, 2020 09:00 AM to Feb 07, 2020 05:00 PM (Europe/Vienna / UTC100)**
+
+A second WP10 Coding Sprint, focused on the Climate4Impact portal developments, will be held from the 5th to the 7th of February. It will be hosted at CERFACS in Toulouse and reunite all institutions from the work package. It follows the first WP10 coding sprint which was organized at KNMI, de Bilt (Netherlands) from June 18th to 21st, in collaboration with the DARE project.
+
+<hr style="border:2px solid gray">
+
 ### <a name="compute-analytics"></a>IS-ENES3 and ESGF Virtual Workshop on Compute and Analytics
 - When: **Dec 02, 2019 04:00 PM to 07:15 PM (Europe/Vienna / UTC100)**
 
@@ -550,6 +648,34 @@ Wrap up and closing remarks
 
 **Organizing Committee**
 Sandro Fiore (CMCC), Christian Pagé (CERFACS), Sylvie Joussaume (IPSL) and Ghaleb M. Abdulla (LLNL)
+
+<hr style="border:2px solid gray">
+
+### <a name="ESGF-WS"></a>ESGF Future Architecture Workshop
+- When: **Nov 05, 2019 09:00 AM to Nov 07, 2019 05:30 PM (Europe/Vienna / UTC100)**
+- Where: **Abingdon (UK)**
+
+![ESGFArchitecture](../images/esgf_vf.png)
+
+**ESGF Future Architecture Meeting is a project meeting to review the existing system architecture, examine requirements for a future system and propose new solutions.**
+
+**About this Event**
+It is now nearly ten years since the original ESGF system was designed. At that time the development was driven by the need to create a globally distributed archive for downloading CMIP data. Since that time, there have been a number of changes: ESGF has grown and diversified in the number of projects and disciplines it supports; the operational requirements are clearer for the ESGF to support an international federated archive of this size; many of the ESGF nodes now have other functions beyond CMIP and there has also been changing landscape of data repository and science needs. This meeting has been convened by the ESGF Executive Committee (ESGF-XC) with the purpose of re-assessing the requirements and developing a future architecture for the system.
+
+**Meeting Structure**
+The meeting will run over three days. Attendance is by invitation only and concentrates on ESGF key developers.
+The programme for the meeting has been specified by Philip Kershaw (UKRI STFC, local host), Ghaleb Abdullah (LLNL) and Ben Evans (NCI) on behalf of the ESGF-XC. In addition to requirements analysis, technology survey and review high-level architecture the programme concentrates on the topical areas:
+- User experience
+- Data repository and management
+- Compute on data
+- Platforms, system administration
+The meeting aims to agree on a roadmap for future architecture directions in ESGF. The meeting results will be presented and discussed at the upcoming ESGF Face-to Face Conference in March 2020 in Toulouse.
+
+**Sponsorship**
+This workshop is sponsored by IS-ENES3, which has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 824084, and co-organised by the ESGF-XC and IS-ENES.
+ESGF as the global climate data infrastructure is supported by: 
+
+![ESGFArchitectureSponsors](../images/ESGF_Future_Architecture_WS_Sponsors_picture.png)
 
 <hr style="border:2px solid gray">
 
