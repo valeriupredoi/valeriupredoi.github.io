@@ -400,19 +400,39 @@ The participants' personal data used for the organisation of the workshop was co
 
 *Session 1 : Views from Domain Science*
 
-:-----------:|
-New approaches based on ML for a range of climate prediction problems, Emily Shuckburgh (U. Cambridge)
-Philosophy and Targeted Applications of ML/AI Techniques for Climate Risk Analytics at Jupiter, Luke Madaus & Steve Sain (Jupiter Intel.)
-The optimization dichotomy: Why is it so hard to improve climate models with machine learning, Stephan Rasp (ClimateAI)
-Improving convection parameterizations with a library of large-eddy simulations, Zhaoyi Shen (Caltech)
-Stochastic Super-Resolution for Convective Regimes using Gaussian Random Fields, Rachel Prudden (Met Office Inf. Lab)
-Subseasonal Forecasts of Opportunity Identified by an Explainable Neural Network, Kirsten Mayer (CSU)
-Using transfer learning and backscattering analysis to build stable, generalizable data-driven subgrid-scale models: A 2D turbulence test case, Pedram Hassanzadeh (U. Rice)
+Presentation | Author(s) 
+:--------------:|:---------:
+New approaches based on ML for a range of climate prediction problems | Emily Shuckburgh (U. Cambridge)
+Philosophy and Targeted Applications of ML/AI Techniques for Climate Risk Analytics at Jupiter | Luke Madaus & Steve Sain (Jupiter Intel.)
+The optimization dichotomy: Why is it so hard to improve climate models with machine learning | Stephan Rasp (ClimateAI)
+Improving convection parameterizations with a library of large-eddy simulations | Zhaoyi Shen (Caltech)
+Stochastic Super-Resolution for Convective Regimes using Gaussian Random Fields | Rachel Prudden (Met Office Inf. Lab)
+Subseasonal Forecasts of Opportunity Identified by an Explainable Neural Network | Kirsten Mayer (CSU)
+Using transfer learning and backscattering analysis to build stable, generalizable data-driven subgrid-scale models: A 2D turbulence test case | Pedram Hassanzadeh (U. Rice)
 
 *Session 2: ML/AI Software technologies*
 
+Presentation | Author(s) 
+:--------------:|:---------:
+Stochastic machine learning for atmospheric fields with generative adversarial networks | Jussi Leinonen (MeteoSwiss)
+Causal discovery in time series with unobserved confounders | Andreas Gerhardus (DLR Jena)
+Estimating stochastic closures using sparsity-promoting ensemble Kalman inversion | Jinlong Wu (Caltech)
+Deep Learning on the sphere for weather/climate applications | Gionata Ghiggi and Michaël Defferrard (EPFL)
+Deep learning-based remote sensing for infrastructure damage assessment | Thomas Chen (AMSE)
+Leveraging physics information in neural networks for fluid flow problems | Akshay Subramaniam (NVIDIA)
+Sub-seasonal forecasting with a large ensemble of deep-learning weather prediction models | Jonathan Weyn (U. of Washington)
+
 *Session 3: High performance, Infrastructure and Big data challenges*
 
+Presentation | Author(s) 
+:--------------:|:---------:
+Scaling Up Deep Learning Workloads - A Data-Centric View | Tal Ben-Nun (ETHZ)
+Radar QPE and Machine Learning | Micheal Simpson (NOAA)
+Using ML at the Edge to Improve Data Gathering | Pete Warden (Google)
+An Overview of ML and AI on Arm Based HPC Systems for Weather and Climate Applications | Phil Ridley (Arm)
+Machine-Learned Preconditioners for Linear Solvers in Geophysical Fluid Flows | Jan Ackmann (U. Oxford)
+You do you. How next-gen data platforms can stop weather and climate scientists from being software engineers and other perversions | Theo McCaie (MO Informatics Lab)
+3D bias correction with deep learning in the Integrated Forecasting System | Thorsten Kurth (NVIDIA)
 
 <hr style="border:2px solid gray">
 
