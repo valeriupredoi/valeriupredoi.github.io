@@ -246,7 +246,7 @@ Time Slot | Author(s) and presentation
 
 <hr style="border:2px solid gray">
 
-### <a name="climate-indices"></a>Workshop Climate Indices-Eastern European perspective
+### <a name="climate-indices"></a>Workshop "Climate Indices-Eastern European perspective"
 **Sep 27, 2021** from 11:00 AM to 03:00 PM
 
 ![EEclimateindicesworkshop](../images/Eastern_Europe_banner_vf2.png)
@@ -295,8 +295,21 @@ Presentation | Author(s)
 
 <hr style="border:2px solid gray">
 
+### <a name="cf-conventions-2021"></a>2021 Climate and Forecast Conventions (CF) Workshop
+- When: **Sep 21, 2021 03:00 PM to Sep 23, 2021 03:00 PM (Europe/Vienna / UTC200)**
+
+![CFConventions](../images/banner_v3_CFConvention.png)
+
+The 2021 CF Workshop will be a virtual meeting on 21-23 September 2021. The meeting will run for three hours on each day, 15:00 to 18:00 UTC, plus an informal hour at the end of each day.
+
+**Find the detailed programme [here](https://cfconventions.org/Meetings/2021-Workshop.html).**
+
+*This workshop has been supported by the IS-ENES3 project.*
+
+<hr style="border:2px solid gray">
+
 ### <a name="fast-scalable-evaluation"></a>IS-ENES3 Virtual workshop on requirements for a fast and scalable evaluation workflow
-- duration: **May 18, 2021 02:00 PM to May 19, 2021 06:00 PM (Europe/Vienna / UTC200)**
+- When: **May 18, 2021 02:00 PM to May 19, 2021 06:00 PM (Europe/Vienna / UTC200)**
 
 ![FSworkshop](../images/Fast-and-scalable-evaluation-workshop-banner-png-2.png)
 
@@ -334,11 +347,77 @@ Presentation | Author(s)
 [BoG1: Workflow and Performance](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS15_BoG1.pdf) | Javier Vegas, Kim Serradell
 [BoG2: Reproducibility and provenance](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS16_BoG2.pdf) | Saskia Loosveldt
 
+<hr style="border:2px solid gray">
+
+### <a name="1stESMValToolWS"></a>1st Technical ESMValTool Workshop 2021
+- When: **May 04, 2021 10:00 AM to May 06, 2021 05:00 PM (Europe/Vienna / UTC200)**
+
+The Technical ESMValTool Workshop took place via video call from 4-6 May 2021 with 23 participants from BSC, DLR, ETH, Met Office, NLeSC, PML, SMHI, U Bremen and U Reading. The main goal of the workshop was to bring together the development community, discuss future strategies and provide updates on progress since the last workshop in November 2020.
+
+Specifically, the workshop included the following topics and presentations:
+• Overview and strategy for merging IPCC AR6 diagnostics into the official release
+• ESMValTool June release (v2.3.0)
+• General discussion on the following topics: naming of versions, support of new NCL diagnostics, automated formatting, ETCCDI, import of native model output, gallery, website
+• ESMValTool related IS-ENES3 tasks and deliverables
+• Reviewing and merging open pull requests
+• Presentation: Introduction of new teams and updates on governance and future strategy
+• Presentation: Update on improving automated testing of diagnostics
+• Presentation: Update on Jupyter Notebook capabilities for the ESMValTool
+
+**You can find the summary report of the workshop [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Summary_ESMValTool_Workshop_May_2021.pdf)**
+
+<hr style="border:2px solid gray">
+
+### <a name="EGU2021"></a>IS-ENES3@EGU2021
+- When: **Apr 19, 2021 09:00 AM to Apr 30, 2021 06:00 PM (Europe/Vienna / UTC200)**
+
+![egu2021](../images/egu-2022.png)
+
+**Find all the presentations of the EGU2021 [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/presentations-posters.md)**
+
+<hr style="border:2px solid gray">
+
+### <a name="ML-AI-WS"></a>Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling
+- When: **Mar 16, 2021 03:00 PM to Mar 18, 2021 06:30 PM (Europe/Paris / UTC100)**
+
+![MLAIWorkshop](../images/ML-AI_Workshop_banner_V2.png)
+
+Organised jointly by the H2020 projects IS-ENES3 and ESiWACE2, the workshop was held virtually from the 16th to 18th March 2021 (3.5h per day). 
+
+The aim of this workshop was to bring together climate scientists and experts from academia and industry to share knowledge and experience and to identify new opportunities in the areas of machine learning, artificial intelligence and big data techniques for Weather and Climate Modelling.
+
+The workshop was organised around three sessions:
+- 16 March (Day 1): Views from Domain Science
+- 17 March (Day 2): ML/AI Software Technologies
+-18 March (Day 3): High performance, Infrastructure and Big data Challenges
+
+**The final agenda is available [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/VirtualWorkshopNewOpportunitiesinML_AIforWeatherandClimatedraftagendav6.pdf).**
+**Find the recording of the talks on the IS-ENES3 Youtube channel, under the [event playlist](https://www.youtube.com/watch?v=P0RtRdLvAGA&list=PLFvev1W5vG7NP2xSRRorQabHWKKwJqw54) !
+
+The participants' personal data used for the organisation of the workshop was covered by the [following privacy policy](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/GDPR_ESiWACE2_and_IS-ENES3_ML-AI_Workshop_vf.pdf.)
+
+**Presentations**
+
+*Session 1 : Views from Domain Science*
+
+:-----------:|
+New approaches based on ML for a range of climate prediction problems, Emily Shuckburgh (U. Cambridge)
+Philosophy and Targeted Applications of ML/AI Techniques for Climate Risk Analytics at Jupiter, Luke Madaus & Steve Sain (Jupiter Intel.)
+The optimization dichotomy: Why is it so hard to improve climate models with machine learning, Stephan Rasp (ClimateAI)
+Improving convection parameterizations with a library of large-eddy simulations, Zhaoyi Shen (Caltech)
+Stochastic Super-Resolution for Convective Regimes using Gaussian Random Fields, Rachel Prudden (Met Office Inf. Lab)
+Subseasonal Forecasts of Opportunity Identified by an Explainable Neural Network, Kirsten Mayer (CSU)
+Using transfer learning and backscattering analysis to build stable, generalizable data-driven subgrid-scale models: A 2D turbulence test case, Pedram Hassanzadeh (U. Rice)
+
+*Session 2: ML/AI Software technologies*
+
+*Session 3: High performance, Infrastructure and Big data challenges*
+
 
 <hr style="border:2px solid gray">
 
 ### <a name="cordex-webinar"></a>IS-ENES3 webinar on the Access on CORDEX and CMIP6 climate data
-- duration: **Jun 15, 2020 from 10:00 AM to 11:30 AM (Europe/Vienna / UTC200)**
+- When: **Jun 15, 2020 from 10:00 AM to 11:30 AM (Europe/Vienna / UTC200)**
 
 **Find the recording of the webinar on [the IS-ENES3 YouTube channel](https://www.youtube.com/watch?v=SSjod5McTZo&list=PLFvev1W5vG7Nv-wzntcCp46XbqJKWaqRB) !**
 
