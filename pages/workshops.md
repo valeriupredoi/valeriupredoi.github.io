@@ -39,9 +39,19 @@ header:
 #### [1st Technical ESMValTool Workshop 2021](https://valeriupredoi.github.io/workshops-detailed#1stESMValToolWS)
 #### [IS-ENES3@EGU2021](https://valeriupredoi.github.io/workshops-detailed#EGU2021)
 #### [Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling](https://valeriupredoi.github.io/workshops-detailed#ML-AI-WS)
+#### [4th Climate4Impact Coding Sprint](https://valeriupredoi.github.io/workshops-detailed#C4I4th)
+#### [7th Technical ESMValTool Coding workshop](https://valeriupredoi.github.io/workshops-detailed#7thESMValTool)
+#### [5th Workshop on Coupling Technologies for Earth System Models](https://valeriupredoi.github.io/workshops-detailed#CW2020)
+#### [3rd Climate4Impact Coding Sprint](https://valeriupredoi.github.io/workshops-detailed#C4I3th)
 #### [IS-ENES3 webinar on the Access on CORDEX and CMIP6 climate data](https://valeriupredoi.github.io/workshops-detailed#cordex-webinar)
+#### [The 2020 Climate and Forecast metadata Convention](https://valeriupredoi.github.io/workshops-detailed#CFConvention2020)
+#### [IS-ENES3@EGU2020](https://valeriupredoi.github.io/workshops-detailed#EGU2020)
 #### [IS-ENES3 Kick-off Meeting](https://valeriupredoi.github.io/workshops-detailed#kickoff)
+#### [6th Technical ESMValTool Coding workshop](https://valeriupredoi.github.io/workshops-detailed#6thESMValTool)
+#### [2nd WP10 Coding Sprint Workshop](https://valeriupredoi.github.io/workshops-detailed#2ndWP10Sprint)
 #### [IS-ENES3 and ESGF Virtual Workshop on Compute and Analytics](https://valeriupredoi.github.io/workshops-detailed#compute-analytics)
+#### [ESGF Future Architecture Workshop](https://valeriupredoi.github.io/workshops-detailed#ESGF-WS)
+
 
 <hr style="border:2px solid gray">
 
