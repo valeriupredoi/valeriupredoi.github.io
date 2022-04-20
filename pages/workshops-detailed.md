@@ -340,6 +340,19 @@ Presentation | Author(s)
 ### <a name="cordex-webinar"></a>IS-ENES3 webinar on the Access on CORDEX and CMIP6 climate data
 - duration: **Jun 15, 2020 from 10:00 AM to 11:30 AM (Europe/Vienna / UTC200)**
 
+**Find the recording of the webinar on [the IS-ENES3 YouTube channel](https://www.youtube.com/watch?v=SSjod5McTZo&list=PLFvev1W5vG7Nv-wzntcCp46XbqJKWaqRB) !**
+
+**Program of the webinar**
+Introduction - Janette Bessembinder (KNMI)
+- ESGF: A practical overview for users - Christian Pagé (CERFACS)
+- Search and download of CMIP6 and CORDEX data through ESGF - Paola Nassisi (CMCC)
+- ECAS Environment and climate data analysis - Paola Nassisi (CMCC)
+- IS-ENES Climate4impact (C4i): Ease Access to Climate Model Data - Christian Pagé (CERFACS)
+
+During this webinar and demonstration we will explain what the [Earth System Grid Federation](https://esgf.llnl.gov/) (ESGF) is and what it does to make climate data available for research.
+
+ESGF is an international open-source effort that disseminates climate model data, observational and reanalysis data free of charge. Short demonstrations will be given on how to access and analyze climate data available through ESGF. This webinar is organized by the IS-ENES3 project, the European part of ESGF, that works on enhancing and improving current climate research infrastructure. The webinar is aimed at users in any scientific or applied domain that need access to climate data, for example, climate modelers performing multi-model comparisons, impact researchers evaluating climate change impacts, climate services providers, etc., at global or regional scales.
+
 <hr style="border:2px solid gray">
 
 ### <a name="kickoff"></a>IS-ENES3 Kick-off Meeting
@@ -384,7 +397,7 @@ Presentation | Author(s)
 [BoG2: Data and metadata](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ISENES3_KO_BoG2_Data_&_Metadata.pdf) | Sébastien Denvil, Sandro Fiore, Stephan Kindermann
 [Virtual WP - Innovation](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_VWP_Innovation.pdf) | Martin Juckes
 [H2020 Financial and legal aspects](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_Financial_&_legal_aspects.pdf) | Federico Esu
-[IS-ENES3 Communication and Dissemination] (https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_Communication_Dissemination.pdf) | Sylvie Joussaume, Nada Caud
+[IS-ENES3 Communication and Dissemination](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_Communication_Dissemination.pdf) | Sylvie Joussaume, Nada Caud
 
 - *Day 3*
 
@@ -400,6 +413,44 @@ Presentation | Author(s)
 <hr style="border:2px solid gray">
 
 ### <a name="compute-analytics"></a>IS-ENES3 and ESGF Virtual Workshop on Compute and Analytics
+- When: **Dec 02, 2019 04:00 PM to 07:15 PM (Europe/Vienna / UTC100)**
+
+The **IS-ENES3/ESGF Virtual Workshop on Compute and Analytics** is a web meeting organized in the context of the EU H2020 IS-ENES3 project in close collaboration with the Earth System Grid Federation international effort.
+
+The Virtual Workshop will discuss users’ requirements, solutions, gaps and challenges about the compute and analytics services in the climate change domains. 
+
+Talks on state of the art implementations in this field as well as applications built on top of them will be presented. The main outcome of the workshop, which will collect all contributions from the participants, will be documented into a final report on “Compute service requirements and state of the art approaches”.
+
+**Find the recording of the webinar on [the IS-ENES3 YouTube channel](https://www.youtube.com/watch?v=SSjod5McTZo&list=PLFvev1W5vG7Nv-wzntcCp46XbqJKWaqRB) !**
+
+**Agenda**
+
+*Session 1 – State of the art on the climate compute and analytics services: requirements, solutions and gaps - Chair: Christian Pagé*
+
+Time Slot | Author(s) and presentation
+:----------:|:--------------------------:
+16:05-16h20 | [Compute and Analytics services at DKRZ: status and plans](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/CW1_DKRZ-is-enes-compute-ws.pdf) - Stephan Kindermann and Carsten Ehbrecht, DKRZ
+16h20-16h35 | [An open “data-side” platform for climate analytics and services](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/CW2_IPSL.pdf) - Guillaume Levavasseur, IPSL
+16h35-16h50 | [Robust and Reliable WPS for climate simulations – nothing clever, just test, test, test!](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/CW3_CEDA_Robust_and_Reliable_WPS.pdf) - Ag Stephens, UKRI
+16h50-17h05 | [A Climate Analytics Hub for multi-model analysis](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/CW4_CMCC_Analytics_Hub-Elia_ISENES3_Final.pdf) - Donatello Elia, CMCC
+
+*Session 2 - State of the art on the climate compute and analytics services: requirements, solutions and gaps - Chair: Ghaleb M. Abdulla*
+
+Time Slot | Author(s) and presentation
+:----------:|:--------------------------:
+17:15-17h30 | [Compute Services requirements for the climate impact community using C4I](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/CW5_KNMI_CERFACS_Climate4Impact.pdf) - Maarten Plieger, Wim Som de Cerff, Janette Bessembinder, KNMI, Christian Pagé, CERFACS
+17h30-17h45 | [Packaging, deployment and interfacing of machine learning applications in scientific workflow environments](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/CW6_CRIM_IS-ENES3_ESGF-Tom_Landry.pdf) - Tom Landry, CRIM
+17h45-18h00 | [The Earth Data Analytic Services (EDAS) Framework](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/CW7_NASA-EDAS.pdf) - Thomas P. Maxwell, NASA
+18h00-18h15 | [Compute with Kubernetes](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/CW8_LLNL-Compute_on_Kubernetes.pdf) - Jason Jerome Boutte, LLNL
+18h15-18h30 | Talk by NCI - Ben Evans, NCI
+
+*Session 3 - Discussion session on Compute and Analytics - Chair: Sandro Fiore*
+General discussion on requirements
+Wrap up and closing remarks
+7:15 - End of the Virtual Workshop
+
+**Organizing Committee**
+Sandro Fiore (CMCC), Christian Pagé (CERFACS), Sylvie Joussaume (IPSL) and Ghaleb M. Abdulla (LLNL)
 
 <hr style="border:2px solid gray">
 
