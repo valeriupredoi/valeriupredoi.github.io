@@ -174,8 +174,15 @@ This training is co-organized jointly by the H2020 IS-ENES3 and EOSC-hub project
 
 <hr style="border:2px solid gray">
 
+### <a name="spring-school"></a>Second and Third IS-ENES3 virtual School on Climate Data Use for Impact Assessments
+- When: **Mar 03, 2021 09:00 AM to Jun 14, 2021 11:30 AM (Europe/Vienna / UTC100)**
+
+
+
+<hr style="border:2px solid gray">
+
 ### <a name="autumn-school"></a>First IS-ENES3 virtual Autumn School on Climate data use for impact assessments
-- duration: **Nov 04, 2020 09:00 AM to Dec 10, 2020 09:00 AM (Europe/Vienna / UTC100)**
+- When: **Nov 04, 2020 09:00 AM to Dec 10, 2020 09:00 AM (Europe/Vienna / UTC100)**
 
 **Aim ?** The aim of the School was to help researchers make better use of available climate data and knowledge, in order to produce higher quality research outputs and services. This, in turn, will help to combat and adapt to climate change. Other aims were to develop a network of researchers who can turn to each other in the future for advice and cooperation.
 **When ?** The school took place in the period from Nov. 4th to Dec. 11th, 2020.
@@ -185,6 +192,7 @@ This training is co-organized jointly by the H2020 IS-ENES3 and EOSC-hub project
 The total length of the Autumn School is six weeks. **In the first three weeks, 2-3 hour virtual meetings will be held on Wednesday and Friday mornings.** Interactive lectures on climate models, data, impact modelling and climate services are provided. Participants can bring in their own case study and will work on these in **groups of 2-3 persons during the last three weeks.** During these weeks, teachers from IS-ENES will be available for questions and help.
 
 **Week 1: Climate data and climate models** |
+
 Webinar 1 Wednesday morning 4th of November
 :--------------:|:------------:
 10 min | Introduction to the course: aim, learning objectives, set-up
@@ -218,6 +226,7 @@ A selection committee of three course organizers will select the participants an
 By applying, you agree that the IS-ENES3 project and its selection committee will collect your personal data according to the IS-ENES3 data privacy policy: https://is.enes.org/project/privacy-policy. Your data will only be used in the purpose of the organisation of the IS-ENES3 Autumn school. If you want to modify or erase your personal data, please send an email to judith.klostermann[a]wur.nl. 
 
 **Summary of the IS-ENES3 project: Infrastructure for the European Network for Earth System Modelling (2019 - 2022)**
+
 IS-ENES3, a Horizon 2020 project, is the third phase of the distributed e-infrastructure of the European Network for Earth System Modelling (ENES). The project fosters collaboration between 22 European climate research institutions. The community aims to develop a better understanding of past, present and future climate. IS-ENES3 projects future variability and changes of the climate through the development and sharing of model components, modelling tools and data infrastructure. The IS-ENES3 three main objectives are to:
 - Foster collaboration among the modelling groups to speed-up the development and use of models of the complex Earth’s climate system, generally named “Earth System models” (ESMs);
 - Deliver common strategies for the research infrastructure on the global climate;
@@ -225,8 +234,57 @@ IS-ENES3, a Horizon 2020 project, is the third phase of the distributed e-infras
 
 **Biographies of the teachers**
 
-
+:--------------:|:------------:
+**Janette Bessembinder** (PhD) works at the Royal Netherlands Meteorological Institute since 2005. She is involved in climate scenario and climate services development. In the Netherlands she has led several projects on the tailoring of climate data for users ranging from impact/adaptation researchers, companies to policy makers. She is or has been involved in the European projects EUSTACE, ROADAPT, WATCH, C3S ULS, Climateurope, PRIMAVERA and IS-ENES3, mostly as work package leader related to tailoring and dissemination. | 
+**Judith Klostermann** (PhD) is a social science researcher at Wageningen Research and is working within the Climate Resilience team. She works in the domains of adaptation to climate change, coastal management and sustainability. She is involved in user engagement for the Copernicus Climate Data Store. She organized Communities of Practice in European projects URBANFLUXES and BRIDGE on urban climate change. | 
+**Sylvie Joussaume** (PhD) is a senior scientist within National Center for Scientific Research (CNRS) in France. She is an expert in climate modelling at IPSL and has been involved in IPCC assessment reports since the third report.  She is chairing the scientific board of the European Network for Earth System modelling (ENES) and coordinates the FP7 infrastructure project IS-ENES, which integrates the European climate models in a common infrastructure (2009-2022). | 
+**Vladimir Djurdjevic** (PhD) is an associate professor of meteorology at the Faculty of Physics, University of Belgrade, Serbia. He was visiting scientist at NOAA/NCEP (USA), CMCC (Italy), IST (Portugal) and ICOD (Malta). His expertise is in the field of climate modeling, climate data analysis, climate impacts, vulnerability and adaptation to climate change. He participates in the international initiative Med-CORDEX and he is a member of the International Planning Committee of the Pannex hydroclimate project. He is or has been involved in the European projects ORIENTGATE, DRIHM, GEO-CRADLE, ClimatEurope and IS-ENES3. | 
+**Christian Pagé** (PhD) holds a "highly qualified" research engineer position at CERFACS. He has been active in research and development since 1995, covering a large spectrum of atmospheric sciences. He has been involved in many large projects. He is currently involved in improving access to large data volumes for use within the climate community. He has been involved in several European projects, notably FLYSAFE, EUDAT/EUDAT2020, IS-ENES/IS-ENES2, CLIPC, SPECS, DARE, often as a work package leader. He is also involved in the Earth System Grid Federation (ESGF) Compute Working Expert team, on providing data processing near the data storage for large data volumes in a federated infrastructure. | 
+**Rutger Dankers** (PhD) is a physical geographer with over 15 years of experience in weather and climate impacts research. His work has focused on natural hazards and extreme events; interactions between weather, climate and society; modelling and model evaluation; and communication of risk and uncertainties. His expertise includes climate change and climate impact modelling; postprocessing of weather forecasts; analysing climate projections; processing large datasets; extreme value statistics; evaluating uncertainty; and weather and climate risk assessment. Since 2019, he works at the Climate Resilience team at Wageningen Environmental Research. | 
+**Eric Guilyardi** (PhD) is a climate scientist at LOCEAN-IPSL, CNRS. He has published over 95 papers in peer-reviewed journals on topics including tropical climate variability, El Niño, ocean and climate, climate change, multi-model analysis, or state-of-the-art climate model development and has been ranked as Highly Cited scientist in 2018. Eric Guilyardi was Lead Author for IPCC AR5 and is Contributing Author for IPCC AR6. He has been involved in IS-ENES and other EU project for more than 20 years, more specifically coordinating the METAFOR and ES-DOC projects. | 
+**Tomáš Halenka** (PhD) is an associate professor of meteorology at the Dept. of Atmos. Phys., Fac. of Math. and Physics, Charles University in Prague. His expertise is in the field of regional climate modeling, climate impacts, urban climate and its modeling, coupling of RCM and CTM, air quality modeling as well as vulnerability and adaptation to climate change. He was visiting scientist at Université Catholique de Louvain, Louvain-la-Neuve (Belgium), regular associate at the Abdus Salam ICTP in Trieste (Italy). He participates in the international initiative EuroCORDEX, he is a review editor of IPCC AR6, Ch. 3. He has been involved in the European projects ENSEMBLES, QUANTIFY, MEGAPOLI, IS-ENES3, specifically coordinating the CECILIA project. | 
 
 <hr style="border:2px solid gray">
 
-*TODO Section Needs completion* - **all the other past trainings need to be listed here**
+### <a name="C41-web-1"></a>1st Webinar of the demonstration of the Climate4Impact portal
+- When: **Sep 16, 2019 from 01:00 PM to 02:30 PM (Europe/Vienna / UTC200)**
+
+On September 16th from 13.00 – 14.00 CEST will take place a webinar about the [Climate4Impact portal](https://climate4impact.eu/) on how to visualize, analyse and process climate data.
+
+The webinar is meant for impact researchers and other people with only basic knowledge of climate data.
+
+After a short presentation about the possibilities of the Climate4Impact portal, **participants can ask questions and discuss further improvement with the developers of the portal**. A step by step guide for using the portal will be made available to the participants. 
+
+The Climate4Impact data portal is developed within the IS-ENES-projects. The portals aims to enhance the use of climate research data by e.g. climate change impact modellers and impact and adaptation consultants. The portal offers web interfaces for searching, visualizing, analysing, processing and downloading datasets.
+
+<hr style="border:2px solid gray">
+
+### <a name="C4I-demo-2"></a>EMS 2019: Second demonstration session of the Climate4Impact portal
+- When: **Sep 12, 2019 from 09:00 AM to 01:00 PM (Europe/Copenhagen / UTC200)**
+- Where: **EMS2019, Lyngby Campus, Side meeting SIM13, Room: S8**
+
+A demonstration of the Climate4Impact data portal on **how to visualize, analyse and process climate data** will take place at the **European Meteorological Society meeting 2019**.
+
+The short training is meant especially for **impact researchers** and other people with limited knowledge of climate data.
+
+After a short presentation participants can explore the portal and get some support.  A step-by-step guide for using the portal will be made available to the participants. 
+
+The Climate4Impact data portal is developed within the IS-ENES-projects. The portal aims to enhance the use of climate research data by e.g. climate change impact modelers and impact and adaptation consultants. The portal offers web interfaces for searching, visualizing, analysing, processing and downloading datasets.
+
+Date and Venue:
+The demonstration is given on September 12, 09:00–13:00
+EMS2019, Lyngby Campus, Side meeting SIM13,  Room: S8
+
+Bring your own laptop!
+
+<hr style="border:2px solid gray">
+
+### <a name="EGU2019-C4I"></a>EGU 2019: First demonstration session Climate4Impact portal for the IS-ENES3 project
+- When: **Apr 09, 2019 from 08:03 AM to 10:15 AM (Europe/Vienna / UTC200)**
+- Where: **EGU2019, Vienna, Austria**
+
+The Climate4impact portal was developed in the two previous phases of the IS-ENES project. With the start of the IS-ENES3 project in January 2019, this portal for accessing, visualizing and processing climate data will be further developed and updated. To promote the use of the portal, a considerable number of demonstrations sessions and short trainings will be given.
+
+The first demonstration sessions of about an hour each were organized during **splinter sessions at the EGU on Tuesday April 9, 2019.**
+
+Wim Som de Cerff and Maarten Plieger gave short demonstrations after which the participants had some time to explore the portal with the help of an example. A **step-by-step guide** with information on how to login, download data and some further examples on how to process and visualize data was sent to the participants to make it easier for them to explore the portal further. A **follow-up webinar** will be organized where participants can ask further questions and where we like to collect feedback on the portal for further developments.
