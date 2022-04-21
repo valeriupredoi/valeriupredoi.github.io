@@ -679,4 +679,99 @@ ESGF as the global climate data infrastructure is supported by:
 
 <hr style="border:2px solid gray">
 
-*TODO Section Needs completion* - **listing all workshops and adding detailed info**
+### <a name="ESMValTool-5th-WS"></a>5th Technical ESMValTool Coding Workshop
+- When: **Oct 14, 2019 08:00 AM to Oct 17, 2019 05:00 PM (Europe/Vienna / UTC200)**
+- Where: **Deutsches Zentrum für Luft- und Raumfahrt (DLR), Oberpfaffenhofen, Germany**
+
+The 5th Technical ESMValTool Coding Workshop took place at DLR Oberpfaffenhofen (Germany) from 14-17 October 2019 with 20 participants from U Bremen, NLeSC, MPI Jena, U Hamburg, BSC, LMU, U Reading, IPCC WG1 TSU, SMHI, and DLR.
+
+The main goal of the workshop was to advance preparation of the upcoming v2.0 release of the software.
+
+Specifically, the workshop included the following topics:
+- Getting diagnostic branches ready for merging
+- Handling of open pull requests (ESMValCore, ESMValTool)
+- Handling of different vertical coordinates in CMIP6 (hybrid level)
+- CMORization of observational data (e.g. unify ERA5 cmorizers)
+- Naming convention of CMIP3 data
+- Complete documentation
+- Identify and fill existing gaps
+- Sort (by title) and group (by theme) scientific documentation of diagnostics
+- Merging strategy for the “EMAC quicklook” branch (import capability of native EMAC output and run-time monitoring features)
+- Complete set of fix files for CMIP6 models
+
+In addition, a [draft roadmap for the ESMValTool development](https://www.esmvaltool.org/roadmap.html) has been created and added to the ESMValTool website to make the ongoing development activities more visible and transparent.
+
+The workshop was funded by the EU Horizon 2020 research and innovation programme under the grant agreement No 824084 (IS-ENES3 project).
+
+ESMValTool Development Team • [esmvaltool.org](https://www.esmvaltool.org/)
+
+![5thESMValTool](../images/
+
+**You can find the summary report of the workshop [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Summary_ESMValTool_Workshop_Oct_2019.pdf)**
+
+<hr style="border:2px solid gray">
+
+### <a name="Sea-ice-WS"></a>Workshop "Defining a cutting-edge future for sea ice modelling”
+- When: **Sep 24, 2019 09:00 AM to Sep 26, 2019 05:00 PM (UTC / UTC0)**
+- Where: **Laugarvatn, Iceland**
+
+![SeaIceGroupPicture](../images/Group_Photo_Sea_Ice_Modelling_WS_Laugarvatn.jpg)
+
+The IS-ENES3 workshop “Defining a cutting-edge future for sea ice modelling”, organized by Met Office, CNRS, and DOE, in conjunction with the NEMO Sea Ice Working Group and the CICE Consortium, will take place from the 24th to 26th of September 2019 in Laugarvatn, Iceland.
+
+This workshop proposes to discuss the future evolution and development of sea ice models.
+
+The majority of present-day sea ice models are based upon the continuum model approach that was conceived in the 1970s, and has been successfully used to simulate sea ice within most IPCC-class climate models and short-range forecasting systems since then.
+With the progressive increase in model resolution, the most advanced applications of sea ice models now run at up to 100 times finer resolution than the target applications these models were originally designed for. High-resolution applications not only question the underlying physical assumptions but also increasingly push the scaling limits of modern massively-parallel supercomputing architectures. In addition, modern forecast applications are increasingly seeking to resolve more detailed features of the sea ice scape — such as the location of the sea ice edge, individual floes, leads or ridges, fast ice — poorly resolved by current models, which may prove overly simple for such an endeavour.
+In light of these present, and future, demands of climate and forecasting systems, we believe that the existing approach to sea ice modelling requires a fresh look.
+
+The workshop will thus bring together representation from across the international sea ice modelling community to explore how our models can match the various needs of the research, climate modelling and operational communities. The questions addressed will be the following:
+
+**Theme 1: Scientific and technical validity/limitations of current models**
+1. How relevant are the current continuum model formulations for simulating sea ice in the context of contemporary applications, given the trend towards higher horizontal resolution, the increasingly diverse applications for which sea ice models are employed today, and the warming-related changes in sea ice behaviour?
+2. What plausible and useful alternatives could — or should — be adopted instead of the widely used continuum model approach?
+3. What opportunities and constraints do the next generation of supercomputers provide for sea ice modelling?
+
+**Theme 2: Physical processes and complexity: bridging the gap between weather and climate requirements**
+1. What level of sea ice model complexity is required for climate modelling?
+2. Are there any important interactions between sea ice and the rest of the Earth system that are missing from the current models? How should sea ice be coupled with the other components of the climate system?
+3. What are the essential physical processes that need to be included for high-resolution sea ice forecasting and reanalysis systems?
+4. Are we able to satisfy the potentially conflicting requirements for climate and operational forecasting in a coherent sea ice modelling system?
+
+<hr style="border:2px solid gray">
+
+### <a name="C41-1st"></a>Climate4impact 1st Coding Sprint
+- When: **Jun 17, 2019 01:30 PM to Jun 21, 2019 01:00 PM (Europe/Amsterdam / UTC200)**
+- Where: **KNMI, De Bilt, Netherlands**
+
+An IS-ENES3 technical meeting will take place from June 18th to June 21st, 2019, dedicated to the development of [the Climate4impact portal (C4I)](https://climate4impact.eu/impactportal/general/index.jsp).
+
+It will be preceded by a collaborative [DARE](http://project-dare.eu/)/IS-ENES3 meeting on June 17th. It will be hosted at KNMI, De Bilt, Netherlands.
+
+The main objectives of these two complementary meetings are to enable partners, involved in the development of the ENES Climate Data Infrastructure and especially on climate4impact, to work together on specific items, with high collaboration and dedicated full time.
+
+It will consist of brainstorming sessions, followed by coding and developments, and a summary of achievements. The brainstorming will be an opportunity to discuss the overall architecture, identifying parts where there is a need of developments and decisions. The actual coding and development sessions will happen in focused groups on identified specific points in the brainstorming session. The summary will be the opportunity to discuss problems and bottlenecks encountered.
+
+The meeting will focus on C4I related work and tasks, but not only as it is also the opportunity to develop other parts of the ENES infrastructure that C4I will use. The evaluation of the DARE Platform, made by C4I and people developing solutions for workflows and data processing of climate data, will also act as a dissemination event as this platform can be used within the ENES CDI.
+
+<hr style="border:2px solid gray">
+
+### <a name="ESMValTool-4th"></a>4th Technical ESMValTool Coding Workshop
+- When: **Jun 03, 2019 09:00 AM to Jun 06, 2019 10:00 AM (Europe/Vienna / UTC200)**
+- Where: **DLR Oberpfaffenhofen (Germany)**
+
+The 4th Technical ESMValTool coding workshop took place at DLR Oberpfaffenhofen (Germany) from 3rd to 6th June 2019 with 24 participants.
+
+The two main goals of the workshop have been the preparation of the v2.0 beta release and the finalization of the input for the three planned publications on the new ESMValTool version. 
+
+**Find the summary of the 4th Technical ESMValTool Coding Workshop [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/4thTechnicalESMValToolWorkshop_190603.pdf).**
+
+<hr style="border:2px solid gray">
+
+### <a name="ESMValTool-3th"></a>3rd Technical ESMValTool Coding Workshop
+- When: **Feb 06, 2019 09:00 AM to Feb 08, 2019 10:00 AM (Europe/Vienna / UTC100)**
+- Where: **DLR Oberpfaffenhofen (Germany)**
+
+The workshop was organized at DLR Oberpfaffenhofen (Germany), from the 6th to 8th of February in order to address **several high priority issues in the ESMValTool v2, to set the basis for the next release and to prepare for the upcoming hot phase of CMIP6**, with most modeling groups submitting their data. 
+
+**Find the summary of the 3rd ESMValTool Coding Workshop [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ESMValTool_Workshop_Summary_201902.pdf).**
