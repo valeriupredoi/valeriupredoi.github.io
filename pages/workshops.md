@@ -51,8 +51,10 @@ header:
 #### [2nd WP10 Coding Sprint Workshop](https://valeriupredoi.github.io/workshops-detailed#2ndWP10Sprint)
 #### [IS-ENES3 and ESGF Virtual Workshop on Compute and Analytics](https://valeriupredoi.github.io/workshops-detailed#compute-analytics)
 #### [ESGF Future Architecture Workshop](https://valeriupredoi.github.io/workshops-detailed#ESGF-WS)
-
+#### [5th Technical ESMValTool Coding Workshop](https://valeriupredoi.github.io/workshops-detailed#ESMValTool-5th-WS)
+#### [Workshop "Defining a cutting-edge future for sea ice modelling”](https://valeriupredoi.github.io/workshops-detailed#Sea-ice-WS)
+#### [Climate4impact 1st Coding Sprint](https://valeriupredoi.github.io/workshops-detailed#C41-1st)
+#### [4th Technical ESMValTool Coding Workshop](https://valeriupredoi.github.io/workshops-detailed#ESMValTool-4th)
+#### [3rd Technical ESMValTool Coding Workshop](https://valeriupredoi.github.io/workshops-detailed#ESMValTool-3th)
 
 <hr style="border:2px solid gray">
-
-*TODO Section Needs completion* - **listing all workshops and adding detailed info**
