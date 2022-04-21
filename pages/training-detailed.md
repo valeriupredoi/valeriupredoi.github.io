@@ -177,6 +177,31 @@ This training is co-organized jointly by the H2020 IS-ENES3 and EOSC-hub project
 ### <a name="autumn-school"></a>First IS-ENES3 virtual Autumn School on Climate data use for impact assessments
 - duration: **Nov 04, 2020 09:00 AM to Dec 10, 2020 09:00 AM (Europe/Vienna / UTC100)**
 
+**Aim ?** The aim of the School was to help researchers make better use of available climate data and knowledge, in order to produce higher quality research outputs and services. This, in turn, will help to combat and adapt to climate change. Other aims were to develop a network of researchers who can turn to each other in the future for advice and cooperation.
+**When ?** The school took place in the period from Nov. 4th to Dec. 11th, 2020.
+
+**The recordings of the presentations can be found on the [IS-ENES3 YouTube channel](https://www.youtube.com/watch?v=_42ltTQzY30&list=PLFvev1W5vG7NDEZhxObXDd1Bc5rnBpYrk)!**
+
+The total length of the Autumn School is six weeks. **In the first three weeks, 2-3 hour virtual meetings will be held on Wednesday and Friday mornings.** Interactive lectures on climate models, data, impact modelling and climate services are provided. Participants can bring in their own case study and will work on these in **groups of 2-3 persons during the last three weeks.** During these weeks, teachers from IS-ENES will be available for questions and help.
+
+**Week 1: Climate data and climate models** |
+Webinar 1 Wednesday morning 4th of November
+:--------------:|:------------:
+10 min | Introduction to the course: aim, learning objectives, set-up
+20 min | Interactive session (wrap up of the preparation material):
+What different sources of climate data are there?
+What are the main advantages and disadvantages of the various data sources
+What are the main uncertainties in climate data?
+What methods exist to deal with these uncertainties?
+(Those with little background knowledge on climate data are asked to follow some of the lessens provided by C3S User Learning Service as preparation)
+60 min | Presentations:
+Sylvie Joussaume: Climate models and the international landscape of climate research and modelling and current developments
+Klaus Zimmerman: Climate model evaluation and the ESMValTool
+30 min | Further questions and discussion on how to use the presented information for climate impact studies (questions can also be posed during the presentations)
+Webinar 2 Friday morning 6th of November
+
+
+
 <hr style="border:2px solid gray">
 
 *TODO Section Needs completion* - **all the other past trainings need to be listed here**
