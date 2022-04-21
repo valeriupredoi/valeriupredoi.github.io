@@ -193,7 +193,7 @@ The total length of the Autumn School is six weeks. **In the first three weeks, 
 
 **Week 1: Climate data and climate models** |
 
-Webinar 1 Wednesday morning 4th of November
+Webinar 1 Wednesday morning 4th of November |
 :--------------:|:------------:
 10 min | Introduction to the course: aim, learning objectives, set-up
 20 min | Interactive session (wrap up of the preparation material):
@@ -206,7 +206,73 @@ What methods exist to deal with these uncertainties?
 Sylvie Joussaume: Climate models and the international landscape of climate research and modelling and current developments
 Klaus Zimmerman: Climate model evaluation and the ESMValTool
 30 min | Further questions and discussion on how to use the presented information for climate impact studies (questions can also be posed during the presentations)
-Webinar 2 Friday morning 6th of November
+
+Webinar 2 Friday morning 6th of November |
+:--------------:|:------------:
+20 min | Questions related to the information presented in Webinar 1
+70 min | Presentations
+Tomas Halenka: Downscaling techniques and regional modelling, and bias-correction
+Eric Guilyardi: Standards for climate data, CMIP experiments
+Vladimir Djurdjevic: Climate indices and standards, uncertainties/ensembles, challenges in use of climate data
+30 min | Further questions and discussion on how to use the presented information for climate impact studies.
+Wrap-up: what do the participants consider the most important information/messages for their work, and what information is missing?
+
+**Week 2: Climate impacts and climate services** |
+
+Webinar 3 Wednesday morning 11th November |
+:--------------:|:------------:
+20 min | Interactive session (wrap up of the preparation material from C3S ULS):
+- In what way does climate/weather impact the sectors treated in this climate impact school?
+- What are the main uncertainties in impact modelling in this sector and how do people deal with it?
+(Those with little background knowledge on climate impacts in various sectors are asked to follow some of the lessens provided by C3S User Learning Service as preparation)
+70 min | Presentations
+**Rutger Dankers**: Approaches used in impact modelling and examples of impact studies for water
+**Vladimir Djurdjevic**: Impact modelling and examples: agriculture/forestry
+30 min | Further questions and discussion how to use the presented information for climate impact studies.
+
+Webinar 4 Friday 13th November |
+:--------------:|:------------:
+15 min | Interactive session:
+- What are 'climate services' according to the participants?
+- What climate services do they know, use and/or produce?
+- What climate services do they require for their work?
+75 min | Presentations:
+- Rutger Dankers: Climate services (types, uncertainties, examples, etc.)
+- Christian Pagé: Landscape of portals, tools with climate data and other data: ESGF, Copernicus, etc.
+30 min | Further questions and discussion on how to use the presented information for climate impact studies.
+Wrap-up: what do the participants consider the most important information/messages for their work,and what information is missing?
+
+**Week 3: Setting up climate impact studies and access to climate data through the Climate4Impact portal** |
+
+Webinar 5 Wednesday morning 18th November |
+:--------------:|:------------:
+15 min | Judith Klostermann: Aim of the case studies, set-up of the work, forming small groups.
+45 min | Presentation
+Janette Bessembinder/Judith Klostermann: Introduction to the steps required for case studies (mainly impact analysis, but also some attention for adaptation) and problems and challenges in inter/multi/transdisciplinary work.
+Selection of case studies. Case studies can be impact studies or development of a climate service.
+60 min | Short presentation of the research question of each group.
+Interactive session: in general we discuss what the participants should think of (e.g. how will the results of the case study be used, who are the stakeholders, context of the question, what climate data are needed, time horizon, resolution, dealing with uncertainties), use of google docs.
+
+Webinar 6 Friday morning 20th November |
+:--------------:|:------------:
+30 min | Interactive session on what was treated in webinar 5. Could participants answer most of the questions for their case study? What was difficult?
+60 min | Presentation
+- Christian Pagé: Introduction to the Climate4Impact portal and some examples on possible analyses (current version of the portal)
+- Alessandro Spinuso: Introduction to the new version of the new Climate4Impact portal (under development)
+10:30-11:00 | Further questions and discussion on how to use the presented information for climate impact studies.
+
+**Week 4-5: Work on case studies** |
+:--------------:|:------------:
+Wednesday or Friday morning | Session to answer questions of participants on their case study, how to find, select and process climate data, how to use climate data in an impact study, how to deal with uncertainties.
+
+**Week 6: Work on case studies** |
+:--------------:|:------------:
+Wednesday morning | Session to answer questions of participants on how to process climate data, how to use climate data in impact studies, how to deal with uncertainties, how to visualize and communicate results.
+
+Webinar 7 Friday morning 10th December |
+:--------------:|:------------:
+90 min | Presenting and discussing case studies of each group
+30 min | Evaluate the course
 
 **How to apply**
 
