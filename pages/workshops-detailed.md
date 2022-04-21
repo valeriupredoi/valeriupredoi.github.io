@@ -715,7 +715,7 @@ ESMValTool Development Team • [esmvaltool.org](https://www.esmvaltool.org/)
 - When: **Sep 24, 2019 09:00 AM to Sep 26, 2019 05:00 PM (UTC / UTC0)**
 - Where: **Laugarvatn, Iceland**
 
-![SeaIceGroupPicture](../images/Group_Photo_Sea_Ice_Modelling_WS_Laugarvatn.jpg)
+![SeaIceGroupPicture](../images/Group_Photo_Sea_Ice_Modelling_WS_Laugarvatn_small.jpg)
 
 The IS-ENES3 workshop “Defining a cutting-edge future for sea ice modelling”, organized by Met Office, CNRS, and DOE, in conjunction with the NEMO Sea Ice Working Group and the CICE Consortium, will take place from the 24th to 26th of September 2019 in Laugarvatn, Iceland.
 
