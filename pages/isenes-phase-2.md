@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: Archive - IS-ENES Phase 2
 # subheadline: ISENES3 Key Workshops
 # teaser: "ISENES3 workshops are wonderous."
@@ -20,7 +20,21 @@ header:
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
     image_fullwidth: "widget-1-302x182.jpg"
+widget1:
+  title: "IS-ENES Phase 2: Project"
+  url: 'https://valeriupredoi.github.io/isenes-phase-2-project/'
+  image: widget-1-302x182.jpg
+  text: 'Phase 2 Project.'
+widget2:
+  title: "IS-ENES Phase 2: Events"
+  url: 'https://valeriupredoi.github.io/isenes-phase-2-events/'
+  image: widget-1-302x182.jpg
+  text: 'Phase 2 Events.'
+widget3:
+  title: "IS-ENES Phase 2: Documents"
+  url: 'https://valeriupredoi.github.io/isenes-phase-2-documents/'
+  image: widget-1-302x182.jpg
+  text: 'Phase 2 Documents.'
 
 ---
 
-Phase 2
