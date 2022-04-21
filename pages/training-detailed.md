@@ -200,6 +200,31 @@ Klaus Zimmerman: Climate model evaluation and the ESMValTool
 30 min | Further questions and discussion on how to use the presented information for climate impact studies (questions can also be posed during the presentations)
 Webinar 2 Friday morning 6th of November
 
+**How to apply**
+
+To apply, you need to send a motivation letter and a CV explaining your relevant background at the following address judith.klostermann[a]wur.nl with the mail object "IS-ENES3 Autumn school application". Your motivation letter must include the following information: name, email, telephone, country, and you must indicate if you consider yourself a climate scientist, a VIA researcher (Vulnerability, Impact and Adaptation) or a climate services provider. 
+
+**The application needs to be submitted at the latest on October 15th, 2020.**
+
+The number of participants in the Autumn School is limited to 20 persons; with this compact group we want to create a committed ‘community’ that will help each other in the course of the six weeks of this School. This way we hope to approach the goals of a physical Autumn School of one week; which is now impossible due to Covid-19.
+
+Applicants need a finished **MSc in one of the natural sciences** in order to guarantee fruitful participation. **The working language will be English** and participants need sufficient skill in this language. If the number of applications exceeds the maximum number of participants, participants will be selected according to the following criteria:
+
+- The aim is a diversity of participants from climate science, impact research and climate services; a balanced mix of participants will be selected.
+- The IS-ENES3 project aims to involve more researchers from Eastern and Southern Europe, so applicants from these regions will be prioritized.
+ 
+A selection committee of three course organizers will select the participants and will let every applicant know the outcome by October 23rd, 2020. Applicants can be placed on a waiting list in case selected participants cancel their participation in the last minute. Applicants who are not selected, but who do have the required qualifications and belong to our stakeholder groups can indicate whether they want to apply  for the next schools in spring and summer of 2021.
+
+By applying, you agree that the IS-ENES3 project and its selection committee will collect your personal data according to the IS-ENES3 data privacy policy: https://is.enes.org/project/privacy-policy. Your data will only be used in the purpose of the organisation of the IS-ENES3 Autumn school. If you want to modify or erase your personal data, please send an email to judith.klostermann[a]wur.nl. 
+
+**Summary of the IS-ENES3 project: Infrastructure for the European Network for Earth System Modelling (2019 - 2022)**
+IS-ENES3, a Horizon 2020 project, is the third phase of the distributed e-infrastructure of the European Network for Earth System Modelling (ENES). The project fosters collaboration between 22 European climate research institutions. The community aims to develop a better understanding of past, present and future climate. IS-ENES3 projects future variability and changes of the climate through the development and sharing of model components, modelling tools and data infrastructure. The IS-ENES3 three main objectives are to:
+- Foster collaboration among the modelling groups to speed-up the development and use of models of the complex Earth’s climate system, generally named “Earth System models” (ESMs);
+- Deliver common strategies for the research infrastructure on the global climate;
+- Disseminate model data to researchers worldwide.
+
+**Biographies of the teachers**
+
 
 
 <hr style="border:2px solid gray">
