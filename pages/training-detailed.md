@@ -184,6 +184,8 @@ This training is co-organized jointly by the H2020 IS-ENES3 and EOSC-hub project
 ### <a name="autumn-school"></a>First IS-ENES3 virtual Autumn School on Climate data use for impact assessments
 - When: **Nov 04, 2020 09:00 AM to Dec 10, 2020 09:00 AM (Europe/Vienna / UTC100)**
 
+![AutumnSchool](../images/Autumn_School_banner_PNG.png)
+
 **Aim ?** The aim of the School was to help researchers make better use of available climate data and knowledge, in order to produce higher quality research outputs and services. This, in turn, will help to combat and adapt to climate change. Other aims were to develop a network of researchers who can turn to each other in the future for advice and cooperation.
 **When ?** The school took place in the period from Nov. 4th to Dec. 11th, 2020.
 
@@ -193,83 +195,91 @@ The total length of the Autumn School is six weeks. **In the first three weeks, 
 
 **Week 1: Climate data and climate models** |
 
-Webinar 1 Wednesday morning 4th of November |
-:--------------:|:------------:
-10 min | Introduction to the course: aim, learning objectives, set-up
+*Webinar 1 Wednesday morning 4th of November*
+
+:-----:|:------------:
+10 min | [Introduction to the course: aim, learning objectives, set-up](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS1_IS-ENES3_Autumnschool_intro.pdf) |
 20 min | Interactive session (wrap up of the preparation material):
 What different sources of climate data are there?
 What are the main advantages and disadvantages of the various data sources
 What are the main uncertainties in climate data?
 What methods exist to deal with these uncertainties?
-(Those with little background knowledge on climate data are asked to follow some of the lessens provided by C3S User Learning Service as preparation)
+(Those with little background knowledge on climate data are asked to follow some of the lessens provided by C3S User Learning Service as preparation) |
 60 min | Presentations:
-Sylvie Joussaume: Climate models and the international landscape of climate research and modelling and current developments
-Klaus Zimmerman: Climate model evaluation and the ESMValTool
-30 min | Further questions and discussion on how to use the presented information for climate impact studies (questions can also be posed during the presentations)
+**Sylvie Joussaume**: [Climate models and the international landscape of climate research and modelling and current developments](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS2_201104_IS-ENES3_school_Joussaume_VF.pdf)
+**Klaus Zimmerman**: [Climate model evaluation and the ESMValTool](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS3_202010_is-enes3_esm-evaluation.pdf) |
+30 min | Further questions and discussion on how to use the presented information for climate impact studies (questions can also be posed during the presentations) |
 
-Webinar 2 Friday morning 6th of November |
-:--------------:|:------------:
-20 min | Questions related to the information presented in Webinar 1
+*Webinar 2 Friday morning 6th of November*
+
+:-----:|:------------:
+20 min | Questions related to the information presented in Webinar 1 |
 70 min | Presentations
-Tomas Halenka: Downscaling techniques and regional modelling, and bias-correction
-Eric Guilyardi: Standards for climate data, CMIP experiments
-Vladimir Djurdjevic: Climate indices and standards, uncertainties/ensembles, challenges in use of climate data
+**Tomas Halenka**: [Downscaling techniques and regional modelling, and bias-correction](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS4_IS-ENES3_Autumnschool_Downscaling_fin.pdf)
+**Eric Guilyardi**: [Standards for climate data, CMIP experiments](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS5_standards_Eric_G.pdf)
+**Vladimir Djurdjevic**: [Climate indices and standards, uncertainties/ensembles, challenges in use of climate data](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS6_Vladimir_6_11_2020_Webinar_2.pdf) |
 30 min | Further questions and discussion on how to use the presented information for climate impact studies.
-Wrap-up: what do the participants consider the most important information/messages for their work, and what information is missing?
+Wrap-up: what do the participants consider the most important information/messages for their work, and what information is missing? |
 
 **Week 2: Climate impacts and climate services** |
 
-Webinar 3 Wednesday morning 11th November |
-:--------------:|:------------:
+*Webinar 3 Wednesday morning 11th November*
+
+:-----:|:------------:
 20 min | Interactive session (wrap up of the preparation material from C3S ULS):
 - In what way does climate/weather impact the sectors treated in this climate impact school?
 - What are the main uncertainties in impact modelling in this sector and how do people deal with it?
-(Those with little background knowledge on climate impacts in various sectors are asked to follow some of the lessens provided by C3S User Learning Service as preparation)
+(Those with little background knowledge on climate impacts in various sectors are asked to follow some of the lessens provided by C3S User Learning Service as preparation) |
 70 min | Presentations
-**Rutger Dankers**: Approaches used in impact modelling and examples of impact studies for water
-**Vladimir Djurdjevic**: Impact modelling and examples: agriculture/forestry
-30 min | Further questions and discussion how to use the presented information for climate impact studies.
+**Rutger Dankers**: [Approaches used in impact modelling and examples of impact studies for water](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS7_Impact_Modelling_11Nov2020.pdf)
+**Vladimir Djurdjevic**: [Impact modelling and examples: agriculture/forestry](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS8_ISENES-ImpactSchool-Djurdjevic_11_11_2020.pdf) |
+30 min | Further questions and discussion how to use the presented information for climate impact studies. |
 
-Webinar 4 Friday 13th November |
-:--------------:|:------------:
+*Webinar 4 Friday 13th November*
+
+:----:|:------------:
 15 min | Interactive session:
 - What are 'climate services' according to the participants?
 - What climate services do they know, use and/or produce?
-- What climate services do they require for their work?
+- What climate services do they require for their work? |
 75 min | Presentations:
-- Rutger Dankers: Climate services (types, uncertainties, examples, etc.)
-- Christian Pagé: Landscape of portals, tools with climate data and other data: ESGF, Copernicus, etc.
-30 min | Further questions and discussion on how to use the presented information for climate impact studies.
-Wrap-up: what do the participants consider the most important information/messages for their work,and what information is missing?
+- **Rutger Dankers**: [Climate services (types, uncertainties, examples, etc.)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS9_Climate_Services_13Nov2020.pdf)
+- **Christian Pagé**: [Landscape of portals, tools with climate data and other data: ESGF, Copernicus, etc.](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS10_accessing_climate_data_final.pdf) |
+30 min | Further questions and discussion on how to use the presented information for climate impact studies. 
+Wrap-up: what do the participants consider the most important information/messages for their work,and what information is missing? |
 
 **Week 3: Setting up climate impact studies and access to climate data through the Climate4Impact portal** |
 
-Webinar 5 Wednesday morning 18th November |
-:--------------:|:------------:
-15 min | Judith Klostermann: Aim of the case studies, set-up of the work, forming small groups.
-45 min | Presentation
-Janette Bessembinder/Judith Klostermann: Introduction to the steps required for case studies (mainly impact analysis, but also some attention for adaptation) and problems and challenges in inter/multi/transdisciplinary work.
-Selection of case studies. Case studies can be impact studies or development of a climate service.
-60 min | Short presentation of the research question of each group.
-Interactive session: in general we discuss what the participants should think of (e.g. how will the results of the case study be used, who are the stakeholders, context of the question, what climate data are needed, time horizon, resolution, dealing with uncertainties), use of google docs.
+*Webinar 5 Wednesday morning 18th November*
 
-Webinar 6 Friday morning 20th November |
+:-----:|:------------:
+15 min | Judith Klostermann: Aim of the case studies, set-up of the work, forming small groups. |
+45 min | Presentation |
+**Janette Bessembinder/Judith Klostermann**: [Introduction to the steps required for case studies](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS11_IS-ENES3_Autumnschool_case_study_setup.pdf) (mainly impact analysis, but also some attention for adaptation) and problems and challenges in inter/multi/transdisciplinary work.
+Selection of case studies. Case studies can be impact studies or development of a climate service. |
+60 min | Short presentation of the research question of each group.
+Interactive session: in general we discuss what the participants should think of (e.g. how will the results of the case study be used, who are the stakeholders, context of the question, what climate data are needed, time horizon, resolution, dealing with uncertainties), use of google docs. |
+
+*Webinar 6 Friday morning 20th November*
+
 :--------------:|:------------:
-30 min | Interactive session on what was treated in webinar 5. Could participants answer most of the questions for their case study? What was difficult?
+30 min | Interactive session on what was treated in webinar 5. Could participants answer most of the questions for their case study? What was difficult? |
 60 min | Presentation
-- Christian Pagé: Introduction to the Climate4Impact portal and some examples on possible analyses (current version of the portal)
-- Alessandro Spinuso: Introduction to the new version of the new Climate4Impact portal (under development)
-10:30-11:00 | Further questions and discussion on how to use the presented information for climate impact studies.
+- **Christian Pagé**: [Introduction to the Climate4Impact portal and some examples on possible analyses (current version of the portal)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS12_icclim_c4i.pdf)
+- **Alessandro Spinuso**: [Introduction to the new version of the new Climate4Impact portal (under development)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS12_icclim_c4i.pdf) |
+10:30-11:00 | Further questions and discussion on how to use the presented information for climate impact studies. |
 
 **Week 4-5: Work on case studies** |
+
 :--------------:|:------------:
 Wednesday or Friday morning | Session to answer questions of participants on their case study, how to find, select and process climate data, how to use climate data in an impact study, how to deal with uncertainties.
 
 **Week 6: Work on case studies** |
+
 :--------------:|:------------:
 Wednesday morning | Session to answer questions of participants on how to process climate data, how to use climate data in impact studies, how to deal with uncertainties, how to visualize and communicate results.
 
-Webinar 7 Friday morning 10th December |
+*Webinar 7 Friday morning 10th December*
 :--------------:|:------------:
 90 min | Presenting and discussing case studies of each group
 30 min | Evaluate the course
