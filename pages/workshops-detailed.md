@@ -373,7 +373,7 @@ Specifically, the workshop included the following topics and presentations:
 
 ![egu2021](../images/egu-2022.png)
 
-**Find all the presentations of the EGU2021 [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/presentations-posters.md)**
+**Find all the presentations of the EGU2021 [here](https://valeriupredoi.github.io/presentations-posters/#egu2021)**
 
 <hr style="border:2px solid gray">
 
@@ -525,7 +525,7 @@ Because of the COVID-19 pandemic situation, the meeting will be virtual from the
 
 ![egu2021](../images/egu-2022.png)
 
-**Find all the presentations of the EGU2020 [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/presentations-posters.md)**
+**Find all the presentations of the EGU2020 [here](https://valeriupredoi.github.io/presentations-posters/#egu2020)**
 
 <hr style="border:2px solid gray">
 
