@@ -19,21 +19,21 @@ header:
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    image_fullwidth: "widget-1-302x182.jpg"
+    image_fullwidth: "Banner_website_IS-ENES3.png"
 widget1:
   title: "Access Calls"
   url: 'https://valeriupredoi.github.io/access-calls/'
-  image: widget-1-302x182.jpg
+  image: Banner_website_IS-ENES3.png
   # text: 'Past and present access calls.'
 widget2:
   title: "Training"
   url: 'https://valeriupredoi.github.io/training/'
-  image: widget-1-302x182.jpg
+  image: Banner_website_IS-ENES3.png
   # text: 'Past and present training sessions.'
 widget3:
   title: "Workshops"
   url: 'https://valeriupredoi.github.io/workshops/'
-  image: widget-1-302x182.jpg
+  image: Banner_website_IS-ENES3.png
   # text: 'Past and present workshops.'
 
 ---

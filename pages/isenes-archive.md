@@ -18,16 +18,16 @@ header:
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    image_fullwidth: "widget-1-302x182.jpg"
+    image_fullwidth: "Banner_website_IS-ENES3.png"
 widget1:
   title: "IS-ENES Phase 1"
   url: 'https://valeriupredoi.github.io/isenes-phase-1/'
-  image: widget-1-302x182.jpg
+  image: Banner_website_IS-ENES3.png
   text: 'Pahase 1 of the project.'
 widget2:
   title: "IS-ENES Phase 2"
   url: 'https://valeriupredoi.github.io/isenes-phase-2/'
-  image: widget-1-302x182.jpg
+  image: Banner_website_IS-ENES3.png
   text: 'Phase 2 of the project.'
 
 ---
