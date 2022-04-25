@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page-fullwidth-6widgets
 title: Archive - IS-ENES Phase 1
 # subheadline: ISENES3 Key Workshops
 # teaser: "ISENES3 workshops are wonderous."
@@ -21,20 +21,30 @@ header:
     #caption_url: https://unsplash.com/
     image_fullwidth: "widget-1-302x182.jpg"
 widget1:
-  title: "IS-ENES Phase 1: Project"
+  title: "IS-ENES Phase 1: About"
   url: 'https://valeriupredoi.github.io/isenes-phase-1-project/'
   image: widget-1-302x182.jpg
-  text: 'Phase 1 Project.'
+  text: 'Phase 1 About.'
 widget2:
-  title: "IS-ENES Phase 1: Events"
-  url: 'https://valeriupredoi.github.io/isenes-phase-1-events/'
+  title: "IS-ENES Phase 1: Deliverables and Milestones"
+  url: 'https://valeriupredoi.github.io/isenes-phase-1-deliverables/'
   image: widget-1-302x182.jpg
-  text: 'Phase 1 Events.'
+  text: 'Phase 1 Deliverables and Milestones.'
 widget3:
-  title: "IS-ENES Phase 1: Documents"
+  title: "IS-ENES Phase 1: Publications"
   url: 'https://valeriupredoi.github.io/isenes-phase-1-documents/'
   image: widget-1-302x182.jpg
-  text: 'Phase 1 Documents.'
+  text: 'Phase 1 Publications.'
+widget4:
+  title: "IS-ENES Phase 1: Final Report"
+  url: 'https://valeriupredoi.github.io/isenes-phase-1-final-report/'
+  image: widget-1-302x182.jpg
+  text: 'Phase 1 Final Report.'
+widget5:
+  title: "IS-ENES Phase 1: Strategy"
+  url: 'https://valeriupredoi.github.io/isenes-phase-1-strategy/'
+  image: widget-1-302x182.jpg
+  text: 'Phase 1 Strategy.'
 
 ---
 
