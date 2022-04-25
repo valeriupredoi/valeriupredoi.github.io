@@ -11,7 +11,7 @@ tags:
     - background color
     - header
 header:
-    title: ISENES3 Milestones
+    title: Milestones
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
