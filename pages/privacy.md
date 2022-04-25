@@ -15,7 +15,7 @@ tags:
 header:
     title: ISENES3 Privacy Policy
     # background-color: "#186F4D;"
-    image_fullwidth: "widget-1-302x182.jpg"
+    image_fullwidth: "Banner_website_IS-ENES3.png"
 
 ---
 
