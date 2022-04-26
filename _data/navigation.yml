@@ -29,10 +29,26 @@
 - title: "Services on Models&Tools"
   url: "/services-models-tools/"
   side: left
+  dropdown:
+  - title: "European Earth System Models"
+    url: "/smt-european-esms"
+  - title: "European Ocean Platform"
+    url: "/smt-european-ocean-platform"
+  - title: "Common Software Tools"
+    url: "/smt-common-software-tools"
 
 - title: "Services on Data&Metadata"
   url: "/services-data-metadata/"
   side: left
+  dropdown:
+  - title: "Which Model Data?"
+    url: "/sdm-which-model-data"
+  - title: "How to Access and Use Model Data?"
+    url: "/sdm-access-use-data"
+  - title: "How to Access Metadata?"
+    url: "/sdm-access-metadata"
+  - title: "How to Provide Data?"
+    url: "/sdm-how-to-provide-data"
 
 - title: "Dissemination"
   url: "/dissemination/"
