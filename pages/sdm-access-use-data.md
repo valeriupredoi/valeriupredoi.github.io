@@ -15,7 +15,7 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: How to Access and Use Model Data?
+    title: "How to <br> Access and Use <br> Model Data?"
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
