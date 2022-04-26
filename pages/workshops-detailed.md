@@ -24,7 +24,7 @@ header:
 ---
 
 ### <a name="bsc2022"></a>7th ENES HPC Workshop Barcelona 2022
-- open when: **Monady, 9 May 2022**
+- open when: **Monday, 9 May 2022**
 - duration: **May 09, 2022 09:00 AM to May 11, 2022 05:00 PM (Europe/Vienna / UTC200)**
 
 ![barcelonaHPC](../images/barcelona-2022.png)
