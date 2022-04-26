@@ -15,33 +15,33 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: IS-ENES Phase 1
+    title: "IS-ENES <br> Phase 1"
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
     image_fullwidth: "Banner_website_IS-ENES3.png"
 widget1:
-  title: "IS-ENES Phase 1: About"
+  title: "About"
   url: 'https://valeriupredoi.github.io/isenes-phase-1-project/'
   image: Banner_website_IS-ENES3.png
   text: 'Phase 1 About.'
 widget2:
-  title: "IS-ENES Phase 1: Deliverables and Milestones"
+  title: "Deliverables and Milestones"
   url: 'https://valeriupredoi.github.io/isenes-phase-1-deliverables/'
   image: Banner_website_IS-ENES3.png
   text: 'Phase 1 Deliverables and Milestones.'
 widget3:
-  title: "IS-ENES Phase 1: Publications"
+  title: "Publications"
   url: 'https://valeriupredoi.github.io/isenes-phase-1-documents/'
   image: Banner_website_IS-ENES3.png
   text: 'Phase 1 Publications.'
 widget4:
-  title: "IS-ENES Phase 1: Final Report"
+  title: "Final Report"
   url: 'https://valeriupredoi.github.io/isenes-phase-1-final-report/'
   image: Banner_website_IS-ENES3.png
   text: 'Phase 1 Final Report.'
 widget5:
-  title: "IS-ENES Phase 1: Strategy"
+  title: "Strategy"
   url: 'https://valeriupredoi.github.io/isenes-phase-1-strategy/'
   image: Banner_website_IS-ENES3.png
   text: 'Phase 1 Strategy.'
