@@ -28,7 +28,8 @@ header:
 
 ### <a name="cdo-detailed"></a>CDO: Climate Data Operators
 
-:----------: | :-------------:
+Summary Table |
+:-----------: | :-------------:
 **Name** | CDO
 **Contact** | [Ralf Müller](<ralf.mueller@dkrz.de>)
 **Lead** | [MPI-M (Germany)](https://mpimet.mpg.de/en/home.html) 
@@ -53,7 +54,8 @@ CDO compiles on any POSIX compatible OS with an ANSI C compiler ([detailed list]
 
 ### <a name="oasis-detailed"></a>OASIS: The OASIS coupler
 
-:----------: | :-------------:
+Summary Table |
+:-----------: | :-------------:
 **Name** | OASIS
 **Contact** | [Sophie Valcke](<valcke@cerfacs.fr>)
 **Lead** | [CERFACS (France)](https://cerfacs.fr/en/) 
@@ -84,7 +86,8 @@ The OASIS coupler is a software allowing synchronized exchanges of coupling info
 
 ### <a name="cylc-detailed"></a>Cylc: A Python based workflow engine
 
-:----------: | :-------------:
+Summary Table |
+:-----------: | :-------------:
 **Name** | Cylc
 **Contact** | [David Matthews (UK Met Office)](<david.matthews@metoffice.gouv.uk>)
 **Lead** | [NIWA (New Zealand)](https://niwa.co.nz/), [UKMO (UK)](https://www.metoffice.gov.uk/)
