@@ -1,11 +1,13 @@
 ---
+# change Empty Template and empty-template below
 layout: page
-title: Workshops
-# subheadline: ISENES3 Key Workshops
-# teaser: "ISENES3 workshops are wonderous."
+title: Empty Template
+# uncomment these if needed
+# subheadline: Empty Template
+# teaser: "Empty Template."
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/workshops/"
+permalink: "/empty-template/"
 categories:
     - design
 tags:
@@ -15,10 +17,11 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: ISENES3 Workshops
+    title: Empty Template
     background-color: "#186F4D;"
-    #caption: This is a caption for the header image with link
-    #caption_url: https://unsplash.com/
+    # uncomment if needed
+    # caption: This is a caption for the header image with link
+    # caption_url: https://unsplash.com/
     image_fullwidth: "Banner_website_IS-ENES3.png"
 
 ---
