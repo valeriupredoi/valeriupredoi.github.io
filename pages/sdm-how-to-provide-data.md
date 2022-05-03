@@ -23,3 +23,15 @@ header:
 
 ---
 
+The ENES infrastructure project (IS-ENES) provides to data producers and managers tools and information on the quality of the datasets hosted at the ESGF portals.
+
+### Data Ingestion
+Except replications, which are treated differently, these are the ESGF data ingestion steps.
+
+### Data Quality
+
+The Quality Assurance tool [QA-DKRZ](https://qa-dkrz.readthedocs.io/en/latest/) checks conformance of meta-data of climate simulations given in NetDCF format with CF Conventions, CORDEX, CMIP5 and 6 conventions and rules.
+
+### Data Citation
+
+The World Data Center for Climate WDCC offers the ENES community the assignment of a [DataCite DOI](https://datacite.org/) for model data citation to long-term archived data. DOI assignment is combined with further quality checks. Find specific information on the CORDEX Data Citation process.
