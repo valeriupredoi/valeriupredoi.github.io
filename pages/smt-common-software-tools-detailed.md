@@ -123,7 +123,8 @@ For further details please visit the [Cylc homepage](https://cylc.github.io/).
 
 ### <a name="xios-detailed"></a>XIOS: XML-IO-Server
 
-:----------: | :-------------:
+Summary Table |
+:-----------: | :-------------:
 **Name** | XIOS
 **Contact** | [Yann Meurdesoif](<yann.meurdesoif@cea.fr>)
 **Lead** | [IPSL (France)](https://www.ipsl.fr/en/home-en/), [CEA (France)](https://www.cea.fr/english/Pages/Welcome.aspx)
@@ -151,7 +152,8 @@ XIOS, or XML-IO-Server, is a library dedicated to I/O management in climate code
 
 ### <a name="esmvaltool-detailed"></a>ESMValTool: A community diagnostic and performance metrics tool for routine evaluation of Earth system models in CMIP
 
-:----------: | :-------------:
+Summary Table |
+:-----------: | :-------------:
 **Name** | ESMValTool
 **Contact** | [Help Desk](<esmvaltool@listserv.dfn.de>)
 **Lead** | [DLR (Germany)](https://www.dlr.de/EN/Home/home_node.html)
