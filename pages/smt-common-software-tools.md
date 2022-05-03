@@ -40,8 +40,8 @@ For details, please refers to the tools homepages.
 
 **Title** | **Description** | **Contact** | **Leading Institute**
 :-------: | : ------------: | :---------: | :------------------:
-CDO | Climate Data Operators | [Ralf Müller]<ralf.muller@dlr.de> | [MPI-M (Germany)](https://mpimet.mpg.de/en/home.html)
-Cylc | A Python based workflow engine | [David Matthews (UK Met Office)]<david.matthews@metoffice.gov.uk> | [NIWA (New Zealand)](https://niwa.co.nz/) - [UKMO (UK)](https://www.metoffice.gov.uk/)
-ESMValTool | A community diagnostic and performance metrics tool for routine evaluation of Earth system models in CMIP | [Help desk]<listserv.dfn.de> | [DLR (Germany)](https://www.dlr.de/EN/Home/home_node.html)
-OASIS | The OASIS coupler | [Sophie Valcke]<valcke@cerfacs.fr> | [CERFACS (France)](https://cerfacs.fr/en/)
-XIOS | XML-IO-Server | [Yann Meurdesoif]<yann.meuredesoif@cea.fr> | [IPSL (France)](https://www.ipsl.fr/en/home-en/) - [CEA (France)](https://www.cea.fr/english/Pages/Welcome.aspx)
+CDO | Climate Data Operators | [Ralf Müller](<ralf.muller@dlr.de>) | [MPI-M (Germany)](https://mpimet.mpg.de/en/home.html)
+Cylc | A Python based workflow engine | [David Matthews (UK Met Office)](<david.matthews@metoffice.gov.uk>) | [NIWA (New Zealand)](https://niwa.co.nz/) - [UKMO (UK)](https://www.metoffice.gov.uk/)
+ESMValTool | A community diagnostic and performance metrics tool for routine evaluation of Earth system models in CMIP | [Help desk](<listserv.dfn.de>) | [DLR (Germany)](https://www.dlr.de/EN/Home/home_node.html)
+OASIS | The OASIS coupler | [Sophie Valcke](<valcke@cerfacs.fr>) | [CERFACS (France)](https://cerfacs.fr/en/)
+XIOS | XML-IO-Server | [Yann Meurdesoif](<yann.meuredesoif@cea.fr>) | [IPSL (France)](https://www.ipsl.fr/en/home-en/) - [CEA (France)](https://www.cea.fr/english/Pages/Welcome.aspx)
