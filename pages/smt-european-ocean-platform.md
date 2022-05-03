@@ -25,7 +25,9 @@ header:
 
 ### NEMO: Modelling framework for oceanographic research, operational oceanography seasonal forecast and climate studies
 
+
 ![nemologo](../images/NEMO_logo_website.png)
+
 
 :----------: | :-------------:
 **Name** | NEMO
