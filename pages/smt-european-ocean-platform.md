@@ -28,30 +28,27 @@ header:
 ![nemologo](../images/.png)
 
 :----------: | :-------------:
-Name | NEMO
-Represented process | Ocean
-Contact | Claire Lévy
-Participants | 5 partners from 3 countries
-Homepage | www.nemo-ocean.eu
-Download | www.forge.ipsl.jussieu.fr
-User Guide | www.forge.ipsl.jussieu.fr
+**Name** | NEMO
+**Represented process** | Ocean
+**Contact** | Claire Lévy
+**Participants** | 5 partners from 3 countries
+**Homepage** | [www.nemo-ocean.eu](https://www.nemo-ocean.eu/)
+**Download** | [www.forge.ipsl.jussieu.fr](https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/NEMO/guide/html/install.html#download-the-nemo-source-code)
+**User Guide** | [www.forge.ipsl.jussieu.fr](https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/NEMO/guide/html/install.html#download-the-nemo-source-code)
 
-Contributing Institutes | [CMCC (Italy)](https://www.cmcc.it/)
-                        | [CNRS (France)](https://www.cnrs.fr/)
-                        | [MetOffice (UK)](https://www.metoffice.gov.uk/)
-                        | [Mercator-Ocan (France)](https://www.mercator-ocean.eu/en/)
-                        | [NERC (UK)](https://noc.ac.uk/)
-Earth system modelling tools used | [OASIS](https://oasis.cerfacs.fr/en/)
-                                  | [XIOS](http://forge.ipsl.jussieu.fr/ioserver/wiki)
-References | https://www.nemo-ocean.eu/bibliography/how-to-cite/
+**Contributing Institutes** | [CMCC (Italy)](https://www.cmcc.it/), [CNRS (France)](https://www.cnrs.fr/), [MetOffice (UK)](https://www.metoffice.gov.uk/), [Mercator-Ocan (France)](https://www.mercator-ocean.eu/en/), [NERC (UK)](https://noc.ac.uk/)
+**Earth system modelling tools used** | [OASIS](https://oasis.cerfacs.fr/en/), [XIOS](http://forge.ipsl.jussieu.fr/ioserver/wiki)
+**References** | [https://www.nemo-ocean.eu/bibliography/how-to-cite/](https://www.nemo-ocean.eu/bibliography/how-to-cite/)
 
-| **Support Services**
-NEMO is available as a free-licence software: the source code, the tools to use it, so as a fixed list of reference configurations (with their input and set up files) targetting the main NEMO capabilities, and an open number of test cases (for training and evaluation of some functionalities.
+### Support Services
+
+| NEMO is available as a free-licence software: the source code, the tools to use it, so as a fixed list of reference configurations (with their input and set up files) targetting the main NEMO capabilities, and an open number of test cases (for training and evaluation of some functionalities.
 
 These support services are provided with contributions from IS-ENES3 and ESiWACE2.|
 
-| **Model description**
-NEMO (Nucleus for European Modelling of the Ocean) is an ocean modelling framework which is composed of "engines" nested in an "environment". The "engines" provide numerical solutions of ocean, sea-ice, tracers and biochemistry equations and their related physics. The "environment" consists in [reference configurations](https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/NEMO/guide/html/cfgs.html), pre- and post-processing tools, interface to the other components of the Earth system, user interface, computer dependent functions and documentation of the system.
+### Model description
+
+| NEMO (Nucleus for European Modelling of the Ocean) is an ocean modelling framework which is composed of "engines" nested in an "environment". The "engines" provide numerical solutions of ocean, sea-ice, tracers and biochemistry equations and their related physics. The "environment" consists in [reference configurations](https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/NEMO/guide/html/cfgs.html), pre- and post-processing tools, interface to the other components of the Earth system, user interface, computer dependent functions and documentation of the system.
 
 NEMO allows several ocean related components of the Earth system to work together or separately (i.e "standalone mode"). It also allows a two-way nesting via the AGRIF software. It is interfaced with the other components of the Earth system (atmosphere, land surfaces, ...) via the OASIS coupler.
 
