@@ -44,7 +44,7 @@ header:
 
 | NEMO is available as a free-licence software: the source code, the tools to use it, so as a fixed list of reference configurations (with their input and set up files) targetting the main NEMO capabilities, and an open number of test cases (for training and evaluation of some functionalities.
 
-These support services are provided with contributions from IS-ENES3 and ESiWACE2.|
+These support services are provided with contributions from IS-ENES3 and ESiWACE2. |
 
 ### Model description
 
