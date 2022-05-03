@@ -23,3 +23,25 @@ header:
 
 ---
 
+**Short descriptions of a range of software tools**
+
+Here you find an overview of widely used software tools developed and/or maintained in the frame of the IS-ENES and IS-ENES2 projects. Some additional support services are offered by the Centre of Excellence [ESiWACE](https://www.esiwace.eu/) and explicitely indicated.
+
+By clicking the Title you will find a short description of the corresponding tool with its essential details, the **support service** provided and links to the homepages.
+
+**SUPPORT SERVICES:**
+- Services for **CDO** include running CDO **helpdesk** and **webserver**, and maintaining up-to-date **documentation** and **FAQ** on [CDO home page](https://code.mpimet.mpg.de/projects/cdo/wiki).
+- Services for **OASIS** include easy access to **OASIS** software sources and **personal help** to efficiently use the software. The [OASIS homepage](https://oasis.cerfacs.fr/en/) also offers documentation, tutorial, FAQs and user forums.
+- Services for **Cylc** are provided by **ESiWACE**, and include **access** to the tool, **helpdesk, personal help** and **training** activities. [Cylc homepage](https://cylc.github.io/).
+- Services for **XIOS** are provided by **ESiWACE**, and include **access** to the tool, **helpdesk, personal help** and **training** activities.
+ 
+
+For details, please refers to the tools homepages.
+
+**Title** | **Description** | **Contact** | **Leading Institute**
+:-------: | : ------------: | :---------: | :------------------:
+CDO | Climate Data Operators | [Ralf Müller]<ralf.muller@dlr.de> | [MPI-M (Germany)](https://mpimet.mpg.de/en/home.html)
+Cylc | A Python based workflow engine | [David Matthews (UK Met Office)]<david.matthews@metoffice.gov.uk> | [NIWA (New Zealand)](https://niwa.co.nz/) - [UKMO (UK)](https://www.metoffice.gov.uk/)
+ESMValTool | A community diagnostic and performance metrics tool for routine evaluation of Earth system models in CMIP | [Help desk]<listserv.dfn.de> | [DLR (Germany)](https://www.dlr.de/EN/Home/home_node.html)
+OASIS | The OASIS coupler | [Sophie Valcke]<valcke@cerfacs.fr> | [CERFACS (France)](https://cerfacs.fr/en/)
+XIOS | XML-IO-Server | [Yann Meurdesoif]<yann.meuredesoif@cea.fr> | [IPSL (France)](https://www.ipsl.fr/en/home-en/) - [CEA (France)](https://www.cea.fr/english/Pages/Welcome.aspx)
