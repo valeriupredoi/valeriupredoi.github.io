@@ -23,3 +23,20 @@ header:
 
 ---
 
+**IS-ENES provides Support Services for European Earth System Models**
+
+- **"level 1" service**: information contact person and maintenance of the ESM description on this portal, using the CIM metadata format.
+- **"level 2" service**: additional in-person expertise to help for setting up and running the ESM. 
+All groups offer at least "level 1" service. "Level 2" service details may differ among the groups/models.
+
+By clicking on the 'Title' in the Table below, you will find a brief description of each ESM on the list.
+
+Acronyms | Name of the modelling group | Level | Contact
+:-------: | :------------------------: | :--------: | :--------:
+CMCC | XXX | Level 1 | Pier Giuseppe Fogli 
+CNRM-CERFACS | XXX | Level 1 & 2 | XXX
+EC-Earth | XXX | Level 1 & 2 | Shuting Yang
+IPSL | XXX | Level 1 | [Arnaud Caubel](arnaud.caubel@lsce.ipsl.fr)
+MPI-M | XXX | Level 1 | Michael Botzet
+UKMO-NERC | XXX | Level 1 & 2 | UKESM help desk
+NORCE | XXX | Level 1 & 2 | NCC help desk
