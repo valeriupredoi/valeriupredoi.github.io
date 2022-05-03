@@ -42,13 +42,13 @@ header:
 
 ### Support Services
 
-| NEMO is available as a free-licence software: the source code, the tools to use it, so as a fixed list of reference configurations (with their input and set up files) targetting the main NEMO capabilities, and an open number of test cases (for training and evaluation of some functionalities.
+NEMO is available as a free-licence software: the source code, the tools to use it, so as a fixed list of reference configurations (with their input and set up files) targetting the main NEMO capabilities, and an open number of test cases (for training and evaluation of some functionalities.
 
-These support services are provided with contributions from IS-ENES3 and ESiWACE2. |
+These support services are provided with contributions from IS-ENES3 and ESiWACE2.
 
 ### Model description
 
-| NEMO (Nucleus for European Modelling of the Ocean) is an ocean modelling framework which is composed of "engines" nested in an "environment". The "engines" provide numerical solutions of ocean, sea-ice, tracers and biochemistry equations and their related physics. The "environment" consists in [reference configurations](https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/NEMO/guide/html/cfgs.html), pre- and post-processing tools, interface to the other components of the Earth system, user interface, computer dependent functions and documentation of the system.
+NEMO (Nucleus for European Modelling of the Ocean) is an ocean modelling framework which is composed of "engines" nested in an "environment". The "engines" provide numerical solutions of ocean, sea-ice, tracers and biochemistry equations and their related physics. The "environment" consists in [reference configurations](https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/NEMO/guide/html/cfgs.html), pre- and post-processing tools, interface to the other components of the Earth system, user interface, computer dependent functions and documentation of the system.
 
 NEMO allows several ocean related components of the Earth system to work together or separately (i.e "standalone mode"). It also allows a two-way nesting via the AGRIF software. It is interfaced with the other components of the Earth system (atmosphere, land surfaces, ...) via the OASIS coupler.
 
@@ -78,6 +78,7 @@ NEMO is intended to be a portable platform. It actually runs on a number of comp
 10 reference configurations are available for now, with their downloadable input files. These may evolve, depending on the area of interest of NEMO community and Consortium, following two main objectives: to allow the possibility to run a given configuration on a platform to be check that it works properly and to give a demonstrator to the user/project in order to build his own configuration.
 
 **Test cases**
-The NEMO community is sharing https://github.com/NEMO-ocean/NEMO-examples, a GitHub collecting simple configurations based on NEMO to study specific oceanic physical processes and to be used for training. This repository is open for addition of test cases from any member of the community (developers so as users). |
+The NEMO community is sharing https://github.com/NEMO-ocean/NEMO-examples, a GitHub collecting simple configurations based on NEMO to study specific oceanic physical processes and to be used for training. This repository is open for addition of test cases from any member of the community (developers so as users).
 
-Most of these information have been collected from [NEMO´s homepage](https://www.nemo-ocean.eu/). They have been last updated on Feb 15, 2022
+
+*Most of these information have been collected from [NEMO´s homepage](https://www.nemo-ocean.eu/). They have been last updated on Feb 15, 2022.*
