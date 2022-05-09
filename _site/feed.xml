@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://valeriupredoi.github.io//assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://valeriupredoi.github.io//assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title></title>
+		<description>Website of ISENES3</description>
+		<link>https://valeriupredoi.github.io//</link>
+		<atom:link href="https://valeriupredoi.github.io//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Latest workshops and training</title>
+				<link>https://valeriupredoi.github.io//design/Training/</link>
+				<pubDate>Sat, 02 Apr 2022 00:00:00 +0100</pubDate>
+				<description>&lt;h2 id=&quot;workshops&quot;&gt;Workshops&lt;/h2&gt;
+
+&lt;h3 id=&quot;7th-enes-hpc-workshop-barcelona-2022&quot;&gt;7th ENES HPC Workshop (Barcelona, 2022)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;open when: &lt;strong&gt;Monady, 9 May 2022&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;duration: &lt;strong&gt;May 09, 2022 09:00 AM to May 11, 2022 05:00 PM (Europe/Vienna / UTC200)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/barcelona-2022.png&quot; alt=&quot;barcelonaHPC&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The 7th ENES HPC workshop will take place as an hybrid event at Barcelona Supercomputing Center (BSC, Barcelona) from Monday, May 9 to Wednesday, May 11 2022.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Find all the information and registration details on the &lt;a href=&quot;https://portal.enes.org/community/community-workshops/7th-enes-hpc-workshop-barcelona-2022&quot;&gt;ENES Portal&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;IS-ENES3 organises this workshop of the European Network for Earth System modelling (ENES) in collaboration with &lt;a href=&quot;https://www.esiwace.eu/&quot;&gt;ESiWACE2&lt;/a&gt;. It will gather experts on HPC in earth system modelling at an hybrid event. A streaming service for remote participants (including speakers) will be available but after those 2 years of very scarce social interactions due to the pandemic, we strongly encourage everyone to travel and physically attend the workshop.&lt;/p&gt;
+
+&lt;p&gt;Building on the previous ENES HPC workshops (Lecce, 2011 &amp;amp; 2018; Toulouse, 2013 &amp;amp; 2016; Hamburg, 2014 &amp;amp; 2020), the talks are structured in five sessions:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Session no.&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Session name&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Session 1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;European and International HPC Landscape&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Session 2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Mix traditional modeling with Machine Learning&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Session 3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Performance&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Session 4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Heterogeneous architectures (accelerators)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Session 5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Data Worflows&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Agenda: you can download the detailed preliminary agenda &lt;a href=&quot;https://github.com/valeriupredoi/valeriupredoi.github.io/raw/master/pdf_documents/Preliminar-Agenda-7th-ENES-Workshop.xlsx&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Register &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdaTpORsHkO-OQzfG50vWFnuyhzP8hcGXWVC5hRotYtPYVqiw/viewform&quot;&gt;here&lt;/a&gt; before April 25th, 2022!&lt;/li&gt;
+  &lt;li&gt;In order to organise your stay, you can find the instructions to access the BSC venue &lt;a href=&quot;https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Barcelona2022-Venue%20details.pdf&quot;&gt;here&lt;/a&gt; and a list of hotels in Barcelona &lt;a href=&quot;https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Barcelona2022-Hotels%20near%20BSC.pdf&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr style=&quot;border:2px solid gray&quot; /&gt;
+
+&lt;h2 id=&quot;training&quot;&gt;Training&lt;/h2&gt;
+
+&lt;h3 id=&quot;is-enes3-eastern-europe-spring-schools-on-climate-data-and-impact-assessments&quot;&gt;IS-ENES3 Eastern Europe Spring Schools on Climate data and Impact assessments&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;open when: &lt;strong&gt;May 17, 2022&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;duration: &lt;strong&gt;May 17, 2022 08:30 AM to May 19, 2022 07:00 PM (Europe/Vienna / UTC200)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Babeș-Bolyai University (BBU), Faculty of Geography, in collaboration with IS-ENES3, organises two parallel schools (with one common day) targeted to climate and impact researchers from Eastern Europe on 17-19th May 2022 in Cluj-Napoca, Romania.&lt;/p&gt;
+
+&lt;p&gt;Climate change is seen as one of the biggest challenges in our times. To be able to do climate change impact studies and to adapt to climate change the knowledge of many different disciplines is needed and knowledge on climate data and experience on analyzing and processing climate data is needed. During the spring school, organised by the Babeş-Bolyai University and the IS-ENES3 project, climate and impact researchers and students will be able to get practical experience with analyzing and processing climate data and with working together on an impact study.&lt;/p&gt;
+
+&lt;p&gt;The aim of the schools is to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;get more knowledge about the various types of climate data and tools/methods to analyse/process them and get experience in using these tools/methods/data;&lt;/li&gt;
+  &lt;li&gt;learn what is needed for interdisciplinary impact/adaptation studies on climate change;&lt;/li&gt;
+  &lt;li&gt;create/broaden network on climate change and impact assessments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;The programme, practical details information and application procedure are available on the&lt;/strong&gt; &lt;a href=&quot;https://geografie.ubbcluj.ro/cercetare/?page_id=557&quot;&gt;BBU website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr style=&quot;border:2px solid gray&quot; /&gt;
+
+</description>
+				<guid isPermaLink="true">https://valeriupredoi.github.io//design/Training/</guid>
+			</item>
+		
+			<item>
+				<title>Check out our latest newsletters</title>
+				<link>https://valeriupredoi.github.io//design/newsletters/</link>
+				<pubDate>Mon, 28 Mar 2022 00:00:00 +0100</pubDate>
+				<description>&lt;h4 id=&quot;newsletter-10---march-2022&quot;&gt;&lt;a href=&quot;https://mailchi.mp/4dec2a91d400/is-enes3-march-15926664?e=669a346a59&quot;&gt;Newsletter 10 - March 2022&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;newsletter-9---december-2021&quot;&gt;&lt;a href=&quot;https://mailchi.mp/b42fb96ebb9f/is-enes3-newsletter-march-13472968?e=%5BUNIQID%5D&quot;&gt;Newsletter 9 - December 2021&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;newsletter-8---june-2021&quot;&gt;&lt;a href=&quot;https://mailchi.mp/ce4c10cd4f68/is-enes3-newsletter-march-13424403&quot;&gt;Newsletter 8 - June 2021&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;newsletter-7---march-2021&quot;&gt;&lt;a href=&quot;https://mailchi.mp/dd18c5fe7bc7/is-enes3-newsletter-march-2021?e=669a346a59&quot;&gt;Newsletter 7 - March 2021&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;newsletter-6---december-2020&quot;&gt;&lt;a href=&quot;https://mailchi.mp/c13ba9a7ab4e/is-enes3-newsletter-december-2020?e=%5BUNIQID%5D&quot;&gt;Newsletter 6 - December 2020&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;newsletter-5---september-2020&quot;&gt;&lt;a href=&quot;https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/IS-ENES3%20Newsletter%20-%20September%202020.pdf&quot;&gt;Newsletter 5 - September 2020&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;newsletter-4---april-2020&quot;&gt;&lt;a href=&quot;https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/IS-ENES3%20Newsletter%20-%20April%202020.pdf&quot;&gt;Newsletter 4 - April 2020&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;newsletter-3---february-2020&quot;&gt;&lt;a href=&quot;https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/IS-ENES3%20Newsletter%20February%202020.pdf&quot;&gt;Newsletter 3 - February 2020&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;newsletter-2---october-2019&quot;&gt;&lt;a href=&quot;https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/IS-ENES3_Newsletter_2_October_2019.pdf&quot;&gt;Newsletter 2 - October 2019&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4 id=&quot;newsletter-1---june-2019&quot;&gt;&lt;a href=&quot;https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/IS-ENES3_Newsletter_1_June_2019.pdf&quot;&gt;Newsletter 1 - June 2019&lt;/a&gt;&lt;/h4&gt;
+</description>
+				<guid isPermaLink="true">https://valeriupredoi.github.io//design/newsletters/</guid>
+			</item>
+		
+	</channel>
+</rss>
