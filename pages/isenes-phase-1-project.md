@@ -77,16 +77,26 @@ Organisation name (Acronyms) | Country
 
 ### Description of Work
 
-Type of Activity | WP
-: ---------- : | : ---------:
-**Management Activity** | **COORD (WP1)** Project Scientific & Technical Coordination
-**Networking Activities** | **NA1 (WP2)** will define the future ENES strategy 
-Objectives: To increase the cohesion of the European ESM community and advance a coherent European Network for Earth System modelling (ENES)  | **NA2 (WP3)**  will develop and deploy a virtual Earth System Modelling Resource Centre (v.E.R.C)
-                          | **NA3 (WP4)** will strengthen the network of expertise around existing European ESMs.
-**Service Activities** | **SA1 (WP5)** will provide a unified access to European ESM information and software
-Objectives: To provide services on models and model results both to modelling groups and to the users of model results, including the impact community | **SA2 (WP6)** will provide a unified access to the ENES distributed data network
-**Joint Research Activities** | **JRA1 (WP7)** will focus on the optimization of the coupler and the input-output systems which are crucial elements of ESMs
-Objectives: To improve the efficient use of the ESMs, high-performance computers, model evaluation tools sets, access to model results and will develop prototype climate services for the impact community | **JRA2 (WP8)** will focus on the performance and development of ESMs
-      | **JRA3 (WP9)** will create, as part of the v.E.R.C, an infrastructure for model evaluation against observations
-      | **JRA4 (WP10)** will develop protocols and software to provide efficient access to data services 
-      | **JRA5 (WP11)** will prototype services to the climate impact community
+: ---------- : | 
+**Management Activity** | **COORD (WP1)** Project Scientific & Technical Coordination |
+
+**Networking Activities** 
+Objectives: To increase the cohesion of the European ESM community and advance a coherent European Network for Earth System modelling (ENES) | **NA1 (WP2)** will define the future ENES strategy 
+: ---------- : | 
+**NA2 (WP3)**  will develop and deploy a virtual Earth System Modelling Resource Centre (v.E.R.C) |
+**NA3 (WP4)** will strengthen the network of expertise around existing European ESMs. |
+                          
+**Service Activities**
+Objectives: To provide services on models and model results both to modelling groups and to the users of model results, including the impact community | 
+: ---------- : | 
+**SA1 (WP5)** will provide a unified access to European ESM information and software |
+**SA2 (WP6)** will provide a unified access to the ENES distributed data network |
+
+**Joint Research Activities** 
+Objectives: To improve the efficient use of the ESMs, high-performance computers, model evaluation tools sets, access to model results and will develop prototype climate services for the impact community 
+: ---------- : | 
+**JRA1 (WP7)** will focus on the optimization of the coupler and the input-output systems which are crucial elements of ESMs |
+**JRA2 (WP8)** will focus on the performance and development of ESMs |
+**JRA3 (WP9)** will create, as part of the v.E.R.C, an infrastructure for model evaluation against observations |
+**JRA4 (WP10)** will develop protocols and software to provide efficient access to data services |
+**JRA5 (WP11)** will prototype services to the climate impact community |
