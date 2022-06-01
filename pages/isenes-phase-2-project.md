@@ -115,7 +115,7 @@ This work package will focus on innovation for climate modeling.
 It expands from IS-ENES1 service covering a wider range of services of models, with a minimum service for all 7 CMIP5 models offering expert contact to answer specific questions on models.
 
 - **SA2 (WP8): ENES Climate Data Services**
-It is the service on data from the ENES Data Federation..
+It is the service on data from the ENES Data Federation.
 
 
 **Joint research activities**
