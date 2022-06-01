@@ -93,38 +93,38 @@ This work package will ensure an effective, smooth and high-quality implementati
 
 **Networking activities:**
 
-**NA1 (WP2): ENES strategy**
+- **NA1 (WP2): ENES strategy**
 This work package aims at strengthening the integration of the ENES community.
 
-**NA2 (WP3): Towards next generation models**
+- **NA2 (WP3): Towards next generation models**
 This work package will stimulate interactions among the community to prepare future generations of climate models.
 
-**NA3 (WP4): Earth System Modelling Environments**
+- **NA3 (WP4): Earth System Modelling Environments**
 This work package wil complement NA2 by focusing on the model environment tools that are required to develop, run and exploit ESMs.
 
-**NA4 (WP5): Data Networking**
+- **NA4 (WP5): Data Networking**
 This work package wil focus on data and metadata networking.
 
-**NA5 (WP6): Innovating on climate modelling**
+- **NA5 (WP6): Innovating on climate modelling**
 This work package will focus on innovation for climate modeling.
 
 
 **Service activities**
 
-**SA1 (WP7): The European Network of geographically distributed services on Earth System models, component models and tools**
+- **SA1 (WP7): The European Network of geographically distributed services on Earth System models, component models and tools**
 It expands from IS-ENES1 service covering a wider range of services of models, with a minimum service for all 7 CMIP5 models offering expert contact to answer specific questions on models.
 
-**SA2 (WP8): ENES Climate Data Services**
+- **SA2 (WP8): ENES Climate Data Services**
 It is the service on data from the ENES Data Federation..
 
 
 **Joint research activities**
 
-**JRA1 (WP9): Multi-model, multi-member high resolution Earth System Models**
+- **JRA1 (WP9): Multi-model, multi-member high resolution Earth System Models**
 It will prepare multi-model multi-member high-resolution simulations for PRACE machines.
 
-**JRA2 (WP10): Performance benchmarks for coupled climate models**
+- **JRA2 (WP10): Performance benchmarks for coupled climate models**
 It will develop benchmarks for HPC and evaluate different coupling technologies.
 
-**JRA3 (WP11): Developing software infrastructure for data archive services**
+- **JRA3 (WP11): Developing software infrastructure for data archive services**
 It will further develop methodologies and tools for climate data archives and to serve climate impacts.
