@@ -25,9 +25,9 @@ header:
 
 Title | 
 :----:|
-[D1.1 - RP1 report](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/
-[D1.2 - RP2 report](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/
-[D1.3 - RP3 report](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/
+[D1.1 - RP1 report](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES2_RP1_report_submitted.pdf)
+[D1.2 - RP2 report](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES2_RP2_report_FV.pdf)
+[D1.3 - RP3 report](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES2_RP3_report_FV.pdf)
 [D2.1 - Update of ENES governance rules](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES2_D2.1_FV.pdf)
 [D2.2 - 2nd European School on Earth System and Climate Modelling](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES2_D2.2_FV.pdf)
 [D2.3 - White paper on ESM evaluation needs and infrastructure](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES2_D2.3_FV.pdf)
