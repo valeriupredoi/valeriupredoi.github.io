@@ -33,11 +33,11 @@ Synda is short for "SYNchronise your Data", used to be known as Synchro-data, an
 
 This software application was imagined, planned and developed at IPSL. It used to be distributed via RPM hosted on distributed digital repositories of the ESGF data infrastructure, however and as of August 2019 a new conda packaging system has been put in place in order to ease and make the release cycle faster (check https://anaconda.org/IPSL/synda).
 
-**Installation**
+### Installation
 
 Please refer to the [official Synda documentation](https://prodiguer.github.io/synda/) for installation/upgrade instructions.
 
-**Tool Configuration**
+### Tool Configuration
 
 In order to download files from ESGF data repositories, users are recommended to go through "selection files". These files contain the user's search criteria for the data they wish to download, consisting of metadata attributes used for discovery of climate data defined by the Data Reference Syntax (DRS).
 
@@ -45,7 +45,7 @@ Users can enter raw lists of values for different facets (variables, frequencies
 
 In order to successfully use the application, users must provide their ESGF credentials (ESGF OpenID and password) required for data download. These credentials can be obtained by registering to any ESGF portal.
 
-**Output**
+### Output
 
 The downloaded files are stored in the directory structure compliant with the DRS. This repository is updated as search criteria are being modified - only not already stored files (new files) are downloaded.
 - **Log Files**: the tool creates log files keeping track of the progress of downloads.
