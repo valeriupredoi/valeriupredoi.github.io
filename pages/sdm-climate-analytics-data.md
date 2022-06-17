@@ -40,7 +40,7 @@ The ECAS is a service with institutional-based deployments addressing national r
 - **[DKRZ](#cas-dkrz)**
 - **[CMCC](#cas-cmcc)**
 - **[UKRI/CEDA](#cas-ukri)**
-- **[CNRS-IPSL](#cas-ipsl) **
+- **[CNRS-IPSL](#cas-ipsl)**
 
 Visit the service FAQs [PAGE TO BE CREATED] and find our contact and the link to use cases.
 
