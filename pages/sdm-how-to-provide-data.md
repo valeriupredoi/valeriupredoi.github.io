@@ -26,11 +26,11 @@ header:
 The ENES infrastructure project (IS-ENES) provides to data producers and managers tools and information on the quality of the datasets hosted at the ESGF portals.
 
 - Data Ingestion
-Except replications, which are treated differently, these are the [ESGF data ingestion steps](https://valeriupredoi.github.io/sdm-how-to-provide-data.md#dataingestion).
+Except replications, which are treated differently, these are the [ESGF data ingestion steps](#dataingestion).
 - Data Quality
-The Quality Assurance tool [QA-DKRZ](https://qa-dkrz.readthedocs.io/en/latest/) checks conformance of meta-data of climate simulations given in NetDCF format with CF Conventions, CORDEX, [CMIP5 and 6](https://valeriupredoi.github.io/sdm-how-to-provide-data.md#dataquality) conventions and rules.
+The Quality Assurance tool [QA-DKRZ](https://qa-dkrz.readthedocs.io/en/latest/) checks conformance of meta-data of climate simulations given in NetDCF format with CF Conventions, CORDEX, [CMIP5 and 6](#dataquality) conventions and rules.
 - Data Citation
-The World Data Center for Climate [WDCC](https://www.dkrz.de/daten-en/wdcc?set_language=en) offers the ENES community the assignment of a [DataCite DOI](https://datacite.org/) for model data citation to long-term archived data. DOI assignment is combined with further quality checks. Find specific information on the [CORDEX Data Citation](https://valeriupredoi.github.io/sdm-how-to-provide-data.md#datacitation) process.
+The World Data Center for Climate [WDCC](https://www.dkrz.de/daten-en/wdcc?set_language=en) offers the ENES community the assignment of a [DataCite DOI](https://datacite.org/) for model data citation to long-term archived data. DOI assignment is combined with further quality checks. Find specific information on the [CORDEX Data Citation](#datacitation) process.
 
 <hr style="border:2px solid gray">
 
