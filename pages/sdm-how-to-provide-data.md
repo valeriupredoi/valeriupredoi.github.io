@@ -36,6 +36,7 @@ The World Data Center for Climate [WDCC](https://www.dkrz.de/daten-en/wdcc?set_l
 
 ### <a name="dataingestion"></a>Data Ingestion
 
+
 Except replications, which are treated differently, ESGF data ingestion consists of the steps shown below:
 
 **Steps of ESGF data ingestion**
@@ -68,6 +69,7 @@ This last step can only be launched by an ESGF data node administrator. The ESGF
 
 ### <a name="dataquality"></a>CMIP Data Quality
 
+
 **CMIP6**
 
 - [CMIP6 Model Output Requirements: File Contents and Format, Data Structure and Metadata](https://docs.google.com/document/d/1os9rZ11U0ajY7F8FWtgU4B49KcB59aFlBVGfLC4ahXs/edit)
@@ -92,6 +94,7 @@ Quality checked data is the basis of the ENES long term archival of CMIP5 data i
 <hr style="border:2px solid gray">
 
 ### <a name="datacitation"></a>CORDEX Data Citation
+
 
 **WDC Climate data citation service**
 As for CMIP5, the World Data Center for Climate (WDCC) offers the assignment of DataCite DOIs to CORDEX data to support the citation of CORDEX data. This service is provided for stable data for long-term usage.
