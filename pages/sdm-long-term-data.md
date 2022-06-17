@@ -23,3 +23,9 @@ header:
 
 ---
 
+The IPCC Data Distribution Centre (IPCC-DDC) provides
+
+Data used as input to the Second, Third, Fourth, and Fifth IPCC Assessment Report
+Socio-economic data and scenarios for the impact community: population, economic development, technology, and natural resources
+Visualization service
+Find more about ENES data infrastructure (IS-ENES) services for the IPCC-DDC here.
