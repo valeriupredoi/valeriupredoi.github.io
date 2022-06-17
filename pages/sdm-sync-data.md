@@ -25,6 +25,7 @@ header:
 
 ### Data Access and Synchronization with Synda
 
+
 **The Synda tool to download and (one-way) synchronize local data repositories with data hosted in the ENES data infrastructure.**
 
 Synda is the data replication and download tool. It is mainly used by data managers but can also be of use to the average user wishing to download data from ESGF nodes.
@@ -54,6 +55,6 @@ The downloaded files are stored in the directory structure compliant with the DR
 
 **For questions on how to use Synda, please contact**: glipsl(at)ipsl.fr or abennasser(at)ipsl.fr
 
-If you wish to contribute to Synda's development, fork us on github:  https://github.com/prodiguer/synda
+If you wish to contribute to Synda's development, fork us on github:  [https://github.com/prodiguer/synda](https://github.com/prodiguer/synda)
 
  
