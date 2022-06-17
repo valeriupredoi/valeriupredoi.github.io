@@ -33,10 +33,10 @@ By clicking on the 'Title' in the Table below, you will find a brief description
 
 Acronyms | Name of the modelling group | Level | Contact
 :-------: | :------------------------: | :--------: | :--------:
-CMCC | XXX | Level 1 | [Pier Giuseppe Fogli](<piergiuseppe.fogli@cmcc.it>)
-CNRM-CERFACS | XXX | Level 1 & 2 | XXX
-EC-Earth | XXX | Level 1 & 2 | [Shuting Yang](<shuting@dmi.dk>)
-IPSL | XXX | Level 1 | [Arnaud Caubel](<arnaud.caubel@lsce.ipsl.fr>)
-MPI-M | XXX | Level 1 | [Michael Botzet](<michael.botzet@mpimet.mpg.de>)
-UKMO-NERC | XXX | Level 1 & 2 | [UKESM help desk](<ukesm@ncas.ac.uk>)
-NORCE | XXX | Level 1 & 2 | [NCC help desk](<noresm-ncc@met.no>)
+CMCC-ESM2 | Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC) | Level 1 | [Pier Giuseppe Fogli](<piergiuseppe.fogli@cmcc.it>)
+CNRM-CM6 | CNRM-CERFACS | Level 1 & 2 | XXX
+EC-Earth3 | EC-Earth consortium | Level 1 & 2 | [Shuting Yang](<shuting@dmi.dk>)
+IPSL-CM6 | Institute Pierre-Simon Laplace (IPSL) | Level 1 | [Arnaud Caubel](<arnaud.caubel@lsce.ipsl.fr>)
+MPI-ESM | Max-Planck-Institut für Meteorologie (MPI-M) | Level 1 | [Michael Botzet](<michael.botzet@mpimet.mpg.de>)
+UKESM | UK Met Office | Level 1 & 2 | [UKESM help desk](<ukesm@ncas.ac.uk>)
+NorESM | Norwegian Climate Center (NCC) | Level 1 & 2 | [NCC help desk](<noresm-ncc@met.no>)
