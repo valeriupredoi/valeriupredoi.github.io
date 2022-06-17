@@ -37,10 +37,10 @@ The ECAS integrates data and tools for scientific data analysis, manipulation an
 You just need internet access to log in, there is nothing to install, we make the data, the software, and the hardware ready for you!
 
 The ECAS is a service with institutional-based deployments addressing national requirements and needs with four instances: DKRZ, CMCC, IPSL and UKRI/CEDA, which represent different technical implementations (or *flavours*). Find below a short description about the four ENES climate analytics service facilities at:
-- **[DKRZ]**(#cas-dkrz)
-- **[CMCC]**(#cas-cmcc)
-- **[UKRI/CEDA]**(#cas-ukri)
-- **[CNRS-IPSL].**(#cas-ipsl) 
+- **[DKRZ](#cas-dkrz)**
+- **[CMCC](#cas-cmcc)**
+- **[UKRI/CEDA](#cas-ukri)**
+- **[CNRS-IPSL](#cas-ipsl) **
 
 Visit the service FAQs [PAGE TO BE CREATED] and find our contact and the link to use cases.
 
