@@ -315,6 +315,7 @@ At the moment, the CMIP6 data at CMCC refer to the precipitation variable at the
 B2DROP limit should be 20GB per user (2GB per file). See EUDAT page [here](https://eudat.eu/frequently-asked-questions#file%20size).
 
 **- In linear regression notebook, what does the "showtime" option refer to? Here it is the command line: trendCoeff = trendCube.export_array(show_time='yes')**
+
 In show_time, if "no" (default), the values of time dimension are shown as numbers. With "yes", the values are converted as a string with date and time. Example: [1, 2] VS ['2096-01-02 00:00:00', '2096-01-03 00:00:00']. The plots are eventually the same no matter if it is yes or no, this is something affecting only the internal structure/properties of the imported data. For example, in the notebook #3 in the CMCC ECAS [github repository](https://github.com/ECAS-Lab/ecas-training/tree/master/online_training_data_analytics_enes_2021) the plot will the same for both
 
 data = singleTS.export_array(show_time='no')
@@ -332,6 +333,7 @@ Note: data = singleTS.export_array(show_time='yes') will raise an error since th
 <a name="cmcc-hardware"></a>**Hardware**
 
 **- What is the maximum number of cores that can be used to retrieve info?**
+
 ECAS cluster @CMCC consists of 5 compute nodes - 20 cores/node. Each user can access a subset of the total cores available.
 
 
