@@ -30,7 +30,7 @@ Bridging the gap from Global Climate Model data to Impact models input data
 - Access to data, also remotely (no need for data download or software installation)
 - Quick looks of Global and Regional Climate models, as well as some downscaled higher resolution climate data
 - Data transformation and processing tools, including mapping and plotting capabilities
-- [How-To documentation](https://climate4impact.eu/impactportal/help/howto.jsp) and [contact an expert])(https://climate4impact.eu/impactportal/help/contactexpert.jsp) services
+- [How-To documentation](https://climate4impact.eu/impactportal/help/howto.jsp) and [contact an expert](https://climate4impact.eu/impactportal/help/contactexpert.jsp) services
 - Use cases and examples in several impact and adaptation themes
 
 
