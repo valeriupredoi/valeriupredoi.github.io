@@ -165,6 +165,7 @@ Find below the General FAQs and the FAQs for:
 ### General FAQs
 
 **- I am a user of the Analysis Platforms, what ECAS can offer to me?**
+
 If you are already using our Analysis Platforms service you already have access to the provider resources, you do not need to apply to the ECAS of that provider, just use your user account to log in to the provider. The differences between the two services are:
 - access duration: for ECAS it is usually one month, while for the Analysis Platforms can be longer, up to Nov 2022.
 - application procedure: for ECAS it is straight forward, it is just creating an account at the provider at any time, while for the Analysis Platforms a proposal is required and it is evaluated twice per year.
@@ -176,80 +177,103 @@ If you are already using our Analysis Platforms service you already have access 
 <a name="service"></a>**Service**
 
 **- Where can I find tutorials, demos, use cases,...?**
+
 Please, visit DKRZ ECAS [github repository](https://github.com/IS-ENES-Data/Climate-data-analysis-service).
 
 **- If I click on Control Panel on the top right, I return to the spawner options, how do I find the server again?**
+
 If you started already a server, you do not need to start a new one. You can join the existing one in the step where you started a new one under "preset".
 
 **- Is it possible to use the Jupyterhub to connect to Mistral and run scripts (instead of using ssh to connect to Mistral)?**
+
 When you open the Jupyterhub and select and spawn a job ([step 3 in DKRZ ECAS Quick Start](#step3), you will see your folders and files in your home directory in Mistral. There, under "NEW" on the top right corner, there is a drop down menu, click on "Terminal" and you will be in a terminal on the Mistral node.
  
 **- If I have to run a Jupyter notebook that takes several days to finish, would the Jupyterhub session be alive?**
+
 You can submit SLURM scripts for the HPC scheduler from a Jupyter notebook via Dask (use the Jupyterlab for Dask, see [here](https://jupyterhub.gitlab-pages.dkrz.de/jupyterhub-docs/overview.html?highlight=jupyterlab#interface)) so the session would not be alive but the script can run longer. Please, read about running SLURM jobs [here][BROKEN LINK] and contact support@dkrz.de if you need help to set that up.
 
 <a name="errors"></a>**Errors**
 
 **- I tried to clone the Github repository to a folder in the DKRZ supercomputer Mistral and I got: Failed to connect to github.com port 443: Connection refused**
+
 In step 3 in the DKRZ ECAS [Quick Start](#step3), you need to select a job profile with a "prepost" node (pre and post-processing, see more info [here](https://docs.dkrz.de/doc/mistral/index.html)), only these nodes have internet connection.
 
 **- I have a DKRZ user account but when I click on preset on Jupyterhub it shows me Error 503 Service Unavailable**
+
 In steps 1-2 in the DKRZ ECAS [Quick Start](#step1) it is shown how to get a user account. Then, at step 3 in the DKRZ ECAS [Quick Start](#step3), "Account" refers to "bk1088", that is, it stands for the project that allocates the computing and memory resources you will use (you requested to join that project at step 2). If you leave "Account" blank, you get error 503.
 
 **- When running some modules like ipywidgets and geopy, I get the "ModuleNotFoundError"**
+
 Not all packages are in the predefined kernels but you can create your own environments that will be seen as kernels by the Jupyterhub, find more info [here](https://jupyterhub.gitlab-pages.dkrz.de/jupyterhub-docs/kernels.html).
 
 **- Loading the catalog using Intake resulted in the error: "Connection failed. A connection to the notebook server could not be established. The notebook will continue trying to reconnect. Check your network connection or notebook server configuration"**
+
 You have run out of RAM in your notebook probably by loading several Intake catalogs. You can restart (or shutdown) the notebook to clean and recover the memory.
 
 **- I'm trying to execute use-case_advanced_summer_days_intake_xarray_cmip6 notebook, but I got the following error: "ImportError: No module named intake"**
+
 Check the kernel you use for that notebook in the upper right corner. The "unstable" or "bleeding-edge" predefined kernels should have the Intake pacakge included.
  
 <a name="software"></a>**Software**
 
 **- Is it only possible to program in Python or does Julia and R also work?**
+
 The DKRZ Jupyterhub also provide kernels for Python, Julian, and R, see the DKRZ Jupyterhub documentation [here](https://docs.dkrz.de/doc/software%26services/jupyterhub/index.html).
 
 **- Is it possible to install new software? How can we load packages in the JupyterHub?**
+
 Yes, but the software you need is probably already installed. Thee list of already available software at the DKRZ supercomputer, Mistral, is [here](https://docs.dkrz.de/doc/mistral/index.html). Depending on the kernel you select to run your notebook in the Jupyterhub, some of that software would be already visible from the Jupyterhub, you need to check that on your own. If you need software that is not in the available kernels, see [here][BROKEN LINK] how to create your own environment in Mistral and make it visible as a kernel in the Jupyterhub. The DKRZ ECAS [github repository](https://github.com/IS-ENES-Data/Climate-data-analysis-service) has a use case called "use-case_advanced_summer_days_intake_xarray_cmip6.ipynb" that requires its own kernel, find instructions on how to create the environment in the "readme" file in the "[Advance](https://github.com/IS-ENES-Data/Climate-data-analysis-service#advanced)" section.
 
 <a name="data"></a>**Data**
 
 **- Is it possible to ask for data that are not already at the DKRZ pool?** 
+
 Yes, the access providers allocated disk space for this purpose. If you do not find all the data you need, please, contact us (see contact info above) if you are interested on for a data replication request. This is usually a lightweight process and your data will be available at the host in few days.
 
 **- How does the reproducibility work if files are retracted or replaced on ESGF?**
+
 If data is retracted from the ESGF it will also be removed sooner or later from the DKRZ data pool. What has been removed will be discoverable in an Intake catalog. For replaced data the persistent identifier in the tracking_id attribute gives info on previous versions of data.
 
 **- What’s the link between the DKRZ Intake catalogs and the ESGF? Are the data in a catalog just the same, but organized differently? Are the DKRZ Intake catalogs organized with the same parameters as the ESGF?**
+
 From a ESGF portal, as the one hosted at DKRZ: https://esgf-data.dkrz.de/projects/esgf-dkrz/, you can search and download data from data nodes of the whole federation. The Intake catalogs at DKRZ show the specific part which is locally available at DKRZ. With the ECAS you can directly exploit it without the need to go to an ESGF portal and download the data to your laptop ([server-side](https://en.wikipedia.org/wiki/Server-side) computing or compute-to-data). The DKRZ Intake catalogs use the same controlled vocabulary as in ESGF.
 
 **- Where to find the URL to an Intake catalogue?**
+
 The link to the DKRZ Intake catalogs can be found in the Intake tutorial at DKRZ ECAS [github repository](https://github.com/IS-ENES-Data/Climate-data-analysis-service) in the notebook called"dkrz-intake-catalog.ipynb". Besides, most of the use cases in that repository use Intake and you can find the URL to the catalog used in that use case inside the notebook. To access the DKRZ Intake CMIP6 catalog via the swift cloud, this is the link: https://swift.dkrz.de/v1/dkrz_a44962e3ba914c309a7421573a6949a6/intake-esm/mistral-cmip6.json.[BROKEN LINK]
 
 **- How long and how much memory it takes to load the CMIP6 Intake catalog?**
+
 The duration depends on the current activities on the HPC. Usually, it takes around 1 min. The Intake catalog is loaded in memory. For CMIP6, the Intake catalog is quite large. Opening the entire CMIP6 intake-esm catalog takes about 4.2GB memory. In addition to that, saving a subset as a new catalog takes also about 1GB. We recommend to use at least a 5GB memory when selecting the job profile in the spawner (see step 3 in the DKRZ ECAS [Quick Start](#step3)) for working with the complete CMIP catalog. In the future we will provide subsets of the CMIP6 catalog.
 
 **- Does a user of the DKRZ ECAS and its associated Climate Data Pool have access to a private directory to upload its own processing scripts?**
+
 All DKRZ users have access to a /home directory with a disk space limit from 24GB. On top of that, temporary data can be stored in /scratch, find more info in the [DKRZ docs](https://docs.dkrz.de/doc/mistral/index.html). If you create your own environments, better allocate it in your /work folder or your /home quota will be exceeded very fast, see instructions [here](https://jupyterhub.gitlab-pages.dkrz.de/jupyterhub-docs/kernels.html#best-practices).
 
 **- Is it possible to preprocess data in Jupyterhub and downloaded it as netcdf4 to a local machine?**
+
 You can use different packages, we recommend [swift](https://docs.dkrz.de/doc/datastorage/swift/index.html) and [swiftbrowser](https://docs.dkrz.de/doc/datastorage/swift/index.html) or [scp][BROKEN LINK] (secure ssh copy). For exmpale, if the netcdf4 file (or a plot, a .pdf,... you want to transfer to your local computer) is in your home in the DKRZ supercomputer Mistral, just open a terminal in your local computer and type "scp kXXXXXX@mistral.dkrz.de:/home/dkrz/kXXXXXX/yourfile.nc . " where the last "." means that the plot, file,.. you created in Mistral must be downloaded in the folder you are in your local computer and "kXXXXXX" must be replaced by your actual user name. In any case, please keep in mind that the ECAS is all about NOT downloading data but working on the HPC system next to the data ([server-side](https://en.wikipedia.org/wiki/Server-side) computing or compute-to-data).
 
 **- Is there an DKRZ Intake catalog for cordex project ? or do we have a list of the different available DKRZ Intake catalogs?**
+
 Yes, when you are logged to the DKRZ supercomputer Mistral (in your local shell, type: ssh kXXXXX@mistral.dkrz.de in a terminal in your local comuter or open a terminal in Mistral from the Jupyterhub at the right up corner upder "New") you will find them at:  /pool/data/Catalogs. Also check: /mnt/lustre02/work/ik1017/CORDEX/data
 
 **- How can I look what there is inside a variable?**
+
 Display the opened xarray dataset, it has a nice overview over the data. Other ways: !ncdump -h {path} , !cdo sinfo {path} where path is a path to one file; you can get that from the path column of the catalog.
 
 **- How I open a netcdf file?**
+
 After loading the Intake catalog, use col.to_dataset_dict() or xr.open_dataset("path"). Find examples in our tutorial and use cases DKRZ ECAS [github repository](https://github.com/IS-ENES-Data/Climate-data-analysis-service).
 
 <a name="hardware"></a>**Hardware**
 
 **- Where I find information on the DKRZ supercomputer Mistral?**
+
 Find more info about Mistral in the [DKRZ docs](https://docs.dkrz.de/doc/mistral/index.html).
 
 **- Is there a limit on memory consumption (RAM) or number of cores to be used simultaneously (multiprocessing)?**
+
 The ECAS is for limited resource consumption. Once you log in to the Jupyterhub you can select the memory allocation (RAM) and number of cores as part of the job profile selection (see step 3 in the DKRZ ECAS [Quick Start](#step3)). For larger exclusive resources usage, please apply to our Analysis Platforms service [here](ADD PAGE].
             
 ### CMCC ECAS
@@ -257,32 +281,41 @@ The ECAS is for limited resource consumption. Once you log in to the Jupyterhub 
 <a name="cmcc-service"></a>**Service**
 
 **- Where can I find tutorials, demos, use cases,...?**
+
 Please, visit CMCC ECAS github repository.
 
 **- Can we import other ncfiles into our workspace? That is, apart from the files that are available in /data how can we include other data sources?**
+
 You can import other nc files into your home directory by exploiting the ‘Upload’ feature available in JupyterHub. If you plan to upload big datasets, please let us know. You can reach us at the support email, see above.
 
 <a name="cmcc-data"></a>**Data**
 
 **- Is it possible to ask for data that are not already at the CMCC pool?**
+
 Yes, the access providers allocated disk space for this purpose. If you do not find all the data you need, please, contact us (see contact info above) if you are interested on for a data replication request. This is usually a lightweight process and your data will be available at the host in few days.
 
 **- With the Cube operation in the beginning the netcdf file is reshaped according to imp_dim?**
+
 Data are organized according to explicit and implicit dimensions. The implicit dimension is array based, so organizing array values according to the time dimension results in a more efficient analysis.
 
 **- Where I can select my area of interest for example to plot a country or a region instead of the globe?**
+
 With the subset operation you can select a country or a region or a time range. You can use an index to select a single value or a range of values (subset_type=’index’, subset_dims=’lat|lon’, subset_filter=’1:5|1:5’) as well as the actual dimensions values, e.g. latitude and longitude (subset_type=’coord’, subset_dims=’lat|lon’, subset_filter=’’-80:30|30:120”.
 
 **- In the mycube "operation:" is where I can select the variable of interest?**
+
 You can select the variable of interest in the importnc method (measure argument).
 
 **- Is there any detail for the CMIP6 daily data-set that is being available at CMCC?**
+
 At the moment, the CMIP6 data at CMCC refer to the precipitation variable at the maximum frequency (e.g. hourly), but new data can be downloaded, if needed, contacting the user support at the address above.
 
 **- Is there a storage limit for one b2drop storage?**
+
 B2DROP limit should be 20GB per user (2GB per file). See EUDAT page [here](https://eudat.eu/frequently-asked-questions#file%20size).
 
 **- In linear regression notebook, what does the "showtime" option refer to? Here it is the command line: trendCoeff = trendCube.export_array(show_time='yes')**
+
 In show_time, if "no" (default), the values of time dimension are shown as numbers. With "yes", the values are converted as a string with date and time. Example: [1, 2] VS ['2096-01-02 00:00:00', '2096-01-03 00:00:00']. The plots are eventually the same no matter if it is yes or no, this is something affecting only the internal structure/properties of the imported data. For example, in the notebook #3 in the CMCC ECAS [github repository](https://github.com/ECAS-Lab/ecas-training/tree/master/online_training_data_analytics_enes_2021) the plot will the same for both
 
 data = singleTS.export_array(show_time='no')
@@ -300,6 +333,7 @@ Note: data = singleTS.export_array(show_time='yes') will raise an error since th
 <a name="cmcc-hardware"></a>**Hardware**
 
 **- What is the maximum number of cores that can be used to retrieve info?**
+
 ECAS cluster @CMCC consists of 5 compute nodes - 20 cores/node. Each user can access a subset of the total cores available.
 
 
