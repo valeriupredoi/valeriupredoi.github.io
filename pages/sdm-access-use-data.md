@@ -27,7 +27,7 @@ widget1:
   text: 'Search and download climate model data from ESGF.'
 widget2:
   title: "Climate4Impact Portal"
-  url: 'https://valeriupredoi.github.io/sdm-c4i-data/'
+  url: 'https://valeriupredoi.github.io/sdm-c4i-portal/'
   image: Banner_website_IS-ENES3.png
   text: 'User interface and services for climate change impact community.'
 widget3:
