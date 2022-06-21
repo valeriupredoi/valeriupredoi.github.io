@@ -32,7 +32,7 @@ widget2:
   text: 'Phase 1 Deliverables and Milestones.'
 widget3:
   title: "Publications"
-  url: 'https://valeriupredoi.github.io/isenes-phase-1-documents/'
+  url: 'https://valeriupredoi.github.io/isenes-phase-1-publications/'
   image: Banner_website_IS-ENES3.png
   text: 'Phase 1 Publications.'
 widget4:
