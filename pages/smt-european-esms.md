@@ -29,9 +29,9 @@ header:
 - **"level 2" service**: additional in-person expertise to help for setting up and running the ESM. 
 All groups offer at least "level 1" service. "Level 2" service details may differ among the groups/models.
 
-By clicking on the 'Title' in the Table below, you will find a brief description of each ESM on the list.
+By clicking on the **Acronym** in the Table below, you will find a brief description of each ESM on the list.
 
-Acronyms | Name of the modelling group | Level | Contact
+Acronym | Name of the modelling group | Level | Contact
 :-------: | :------------------------: | :--------: | :--------:
 [CMCC-ESM2](https://valeriupredoi.github.io/smt-european-esms-detailed#cmcc-esm2) | Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC) | Level 1 | [Pier Giuseppe Fogli](<piergiuseppe.fogli@cmcc.it>)
 [CNRM-CM6](https://valeriupredoi.github.io/smt-european-esms-detailed#cnrm-cm6) | CNRM-CERFACS | Level 1 & 2 | XXX
