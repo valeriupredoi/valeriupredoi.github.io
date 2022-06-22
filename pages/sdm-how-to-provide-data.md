@@ -100,7 +100,7 @@ Quality checked data is the basis of the ENES long term archival of CMIP5 data i
 As for CMIP5, the World Data Center for Climate (WDCC) offers the assignment of DataCite DOIs to CORDEX data to support the citation of CORDEX data. This service is provided for stable data for long-term usage.
 
 **Process:**
-- Contact WDCC at [data@dkrz.de](<data@dkrz.de>) including “DOI CORDEX” in your email subject and information on your affiliation in the email body
+- Contact WDCC at <data@dkrz.de> including “DOI CORDEX” in your email subject and information on your affiliation in the email body
 - Data replication (if necessary) by WDCC in cooperation with you
 - Additional quality control checks on data by WDCC
 - Long-term archiving of data at WDCC
@@ -117,4 +117,4 @@ As for CMIP5, the World Data Center for Climate (WDCC) offers the assignment of 
 - WDCC’s DataCite DOI process is documented [here](https://www.dkrz.de/daten-en/data-services/Datapublication).
 
 **Contact and Information:**
-- WDC Climate: data@dkrz.de
+- WDC Climate: <data@dkrz.de>
