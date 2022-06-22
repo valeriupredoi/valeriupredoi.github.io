@@ -25,7 +25,7 @@ header:
 
 **Earth System Model Documentation**
 
-The [ES-DOC project](https://es-doc.org/) supports an eco-system of tools and services in support of Earth System documentation creation, analysis, and dissemination of all relevant aspects of climate modelling: experiments, simulations, model, conformance to protocols, etc, following the Common Information Model (CIM) for metadata tools. ES-DOC has developed tools and interfaces to gather the relevant information either automatically from published data or from modelling group (see for example [CMIP6 process](https://es-doc.org/cmip6/)) and to display the information. Find here the [contact](https://es-doc.org/contact/) and [support](<support@es-doc.org>). As part of the ES-DOC ecosystem, the [Errata Service](https://es-doc.github.io/esdoc-errata-client/index.html) centralizes timely information about known issues of ESGF data.
+The [ES-DOC project](https://es-doc.org/) supports an eco-system of tools and services in support of Earth System documentation creation, analysis, and dissemination of all relevant aspects of climate modelling: experiments, simulations, model, conformance to protocols, etc, following the Common Information Model (CIM) for metadata tools. ES-DOC has developed tools and interfaces to gather the relevant information either automatically from published data or from modelling group (see for example [CMIP6 process](https://es-doc.org/cmip6/)) and to display the information. Find here the [contact](https://es-doc.org/contact/) and <support@es-doc.org>. As part of the ES-DOC ecosystem, the [Errata Service](https://es-doc.github.io/esdoc-errata-client/index.html) centralizes timely information about known issues of ESGF data.
 
 **Climate and Forecast conventions ([CF](http://cfconventions.org/))**
 
@@ -33,4 +33,4 @@ Metadata conventions to promote the processing and sharing of NetCDF files. The 
 
 **CMIP6 Data Request ([DR](https://cmip6dr.github.io/))** 
 
-A request from the CMIP panels to the modelling groups for data to be contributed to the archive, specifying the variables which are needed for each experiment. Find here the [Python package](https://pypi.org/project/dreqPy/), the [Web View](https://clipc-services.ceda.ac.uk/dreq/index.html) of Data Request Contents, and [contact](<martin.juckes@stfc.ac.uk>).
+A request from the CMIP panels to the modelling groups for data to be contributed to the archive, specifying the variables which are needed for each experiment. Find here the [Python package](https://pypi.org/project/dreqPy/), the [Web View](https://clipc-services.ceda.ac.uk/dreq/index.html) of Data Request Contents, and <martin.juckes@stfc.ac.uk>.
