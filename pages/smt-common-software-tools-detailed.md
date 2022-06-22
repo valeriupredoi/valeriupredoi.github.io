@@ -31,7 +31,7 @@ header:
 Summary Table |
 :-----------: | :-------------:
 **Name** | CDO
-**Contact** | [Ralf Müller](<ralf.mueller@dkrz.de>)
+**Contact** | Ralf Müller: <ralf.mueller@dkrz.de>
 **Lead** | [MPI-M (Germany)](https://mpimet.mpg.de/en/home.html) 
 **Homepage** | [code.mpimet.mpg.de](https://code.mpimet.mpg.de/projects/cdo/)
 **Download** | [code.mpimet.mpg.de](https://code.mpimet.mpg.de/projects/cdo/files)
@@ -57,7 +57,7 @@ CDO compiles on any POSIX compatible OS with an ANSI C compiler ([detailed list]
 Summary Table |
 :-----------: | :-------------:
 **Name** | OASIS
-**Contact** | [Sophie Valcke](<valcke@cerfacs.fr>)
+**Contact** | Sophie Valcke: <valcke@cerfacs.fr>
 **Lead** | [CERFACS (France)](https://cerfacs.fr/en/) 
 **Homepage** | [oasis.cerfacs.fr](https://oasis.cerfacs.fr/en/)
 **Download** | [oasis.cerfacs.fr](https://oasis.cerfacs.fr/en/download-oasis3-mct-sources/)
@@ -89,7 +89,7 @@ The OASIS coupler is a software allowing synchronized exchanges of coupling info
 Summary Table |
 :-----------: | :-------------:
 **Name** | Cylc
-**Contact** | [David Matthews (UK Met Office)](<david.matthews@metoffice.gouv.uk>)
+**Contact** | David Matthews (UK Met Office): <david.matthews@metoffice.gouv.uk>
 **Lead** | [NIWA (New Zealand)](https://niwa.co.nz/), [UKMO (UK)](https://www.metoffice.gov.uk/)
 **Homepage** | [cylc.github.io](https://cylc.github.io/)
 **Download** | [github.com](https://github.com/cylc/cylc-flow/releases/tag/7.9.5)
@@ -126,7 +126,7 @@ For further details please visit the [Cylc homepage](https://cylc.github.io/).
 Summary Table |
 :-----------: | :-------------:
 **Name** | XIOS
-**Contact** | [Yann Meurdesoif](<yann.meurdesoif@cea.fr>)
+**Contact** | Yann Meurdesoif: <yann.meurdesoif@cea.fr>
 **Lead** | [IPSL (France)](https://www.ipsl.fr/en/home-en/), [CEA (France)](https://www.cea.fr/english/Pages/Welcome.aspx)
 **Homepage** | [forge.ipsl.jussieu.fr](http://forge.ipsl.jussieu.fr/ioserver/wiki)
 **Download** | [forge.ipsl.jussieu.fr](http://forge.ipsl.jussieu.fr/ioserver/browser/XIOS)
@@ -155,7 +155,7 @@ XIOS, or XML-IO-Server, is a library dedicated to I/O management in climate code
 Summary Table |
 :-----------: | :-------------:
 **Name** | ESMValTool
-**Contact** | [Help Desk](<esmvaltool@listserv.dfn.de>)
+**Contact** | Help Desk: <esmvaltool@listserv.dfn.de>
 **Lead** | [DLR (Germany)](https://www.dlr.de/EN/Home/home_node.html)
 **Participants** | 3 partners from 3 countries
 **Homepage** | [www.esmvaltool.org](https://www.esmvaltool.org/)
