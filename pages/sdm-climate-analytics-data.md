@@ -79,7 +79,7 @@ choose a job profile depending on how much computing power and memory you need. 
 
 It will take us about one day to evaluate this info. If everything is ok, we will send you a confirmation email and you can start using the service (see step 3 above)!
 
-For questions about the DKRZ ECAS, please reach us at data-pool@dkrz.de. Visit our FAQs [INTERNAL LINK] here.
+For questions about the DKRZ ECAS, please reach us at <data-pool@dkrz.de>. Visit our FAQs [INTERNAL LINK] here.
 
 <hr style="border:2px solid gray">
 
@@ -111,7 +111,7 @@ When applying through the JASMIN accounts portal, state your reason for using JA
 
 The Notebook service permits up to 100 GB of data storage in the user's home directory. Users needing larger amounts of data storage, the ability to share data with collaborators in a Group Work Space or access to the LOTUS batch compute cluster within JASMIN should apply to use our Analysis Platforms service.
 
-For questions about the UKRI-CEDA ECAS, please contact us at support@jasmin.ac.uk.
+For questions about the UKRI-CEDA ECAS, please contact us at <support@jasmin.ac.uk>.
 
 <hr style="border:2px solid gray">
 
@@ -153,10 +153,10 @@ The ECAS is a European service mainly addressed to model data users working in E
 These FAQs focus on questions concerning the overall ECAS service. For questions regarding particular issues at a certain access provider, please, write to the corresponding contact support of the service provider:
 
 :--------:|:-------:
-DKRZ ECAS | [contact](<data-pool@dkrz.de>)
-CMCC ECAS | [contact](<ecas-support@cmcc.it>)
-UKRI-CEDA ECAS | [contact](https://jasmin.ac.uk>)[TO BE EDITED]
-CNRS-IPSL ECAS | [contact](<https://listes.ipsl.fr/sympa>)[TO BE EDITED]
+DKRZ ECAS | contact: <data-pool@dkrz.de>
+CMCC ECAS | contact: <ecas-support@cmcc.it>
+UKRI-CEDA ECAS | [web contact](https://jasmin.ac.uk>)
+CNRS-IPSL ECAS | [web contact](https://listes.ipsl.fr/sympa)
 
 Find below the General FAQs and the FAQs for:
 - the DKRZ ECAS [service](#service), [errors](#errors), [data](#data), [software](#software), and [hardware](#hardware), and
@@ -190,7 +190,7 @@ When you open the Jupyterhub and select and spawn a job ([step 3 in DKRZ ECAS Qu
  
 **- If I have to run a Jupyter notebook that takes several days to finish, would the Jupyterhub session be alive?**
 
-You can submit SLURM scripts for the HPC scheduler from a Jupyter notebook via Dask (use the Jupyterlab for Dask, see [here](https://jupyterhub.gitlab-pages.dkrz.de/jupyterhub-docs/overview.html?highlight=jupyterlab#interface)) so the session would not be alive but the script can run longer. Please, read about running SLURM jobs [here][BROKEN LINK] and contact support@dkrz.de if you need help to set that up.
+You can submit SLURM scripts for the HPC scheduler from a Jupyter notebook via Dask (use the Jupyterlab for Dask, see [here](https://jupyterhub.gitlab-pages.dkrz.de/jupyterhub-docs/overview.html?highlight=jupyterlab#interface)) so the session would not be alive but the script can run longer. Please, read about running SLURM jobs [here][BROKEN LINK] and contact <support@dkrz.de> if you need help to set that up.
 
 <a name="errors"></a>**Errors**
 
