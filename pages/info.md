@@ -16,15 +16,11 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: About ISENES3
+    title: About the <br> IS-ENES3 website
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
     image_fullwidth: "Banner_website_IS-ENES3.png"
 ---
 
-Edit file: `pages/info.md`
-
-Services are listed in: `_data/services.yml`
-
-This is the stuff of dreams.
+This is the website of the IS-ENES3 project. Please see our [contact](https://valeriupredoi.github.io/contact/) page for more details. and if you have any questions about the project. Enjoy browsing!
