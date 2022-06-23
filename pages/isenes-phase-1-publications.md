@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth-6widgets
+layout: page
 title: "IS-ENES3 Phase 1: Publications"
 # subheadline: ISENES3 Work Summary
 # teaser: The work we do in ISENES3
