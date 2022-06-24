@@ -54,8 +54,9 @@ CMCC-ESM2 contributes to the Climate Model Intercomparison Project Phase 6 (CMIP
 **ES-DOC model descriptions for CMCC-ESM2 (CMIP6)**
 - [CMCC-ESM2](https://explore.es-doc.org/cmip6/models/cmcc/cmcc-esm2)
 - [CMCC-CM2-SR5](https://explore.es-doc.org/cmip6/models/cmcc/cmcc-cm2-sr5) (GCM version)
- 
+
 **Previous model version: CMCC-CESM**
+
 The former version of the CMCC Earth System Model, referred to as CMCC Carbon Earth System Model (CMCC-CESM; Vichi et al., 2011), was based on the coupling between [ECHAM5](https://mpimet.mpg.de/en/science/models/mpi-esm/echam/) (atmosphere), [OPA8.2](https://www.nemo-ocean.eu/) (ocean), SILVA (land surface and vegetation), LIM (sea-ice) and [BFMv2](https://www.cmcc.it/models/biogeochemical-flux-model-bfm) (ocean biogeochemistry). This model was developed and used under the EU FP6 project ENSEMBLES (GOCE-CT-2003-505539) and contributed to CMIP5. Data produced with CMCC-CESM simulations are available on the ESGF portals.
 
 **ES-DOC model description for CCMC-CESM (CMIP5)**
@@ -141,8 +142,8 @@ The **IPSL Climate Modelling Centre (IPSL-CMC)** is hosting a collaborative effo
 ![MPI-ESM](../images/MPI-ESM.png)
 
 - **Modelling group**: MPI-M
-- **Website**: https://www.mpimet.mpg.de
-- **Contact**: Michael Botzet
+- **Website**: [https://www.mpimet.mpg.de](https://www.mpimet.mpg.de)
+- **Contact**: Michael Botzet<michael.botzet@mpimet.mpg.de>
 
 **IS-ENES3 services:**
 - **Level 1**: Basic model information and contact points at ENES Portal
@@ -220,7 +221,7 @@ The renewed UKESM Long Term Science Multi-centre (LTSM) project is now formed by
 
 - **Modelling group**: Norwegian Climate Center
 - **Website**: see below for participating groups
-- **Contact**: NCC Help desk
+- **Contact**: NCC Help desk<noresm-ncc@met.no>
 
 **IS-ENES3 services**:
 - **Level 1**: Basic model information and contact points at ENES Portal
