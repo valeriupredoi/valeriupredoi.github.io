@@ -23,7 +23,7 @@ header:
 
 ---
 
-**IS-ENES European Earth System Models - Description per model**
+### IS-ENES European Earth System Models - Description per model
 
 ### <a name="cmcc-esm2"></a>CMCC-ESM2
 
@@ -59,9 +59,9 @@ CMCC-ESM2 contributes to the Climate Model Intercomparison Project Phase 6 (CMIP
 The former version of the CMCC Earth System Model, referred to as CMCC Carbon Earth System Model (CMCC-CESM; Vichi et al., 2011), was based on the coupling between [ECHAM5](https://mpimet.mpg.de/en/science/models/mpi-esm/echam/) (atmosphere), [OPA8.2](https://www.nemo-ocean.eu/) (ocean), SILVA (land surface and vegetation), LIM (sea-ice) and [BFMv2](https://www.cmcc.it/models/biogeochemical-flux-model-bfm) (ocean biogeochemistry). This model was developed and used under the EU FP6 project ENSEMBLES (GOCE-CT-2003-505539) and contributed to CMIP5. Data produced with CMCC-CESM simulations are available on the ESGF portals.
 
 **ES-DOC model description for CCMC-CESM (CMIP5)**
-- [CMCC-CESM CMCC Carbon Earth System Model](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=CMCC-CM&project=CMIP5)
-- [CMCC-CM CMCC Climate Model](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=CMCC-CM&project=CMIP5)
-- [CMCC-CMS CMCC Climate Model with a resolved Stratosphere](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=CMCC-CMS&project=CMIP5)
+- [CMCC-CESM CMCC](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=CMCC-CM&project=CMIP5) Carbon Earth System Model
+- [CMCC-CM CMCC](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=CMCC-CM&project=CMIP5) Climate Model
+- [CMCC-CMS CMCC](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=CMCC-CMS&project=CMIP5) Climate Model with a resolved Stratosphere
 
 <hr style="border:2px solid gray">
 
@@ -120,7 +120,7 @@ Access to the code, documentation and support is limited to EC-Earth consortium 
 
 The **IPSL Climate Modelling Centre (IPSL-CMC)** is hosting a collaborative effort to develop climate models, study the natural variability of climate, its past, current and future changes, and the anthropogenic influences on it. Numerical models of the individual components of the climate system are developed in the IPSL laboratories: atmosphere, ocean, continental surfaces, marine and terrestrial ecosystems, atmospheric chemistry. Physical, chemical and biogeochemical processes are considered. IPSL-CMC brings together the different teams of the IPSL laboratories that have modelling activities but has also dedicated staff to develop the IPSL integrated model of the Earth system. Overall, IPSL-CMC involves more than 80 engineers and scientists. A larger group of about 200 people use its results and benefit from the availability of the simulation data.
 
-**[IPSL-CM6A-LR](https://cmc.ipsl.fr/ipsl-climate-models/ipsl-cm6/)** is the latest version of the IPSL climate model. This model contributes to the Climate Model Intercomparison Project Phase 6 (CMIP6). In addition to the physical atmosphere-land-ocean-sea ice model based on the LMDz, ORCHIDEE, NEMO (including the LIM and PISCES subcomponents) models, it also includes a representation of the carbon cycle. Modules for interactive stratospheric chemistry (REPROBUS) and tropospheric chemistry with aerosols (INCA) can be activated. The IPSL climate model uses the OASIS3-MCT coupler(https://valeriupredoi.github.io/smt-common-software-tools-detailed#oasis-detailed), the powerful XIOS input/output server as well as libIGCM running environment library.
+**[IPSL-CM6A-LR](https://cmc.ipsl.fr/ipsl-climate-models/ipsl-cm6/)** is the latest version of the IPSL climate model. This model contributes to the Climate Model Intercomparison Project Phase 6 (CMIP6). In addition to the physical atmosphere-land-ocean-sea ice model based on the LMDz, ORCHIDEE, NEMO (including the LIM and PISCES subcomponents) models, it also includes a representation of the carbon cycle. Modules for interactive stratospheric chemistry (REPROBUS) and tropospheric chemistry with aerosols (INCA) can be activated. The IPSL climate model uses the [OASIS3-MCT coupler](https://valeriupredoi.github.io/smt-common-software-tools-detailed#oasis-detailed), the powerful XIOS input/output server as well as libIGCM running environment library.
 
 **Main model components**
 - [LMDZ](https://lmdz.lmd.jussieu.fr/): representing the atmosphere
@@ -164,7 +164,7 @@ These components are coupled through the exchange of energy, momentum, water and
 
 **ES-DOC model descriptions**
 - **CMIP6** configuration: [MPI-ESM1.2-HAM](https://explore.es-doc.org/cmip6/models/hammoz-consortium/mpi-esm-1-2-ham)
--**CMIP5**  configurations:
+- **CMIP5**  configurations:
 - [MPI-ESM-LR T63/L47-B1.5/L40](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=MPI-ESM-LR&project=CMIP5)
 - [MPI-ESM-MR T63/L95-T0.4/L40](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=MPI-ESM-MR&project=CMIP5)
 - [MPI-ESM-P as LR, no dyn. veg.](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=MPI-ESM-P&project=CMIP5)
@@ -173,12 +173,83 @@ These components are coupled through the exchange of energy, momentum, water and
 
 ### <a name="ukesm"></a>UKESM
 
+**UKESM model of NERC (Natural Environment Research Council) and the UK Met Office**
+
 ![UKESM](../images/UKESM.png)
 
+- **Modelling group**: NERC and UK Met Office
+- **Website**: [ukesm.ac.uk](https://ukesm.ac.uk/)
+- **Contact**: UKESM Help desk<ukesm@ncas.ac.uk>
+
+**IS-ENES3 services:**
+- **Level 1**: Basic model information and contact points at ENES Portal
+- **Level 2**: Advanced services for for model users and developers
+
+The Met Office Hadley Centre (MOHC) provides climate science and services to help people and organisations stay safe, well and prosperous. We do this by working with partners around the globe to carry out world leading research. This science is used for services which are developed together with end-users to find the most effective approach to managing climate risk.
+
+The UKESM project is a collaboration between NERC and the Met Office, to develop, apply and analyse the next generation of UK Earth system models (ESMs). UKESM has two overriding objectives:
+- To develop and apply a world-leading Earth System Model.
+- Grow a community of UK ESM scientists.
+The UKESM core team, was established in 2013, jointly funded by NERC and the Met Office builds on other projects developing component models in the UK modelling community.
+
+The project will run from 2013-2021. It has delivered the first version of the model, UKESM1, which is being used for the UK’s ESM contribution to the next international coupled model intercomparison project (CMIP6).
+
+The renewed UKESM Long Term Science Multi-centre (LTSM) project is now formed by the MetOffice plus 8 NERC-funded centres: NCAS, BAS, BGS, CEH, CPOM, NCEO, NOC and PML. UKESM LTSM funds the NERC component of the core group plus a number of NERC centre scientists to work on the development and analysis of UKESM1.
+
+**Main model components**
+- MetUM-HadGEM3-GA7.1: atmosphere
+- NEMO-HadGEM3-GO6.0: ocean
+- UKCA-StratTrop: atmospheric chemistry
+- UKCA-GLOMAP-mode: aerosols
+- JULES-ES-1.0: land
+- MEDUSA2: ocean biogeochemistry
+- CICE-HadGEM3-GSI8: sea-ice
+
+**ES-DOC model descriptions**
+- **CMIP6** configurations: [UKESM1-0-LL](https://explore.es-doc.org/cmip6/models/mohc/ukesm1-0-ll), [HadGEM3-GC31-LL](https://explore.es-doc.org/cmip6/models/mohc/hadgem3-gc31-ll), [HadGEM3-GC31-MM](https://explore.es-doc.org/cmip6/models/mohc/hadgem3-gc31-mm)
+- **CMIP5** configurations: [HADGEM2-A](https://view.es-doc.org/?renderMethod=id&project=cmip5&id=7a2b64cc-03ca-11e1-a36a-00163e9152a5&version=2&client=esdoc-search), [HADGEM2-ES](https://view.es-doc.org/?renderMethod=id&project=cmip5&id=309f6a26-e2b3-11df-bf17-00163e9152a5&version=5&client=esdoc-search), [HADGEM2-CC](https://view.es-doc.org/?renderMethod=id&project=cmip5&id=2f4cc6d0-9679-11e0-a921-00163e9152a5&version=5&client=esdoc-search)
+ 
 
 <hr style="border:2px solid gray">
 
 ### <a name="noresm"></a>NorESM
 
+**NorESM2 model of NCC (Norwegian Climate Center)**
+
 ![NorESM](../images/NorESM.png)
+
+- **Modelling group**: Norwegian Climate Center
+- **Website**: see below for participating groups
+- **Contact**: NCC Help desk
+
+**IS-ENES3 services**:
+- **Level 1**: Basic model information and contact points at ENES Portal
+- **Level 2**: Advanced services for for model users and developers
+
+The Norwegian Earth System Model version 2 ([NorESM2](https://noresm-docs.readthedocs.io/en/noresm2/)) is the second generation of model developed by the Norwegian Climate Centre (NCC) and has provided data to the ongoing 6th phase of the of the Coupled Model Intercomparison Project. NorESM2 the successor to the NorESM1 model that was used for delivering data to CMIP5. A general description of the model is given in a paper submitted for Geophysical Model Development at present time available as a discussion paper ([Seland et al. 2020](https://gmd.copernicus.org/preprints/gmd-2019-378/gmd-2019-378.pdf)).
+
+NorESM2 is based on the Community Earth System CESM2 but with a number of important differences. NorESM2 use a different ocean physical model, BLOM; ocean biogeochemistry model, iHAMOCC ([Tjiputra et al 2020](https://gmd.copernicus.org/preprints/gmd-2019-347/gmd-2019-347.pdf)) ;alternative aerosol module and independent modifications of convective and energy processes in the atmosphere (CAM6-Nor).
+
+NorESM2 data as provided to CMIP6 comes from two model versions with different resolutions in the atmosphere and land component of the model. Nominal 2 degree (NorESM2-LM) and nominal 1 degree (NorESM2-MM). Both model resolutions have been tuned and documented in order to be independent model versions with respect to CMIP6.
+
+The NorESM consortium group consists of institutions with members in the NorESM developers group:
+- [University of Bergen](https://www.uib.no/en/gfi), Geophysical Institute, Bergen
+- [NORCE](https://www.norceresearch.no/en/) Norwegian Research Centre, Climate, Bergen
+- [Nansen Environmental and Remote Sensing Centre](https://www.nersc.no/), Bergen
+- [Norwegian Meteorological Institute](https://www.met.no/en), Oslo
+- [University of Oslo, Meteorology and Oceanography Section](https://www.mn.uio.no/geo/english/about/organisation/metos/), Department of Geosciences, Oslo
+- [Norwegian Institute for Air Research](https://www.nilu.com/), Kjeller
+- [Center for International Climate and Environmental Research](https://cicero.oslo.no/en), Oslo
+
+**Main model components**
+- CAM6-Nor: the atmosphere model
+- BLOM: the ocean model
+- iHAMMOC: the ocean biogeochemistry model
+- CICE: the sea-ice model
+- CML5: the land model
+- CIME: the coupler
+
+**ES-DOC model descriptions**
+- **CMIP6** configurations: not yet available
+- **CMIP5** configurations: [NorESM1-M](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=NorESM1-M&project=CMIP5), [NorESM1-ME](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=NorESM1-ME&project=CMIP5)
 
