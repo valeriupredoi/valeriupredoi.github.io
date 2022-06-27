@@ -23,7 +23,7 @@ header:
 
 ---
 
-### IS-ENES European Earth System Models - Description per model
+### Description per model
 
 ### <a name="cmcc-esm2"></a>CMCC-ESM2
 
