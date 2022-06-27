@@ -33,7 +33,7 @@ header:
 
 - **Modelling group**: CMCC
 - **Website**: [www.cmcc.it](https://www.cmcc.it/models)
-- **Contact**: Pier Giuseppe Fogli<piergiuseppe.@foglicmcc.it>, Tomas Lovato<tomas.lovato@cmcc.it>
+- **Contact**: Pier Giuseppe Fogli: <piergiuseppe.@foglicmcc.it>, Tomas Lovato: <tomas.lovato@cmcc.it>
 
 **IS-ENES3 services:**
 - **Level 1**: Basic model information and contact points at ENES Portal
@@ -68,7 +68,49 @@ The former version of the CMCC Earth System Model, referred to as CMCC Carbon Ea
 
 ### <a name="cnrm-cm6"></a>CNRM-CM6
 
-![CNRM-CM6](../images/)
+**CNRM-CM6-1/ESM2-1 models of CNRM-CERFACS (National Centre for Meteorological Research and Centre Européen de Recherche et de Formation Avancée en Calcul Scientifique)**
+
+![CNRM-CM6-1 & CNRM-ESM2-1](../images/logo-cerfacs-cnrs-cnrm.png)
+
+- **Modelling group**: CNRM-CERFACS
+- **Website**: [www.umr-cnrm.fr](http://www.umr-cnrm.fr/cmip6/spip.php?article11)
+- **Contact**: CNRM-CM6 mail: <contact.cmip@meteo.fr>
+
+CNRM-CERFACS contributes to CMIP6 with 3 coupled configurations designed to populate the complexity-resolution space.  The reference model is the AOGCM model [CNRM-CM6-1](http://www.umr-cnrm.fr/cmip6/spip.php?article11) (standard horizontal resolution of about 1°).  CNRM-ESM2-1 (same resolution as CNRM-CM6-1) is its ESM counterpart, and CNRM-CM6-1-HR the high resolution AOGCM (0.25° in the ocean, 0.5° in the atmosphere).
+
+The CNRM models consist of several existing models designed independently and coupled through the [OASIS3-MCT](https://valeriupredoi.github.io/smt-common-software-tools-detailed.md#oasis-detailed) software developed at CERFACS, they all use the on-line post-processing and formatting library [XIOS](https://valeriupredoi.github.io/smt-common-software-tools-detailed.md#xios-detailed), developed by IPSL.
+
+All of the three above-mentioned configurations employ the following list of components models. The atmospheric component, ARPEGE v6.3, is a specific version of the French weather forecast model developed by ECMWF (IFS) and CNRM, adapted for climate simulations. ARPEGE is available for the scientific community with an exclusive aim of research, within the framework of the “Community Climate Model” project. The oceanic component, provided by CNRS/LOCEAN was updated to NEMO v3.6. The Sea Ice model, Gelato v6.0, is developed by CNRM. The river routing scheme CTRIP, is the TRIP model developed by U.Tokyo and recoded by CNRM to improve its performances and resolution. The surface scheme SURFEX, which involves the land surface scheme ISBA and the sea-flux surface scheme ECUME, was developed by CNRM. The coupler is OASIS3-MCT, developed by CERFACS, and the model workflow is developed at CNRM. 
+
+CNRM-ESM2-1 is based on the physical core of the CNRM-CM6-1 model and includes additional Earth System components to take into account the coupling between physical and Earth System components. These latter are enabled by the inclusion of interactive atmospheric chemistry (REPROBUS) and aerosols (TACTIC) as well as interactive land and ocean carbon cycles (ISBA-CC and PISCES-v2-gas, respectively). For CMIP6, CERFACS undertook HighResMIP and DCPP simulations, while CNRM took in charge many of the other MIPs including the DECK, ScenarioMIP, CFMIP, RFMIP, AerChemMIP, C4MIP,etc.
+
+**Main model components**
+
+***Physical core*** (CNRM-CM6-1):
+
+- [ARPEGE](http://www.umr-cnrm.fr/spip.php?article124&lang=en): v6.3 for the atmosphere, developed at CNRM
+- [SURFEX](http://www.umr-cnrm.fr/spip.php?article145&lang=en): representing the land-surface
+- NEMO: v3.6 for the ocean, developed by the NEMO consortium
+- [GELATO](http://www.umr-cnrm.fr/spip.php?rubrique225&lang=en): v6.0 for sea-ice, developed at CNRM 
+- [ISBA-CTRIP](http://www.umr-cnrm.fr/spip.php?article1092&lang=en): for land surface processes and river routing to the ocean, developed at CNRM and embedded in [SURFEX v8.0](http://www.umr-cnrm.fr/surfex/)
+- [FLake](http://www.flake.igb-berlin.de/): lake scheme for lake thermal processes, developed at [IGB-Berlin](https://www.igb-berlin.de/), revised at CNRM and embedded in [SURFEX v8.0](http://www.umr-cnrm.fr/surfex/)
+ 
+***Biogeochemical core*** (CNRM-ESM2-1):
+
+- [PISCES-v2-gas](https://gmd.copernicus.org/articles/8/2465/2015/): for marine biogeochemistry, developed by the NEMO consortium and embedded in NEMO
+- [ISBA-CC](https://gmd.copernicus.org/articles/8/1709/2015/): for continental biogeochemistry, developed at CNRM and embedded in [SURFEX v8.0](http://www.umr-cnrm.fr/surfex/)
+ 
+***Atmospheric chemistry and aerosols*** (CNRM-ESM2-1):
+
+- [TACTIC](https://gmd.copernicus.org/articles/8/501/2015/): for aerosols, developed at CNRM and embedded in [ARPEGE-Climat v6.3](https://www.umr-cnrm.fr/spip.php?article124&lang=en)
+- [REPROBUS](https://gmd.copernicus.org/articles/4/873/2011/) for chemistry, developed at CNRM and embedded in [ARPEGE-Climat v6.3](https://www.umr-cnrm.fr/spip.php?article124&lang=en)
+
+**ES-DOC model descriptions**
+
+- [CNRM-CM6-1](https://explore.es-doc.org/cmip6/models/cnrm-cerfacs/cnrm-cm6-1): the core model
+- [CNRM-ESM2-1](https://explore.es-doc.org/cmip6/models/cnrm-cerfacs/cnrm-esm2-1): the ESM version based on CNRM-CM6-1
+- CNRM-CM6-1-HR: the high resolution counterpart of CNRM-CM6-1 (not available)
+- [CNMR-CM5](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=CNRM-CM5&project=CMIP5): model from the 5th exercise 
 
 <hr style="border:2px solid gray">
 
@@ -79,8 +121,8 @@ The former version of the CMCC Earth System Model, referred to as CMCC Carbon Ea
 ![EC-EARTH](../images/EC-Earth-ESM.png)
 
 - **Modelling group**: EC-Earth consortium
-- **Website**: http://www.ec-earth.org
-- **Contact**: Shuting Yang (DMI, Head of EC-Earth Steering committee)
+- **Website**: [www.ec-earth.org](http://www.ec-earth.org)
+- **Contact**: Shuting Yang (DMI, Head of EC-Earth Steering committee): <shuting@dmi.dk>
 
 **IS-ENES3 services:**
 - **Level 1**: Basic model information and contact points at ENES Portal
@@ -114,7 +156,7 @@ Access to the code, documentation and support is limited to EC-Earth consortium 
 
 - **Modelling group**: IPSL
 - **Website**: [https://www.ipsl.fr/en/](https://www.ipsl.fr/en/home-en/)
-- **Contact**: Arnaud Caubel<arnaud.caubel@lsce.ipsl.fr>
+- **Contact**: Arnaud Caubel: <arnaud.caubel@lsce.ipsl.fr>
 
 **IS-ENES3 services:**
 - **Level 1**: Basic model information and contact points at ENES Portal
@@ -129,7 +171,7 @@ The **IPSL Climate Modelling Centre (IPSL-CMC)** is hosting a collaborative effo
 - [NEMO](https://www.nemo-ocean.eu/): representing the ocean, sea-ice and biogeochemical processes
 - [INCA](http://inca.lsce.ipsl.fr/index_UK.html): representing the atmospheric (tropospheric) chemistry and aerosols
 
-**ES-DOC model information**
+**ES-DOC model descriptions**
 - **CMIP6** configurations: [IPSL-CM6A-LR](https://explore.es-doc.org/cmip6/models/ipsl/ipsl-cm6a-lr)
 - **CMIP5** configurations: [IPSL-CM5A-LR](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=IPSL-CM5A-LR&project=CMIP5), [IPSL-CM5A-MR](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=IPSL-CM5A-MR&project=CMIP5)
 
@@ -143,7 +185,7 @@ The **IPSL Climate Modelling Centre (IPSL-CMC)** is hosting a collaborative effo
 
 - **Modelling group**: MPI-M
 - **Website**: [https://www.mpimet.mpg.de](https://www.mpimet.mpg.de)
-- **Contact**: Michael Botzet<michael.botzet@mpimet.mpg.de>
+- **Contact**: Michael Botzet: <michael.botzet@mpimet.mpg.de>
 
 **IS-ENES3 services:**
 - **Level 1**: Basic model information and contact points at ENES Portal
@@ -180,7 +222,7 @@ These components are coupled through the exchange of energy, momentum, water and
 
 - **Modelling group**: NERC and UK Met Office
 - **Website**: [ukesm.ac.uk](https://ukesm.ac.uk/)
-- **Contact**: UKESM Help desk<ukesm@ncas.ac.uk>
+- **Contact**: UKESM Help desk: <ukesm@ncas.ac.uk>
 
 **IS-ENES3 services:**
 - **Level 1**: Basic model information and contact points at ENES Portal
@@ -221,7 +263,7 @@ The renewed UKESM Long Term Science Multi-centre (LTSM) project is now formed by
 
 - **Modelling group**: Norwegian Climate Center
 - **Website**: see below for participating groups
-- **Contact**: NCC Help desk<noresm-ncc@met.no>
+- **Contact**: NCC Help desk: <noresm-ncc@met.no>
 
 **IS-ENES3 services**:
 - **Level 1**: Basic model information and contact points at ENES Portal
