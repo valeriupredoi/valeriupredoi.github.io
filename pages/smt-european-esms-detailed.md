@@ -207,10 +207,7 @@ These components are coupled through the exchange of energy, momentum, water and
 
 **ES-DOC model descriptions**
 - **CMIP6** configuration: [MPI-ESM1.2-HAM](https://explore.es-doc.org/cmip6/models/hammoz-consortium/mpi-esm-1-2-ham)
-- **CMIP5**  configurations:
-- [MPI-ESM-LR T63/L47-B1.5/L40](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=MPI-ESM-LR&project=CMIP5)
-- [MPI-ESM-MR T63/L95-T0.4/L40](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=MPI-ESM-MR&project=CMIP5)
-- [MPI-ESM-P as LR, no dyn. veg.](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=MPI-ESM-P&project=CMIP5)
+- **CMIP5**  configurations: [MPI-ESM-LR T63/L47-B1.5/L40](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=MPI-ESM-LR&project=CMIP5), [MPI-ESM-MR T63/L95-T0.4/L40](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=MPI-ESM-MR&project=CMIP5), [MPI-ESM-P as LR, no dyn. veg.](https://view.es-doc.org/?renderMethod=name&type=cim.1.software.ModelComponent&name=MPI-ESM-P&project=CMIP5)
 
 <hr style="border:2px solid gray">
 
