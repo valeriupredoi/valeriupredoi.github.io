@@ -54,6 +54,8 @@ The selection will be made by members of the OASIS Advisory Board. The instituti
 
 *Your personal data (name, surname, e-mail address) will be collected by CERFACS for selecting and maintaining your candidacy. The legal basis of the processing is Article 6 (1) lit. e General Data Protection Regulation (GDPR) . Your data might be shared among ISENES3 partners and will be deleted at the end of the IS-ENES3 project. In accordance with the European GDPR, you can ask for data rectification, data access and data erasure by contacting Eric Maisonnave (eric.maisonnave[at]cerfacs.fr).*
 
+**The results of the OASIS support call will be available in the deliverable D6.4.**
+
 <hr style="border:2px solid gray">
 
 ### <a name="cordex5"></a>5th call for Access to Advanced Analysis Platforms for CMIP6 and CORDEX
