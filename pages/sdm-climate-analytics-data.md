@@ -43,7 +43,7 @@ The ECAS is a service with institutional-based deployments addressing national r
 
 Visit the service FAQs [PAGE TO BE CREATED] and find our contact and the link to use cases.
 
-**Important note**: unfortunately we cannot offer unlimited resources. The ECAS only provides computer resources for pre- and post-processing (not suitable for simulation runs) in shared computing nodes. If you would like to use exclusive extensive resources, please apply to our Analysis Platforms service. 
+**Important note**: unfortunately we cannot offer unlimited resources. The ECAS only provides computer resources for pre- and post-processing (not suitable for simulation runs) in shared computing nodes. If you would like to use exclusive extensive resources, please apply to our [Analysis Platforms service](https://valeriupredoi.github.io/sdm-analysis-platforms-service). 
 
 Find training material and useful scripts [here](https://github.com/IS-ENES-Data/Climate-data-analysis-service) and the list of recorded videos of the demos in the IS-ENES3 Youtube channel [here](https://www.youtube.com/playlist?list=PLFvev1W5vG7P1VGITP3ys1GpXnhL--jIc).
 
