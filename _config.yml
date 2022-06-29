@@ -41,7 +41,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 urlimg: 'https://valeriupredoi.github.io/images/'
 
 
-# Logo size is 600x80 pixels
+# This plops a logo on the front banner, unwanted and ugly
 # logo: "logo.png"
 
 # Plugins
