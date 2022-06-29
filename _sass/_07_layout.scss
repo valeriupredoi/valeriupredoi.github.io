@@ -58,10 +58,10 @@ body.video cite { color: #fff; }
 
 /* Search
 ------------------------------------------------------------------- */
-
-.no-js form#search {
-  display: none;
-}
+// tryMobile
+// .no-js form#search {
+//   display: none;
+// }
 
 
 
@@ -94,8 +94,10 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 @media #{$small-only} {
+    // tryMobile
     #logo img {
-        display: none;
+        margin-top: 30px;
+    //    display: none;
     }
     #masthead {
         height: 200px;
@@ -111,9 +113,9 @@ body.video cite { color: #fff; }
         padding: 20px 0;  // original 30px
         font-size: rem-calc(36);
     }
-    #masthead-no-image-header {
-        display: none;
-    }
+    //#masthead-no-image-header {
+    //    display: none;
+    //}
 }
 
 
