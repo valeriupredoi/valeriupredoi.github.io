@@ -4,7 +4,7 @@ layout: page
 title: ENES Model Data
 # uncomment these if needed
 # subheadline: 
-# teaser: "Empty Template."
+# teaser: 
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/sdm-which-model-data-detailed/"
@@ -87,7 +87,7 @@ Find here the instructions to access CORDEX data at ESGF portals. Besides, the r
 **CORDEX Errata**
 Errata: Known Issues with CORDEX data at DKRZ [BROKEN LINK]
 
-### <a name="cmip3-detailed"></a>CMIP3/AR4
+### <a name="cmip3-detailed"></a>CMIP3 & AR4
 
 **The Coupled Model Intercomparison Project Phase three, provided the scientific basis for the IPCC Fourth Assessment Report (AR4).**
 
