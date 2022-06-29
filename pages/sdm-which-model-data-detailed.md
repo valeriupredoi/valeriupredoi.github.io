@@ -1,9 +1,9 @@
 ---
 # change Empty Template and empty-template below
 layout: page
-title: Empty Template
+title: ENES Model Data
 # uncomment these if needed
-# subheadline: Empty Template
+# subheadline: 
 # teaser: "Empty Template."
 header:
    image_fullwidth: "header_homepage_13.jpg"
