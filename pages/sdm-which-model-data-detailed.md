@@ -67,7 +67,7 @@ CMIP5 data are also accessible via the IPCC Data Distribution Center (DDC).
 
 <hr style="border:2px solid gray">
 
-### <a name="cordex-detailed"></a>CORDEX
+### <a name="cordex-detailed"></a>CORDEX-CMIP5
 
 **Information on the data from the COordinated Regional climate Downscaling EXperiment - CORDEX**
 
