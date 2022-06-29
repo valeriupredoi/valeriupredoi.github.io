@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "About the IS-ENES3 Project"
-subheadline: "An introduction to ISENES3"
+subheadline: 
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/about-isenes3/"
@@ -23,7 +23,7 @@ widget1:
   title: "Objectives"
   url: 'https://valeriupredoi.github.io/objectives/'
   image: Banner_website_IS-ENES3.png
-  text: 'IS-ENES3 is divided into 4 main objectives.'
+  text: 'IS-ENES3 is divided into 3 main objectives.'
 widget2:
   title: "Description of Work"
   url: 'https://valeriupredoi.github.io/description-of-work/'
