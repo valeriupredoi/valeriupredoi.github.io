@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Description of Work
-subheadline: ISENES3 Work Summary
+subheadline:
 # teaser: The work we do in ISENES3
 header:
    image_fullwidth: "header_homepage_13.jpg"
@@ -23,7 +23,13 @@ header:
 
 ---
 
-IS-ENES3 is structured into 10 work packages, 4 Networking Activities (NA), 2 Service Activities (SA), 3 Joint Research Activities (JRA) and one work package dedicated to the project coordination & management. One virtual work package is dedicated to Innovation.
+IS-ENES3 is structured into 10 work packages:
+
+- 4 Networking Activities (NA)
+- 2 Service Activities (Virtual Access - VA and Trans-national Access -TNA)
+- 3 Joint Research Activities (JRA) 
+- One work package dedicated to the project coordination & management 
+- One virtual work package is dedicated to Innovation
 
 *Here is a schematic representation of IS-ENES3 objectives and organisation of work packages:*
 
