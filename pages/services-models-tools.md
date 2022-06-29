@@ -24,7 +24,7 @@ widget1:
   image: Banner_website_IS-ENES3.png
   # text: 'IS-ENES3 is divided into 4 main objectives.'
 widget2:
-  title: "European Ocean Platform"
+  title: "NEMO European Ocean Platform"
   url: 'https://valeriupredoi.github.io/smt-european-ocean-platform/'
   image: Banner_website_IS-ENES3.png
   # text: 'Detailed description of the project Work Packages.'

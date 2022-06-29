@@ -32,18 +32,17 @@ homepage: true
 ---
 
 ## Welcome to the IS-ENES3 project
-### Infrastructure for the European Network for Earth System Modelling (2019 - 2022)
+### Infrastructure for the European Network for Earth System Modelling (01/2019 – 03/2023)
 
-IS-ENES3, an Horizon 2020 project, is the third phase of the distributed e-infrastructure of the European Network for Earth System Modelling (ENES).
+IS-ENES3, an Horizon 2020 project, is the third phase of the distributed e-infrastructure of the European Network for Earth System Modelling (ENES). 
 
-The project fosters collaboration between twenty-two European climate research institutions.
+IS-ENES3: 
+-	delivers the research infrastructure providing access to climate model data and tools to boost the understanding of past, present and future climate variability and changes.
+-	contributes to speeding up the development and use of models of the Earth’s complex climate system in Europe by sharing models, tools and expertise.
+-	supports the international standards and data services of the World Climate Research Program coordinated experiments for global and regional climate models **[CMIP](https://www.wcrp-climate.org/wgcm-cmip)** (Coupled Model Intercomparison Project), with a focus on CMIP6, and **[CORDEX](https://cordex.org/)** (Coordinated Regional Climate Downscaling Experiments). 
 
-The community aims to develop a better understanding of past and present-day climate and to project future variability and changes through the development and sharing of model components, modelling tools and data infrastructure.
+The project gathers 22 partners, combining expertise in climate modelling, computational science, data management, climate impacts and climate services.  
 
-The IS-ENES3 three main objectives are to: 
-- Foster collaboration among the modelling groups to speed-up the development and use of models of the complex Earth’s climate system, namely “Earth System models” (ESMs)
-- Deliver common strategies for the research infrastructure
-- Disseminate model data
 
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">

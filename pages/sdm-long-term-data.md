@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Long-term Archive
-subheadline: IPCC-DDC and long-term archive
 # teaser: "ISENES3 workshops are wonderous."
 header:
    image_fullwidth: "header_homepage_13.jpg"
@@ -22,7 +21,6 @@ header:
     image_fullwidth: "Banner_website_IS-ENES3.png"
 
 ---
-### Long-term Archive
 
 ### IPCC Data Distribution Centre
 
