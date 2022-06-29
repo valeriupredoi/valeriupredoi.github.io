@@ -36,5 +36,5 @@ The Coupled Model Intercomparison Project Phase 5 and a subset of its results us
 ### [CORDEX-CMIP5](https://valeriupredoi.github.io/sdm-which-model-data-detailed#cordex-detailed)
 The Coordinated Regional Climate Downscaling Experiment
 
-### [CMIP3/AR4](https://valeriupredoi.github.io/sdm-which-model-data-detailed#cmip3-detailed)
-A subset of the Coupled Model Intercomparison Project Phase 3 results providing the scientific basis for the IPCC 4th Assessment Report (AR3).
+### [CMIP3 & AR4](https://valeriupredoi.github.io/sdm-which-model-data-detailed#cmip3-detailed)
+A subset of the Coupled Model Intercomparison Project Phase 3 results providing the scientific basis for the IPCC 4th Assessment Report (AR4).
