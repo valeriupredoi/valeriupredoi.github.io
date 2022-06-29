@@ -24,9 +24,9 @@ header:
 
 IS-ENES3 has three main objectives: 
 
--	**Pursue the integration of the Earth’s climate system modelling community and prepare the sustainability of its infrastructure**
--	**Foster the common development of models and tools, and the efficient use of High-Performance Computing (HPC)**
--	**Support the exploitation of model data by the Earth system science community, the climate change impact community and the climate service community.**
+-	Pursue the integration of the Earth’s climate system modelling community and prepare the sustainability of its infrastructure
+-	Foster the common development of models and tools, and the efficient use of High-Performance Computing (HPC)
+-	Support the exploitation of model data by the Earth system science community, the climate change impact community and the climate service community.
 
 
 
