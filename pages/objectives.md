@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Objectives
-subheadline: "About the aims and objectives of the Project"
+subheadline: 
 # teaser: "This tells you all about ISENES3 sciencey shtuffs."
 header:
    image_fullwidth: "header_homepage_13.jpg"
@@ -21,9 +21,16 @@ header:
     #caption_url: https://unsplash.com/
     image_fullwidth: "Banner_website_IS-ENES3.png"
 ---
-**IS-ENES3 will:**
 
-**Pursue the integration of the Earth’s climate system modelling community and will prepare the sustainability of its infrastructure.**
+IS-ENES3 has three main objectives: 
+| -	**Pursue the integration of the Earth’s climate system modelling community and prepare the sustainability of its infrastructure**
+-	**Foster the common development of models and tools, and the efficient use of HPC**
+-	**Support the exploitation of model data by the Earth system science community, the climate change impact community and the climate service community.** |
+
+
+In more details, these three objectives include: 
+
+**Pursue the integration of the Earth’s climate system modelling community and prepare the sustainability of its infrastructure.**
 
 - Establish stronger ties with parties either underrepresented within, or relatively new to, the ENES community, in particular through training and schools (e.g. groups in Eastern Europe and the impact modelling community);
 - Build on existing governance and communication activities to prepare a sustainable infrastructure by developing a robust stakeholder consensus on downstream user requirements;
