@@ -87,7 +87,78 @@ p.button a {
    top of page menu. The logic is copied from
    https://css-tricks.com/hash-tag-links-padding/
 ------------------------------------------------------------------- */
+// these all commented out are original template options
+//h1, h2, h3, h4, h5, h6 {
+//    font-family: $header-font-family;
+//    font-weight: normal;
+//    padding: 0;
+//}
 
+//h1 {
+//    font-size: $font-size-h1;
+//    margin-top: 0;
+//}
+//h1::before { 
+//  display: block; 
+//  content: " "; 
+//  margin-top: -60px; 
+//  height: 60px; 
+//  visibility: hidden; 
+//  pointer-events: none;
+//}
+//h2 {
+//    font-size: $font-size-h2;
+//    margin: 1.563em 0 0 0;
+//}
+//    .blog-index h2 {
+//        margin-top: 0;
+//   }
+//h2::before { 
+//  display: block; 
+//  content: " "; 
+//  margin-top: -60px; 
+//  height: 60px; 
+//  visibility: hidden; 
+//  pointer-events: none;
+//}
+//h3 {
+//    font-size: $font-size-h3;
+//    margin: 1.152em 0 0 0;
+//}
+//h3::before { 
+//  display: block; 
+//  content: " "; 
+//  margin-top: -50px; 
+//  height: 50px; 
+//  visibility: hidden; 
+//  pointer-events: none;
+//}
+//h4 {
+//    font-size: $font-size-h4;
+//    margin: 1.152em 0 0 0;
+//}
+//h4::before { 
+//  display: block; 
+//  content: " "; 
+//  margin-top: -50px; 
+//  height: 50px; 
+//  visibility: hidden; 
+//  pointer-events: none;
+//}
+//h5 {
+//    font-size: $font-size-h5;
+//    margin: 1em 0 0 0;
+//}
+//h5::before { 
+//  display: block; 
+//  content: " "; 
+//  margin-top: -50px; 
+//  height: 50px; 
+//  visibility: hidden; 
+//  pointer-events: none;
+//}
+
+// options from CMS Website https://github.com/NCAS-CMS/cms-website
 h1, h2, h3, h4, h5, h6 {
     font-family: $header-font-family;
     font-weight: normal;
@@ -98,14 +169,6 @@ h1 {
     font-size: $font-size-h1;
     margin-top: 0;
 }
-h1::before { 
-  display: block; 
-  content: " "; 
-  margin-top: -60px; 
-  height: 60px; 
-  visibility: hidden; 
-  pointer-events: none;
-}
 h2 {
     font-size: $font-size-h2;
     margin: 1.563em 0 0 0;
@@ -113,52 +176,18 @@ h2 {
     .blog-index h2 {
         margin-top: 0;
     }
-h2::before { 
-  display: block; 
-  content: " "; 
-  margin-top: -60px; 
-  height: 60px; 
-  visibility: hidden; 
-  pointer-events: none;
-}
 h3 {
     font-size: $font-size-h3;
     margin: 1.152em 0 0 0;
-}
-h3::before { 
-  display: block; 
-  content: " "; 
-  margin-top: -50px; 
-  height: 50px; 
-  visibility: hidden; 
-  pointer-events: none;
 }
 h4 {
     font-size: $font-size-h4;
     margin: 1.152em 0 0 0;
 }
-h4::before { 
-  display: block; 
-  content: " "; 
-  margin-top: -50px; 
-  height: 50px; 
-  visibility: hidden; 
-  pointer-events: none;
-}
 h5 {
     font-size: $font-size-h5;
     margin: 1em 0 0 0;
 }
-h5::before { 
-  display: block; 
-  content: " "; 
-  margin-top: -50px; 
-  height: 50px; 
-  visibility: hidden; 
-  pointer-events: none;
-}
-
-
 
 /* Images
 ------------------------------------------------------------------- */
