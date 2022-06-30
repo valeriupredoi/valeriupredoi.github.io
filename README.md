@@ -1,3 +1,7 @@
+# THIS REPO IS OBSOLETE
+
+Please see the actual, permanent site at <https://is-enes3.github.io/IS-ENES-Website/>, with source code at <https://github.com/IS-ENES3/IS-ENES-Website>. This domain will be removed in a while.
+
 # ISENES3 Web Site Test Domain
 
 This site (see deployment at https://valeriupredoi.github.io/ ) uses the [Feeling Responsive](https://phlow.github.io/feeling-responsive/) template. It is
