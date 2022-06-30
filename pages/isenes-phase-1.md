@@ -21,30 +21,30 @@ header:
     #caption_url: https://unsplash.com/
     image_fullwidth: "Banner_website_IS-ENES3.png"
 widget1:
-  title: "About"
+  title: "The project"
   url: 'https://valeriupredoi.github.io/isenes-phase-1-project/'
   image: Banner_website_IS-ENES3.png
-  text: 'Phase 1 About.'
+
 widget2:
   title: "Deliverables and Milestones"
   url: 'https://valeriupredoi.github.io/isenes-phase-1-deliverables/'
   image: Banner_website_IS-ENES3.png
-  text: 'Phase 1 Deliverables and Milestones.'
+
 widget3:
   title: "Publications"
   url: 'https://valeriupredoi.github.io/isenes-phase-1-publications/'
   image: Banner_website_IS-ENES3.png
-  text: 'Phase 1 Publications.'
+
 widget4:
   title: "Final Report"
   url: 'https://valeriupredoi.github.io/isenes-phase-1-final-report/'
   image: Banner_website_IS-ENES3.png
-  text: 'Phase 1 Final Report.'
+
 widget5:
   title: "Strategy"
   url: 'https://valeriupredoi.github.io/isenes-phase-1-strategy/'
   image: Banner_website_IS-ENES3.png
-  text: 'Phase 1 Strategy.'
+
 
 ---
 
