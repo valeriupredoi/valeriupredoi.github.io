@@ -25,7 +25,7 @@ header:
 
 The ENES infrastructure project (IS-ENES) provides to data producers and managers tools and information on the quality of the datasets hosted at the ESGF portals.
 
-- **Data Ingestion**: the [ESGF data ingestion steps](#dataingestion) provide guidance on how to publish data to ESGF.
+- **Data Ingestion**: the [ESGF data ingestion steps](#dataingestion) provides guidance on how to publish data to ESGF.
 - **Data Quality**:
 The Quality Assurance tool [QA-DKRZ](https://qa-dkrz.readthedocs.io/en/latest/) checks conformance of meta-data of climate simulations given in NetDCF format with CF Conventions, CORDEX, [CMIP5 and 6](#dataquality) conventions and rules.
 - **Data Citation**:
