@@ -31,6 +31,10 @@ permalink: /index.html
 homepage: true
 ---
 
+# THIS DOMAIN IS NOW OBSOLETE
+
+Please see the actual, permanent site at <https://is-enes3.github.io/IS-ENES-Website/>, with source code at <https://github.com/IS-ENES3/IS-ENES-Website>. This domain will be removed in a while.
+
 ## Welcome to the IS-ENES3 project
 ### Infrastructure for the European Network for Earth System Modelling (01/2019 – 03/2023)
 
