@@ -1,6 +1,6 @@
 # THIS REPO IS OBSOLETE
 
-Please see the actual, permanent site at <https://is-enes3.github.io/IS-ENES-Website/>, with source code at <https://github.com/IS-ENES3/IS-ENES-Website>. This domain will be removed in a while.
+Please see the actual, permanent site migrated at <https://is.enes.org/> attached to new IS-ENES GH project <https://github.com/IS-ENES3>. This domain will be removed on August 1st, 2022.
 
 # ISENES3 Web Site Test Domain
 
